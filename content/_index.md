@@ -14,8 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Web, Information Retrieval / Natural Language Processing Group (WING)** explores the research area of applied language processing and information retrieval to the Web and related technologies. Areas of current interest are question answering, scholarly digital libraries, verb similarity, focused crawling, citation parsing and spidering, web page classification and division, text segmentation, and full text analysis. WING is headed by A/P Min-Yen KAN. We are based in the Computational Linguistics Laboratory of the School of Computing at the National University of Singapore. We often work with the Natural Language Processing Group and the (Lab for Media Search)[http://lms.comp.nus.edu.sg/]. We are part of the Media Technologies research group umbrella.
   
   - block: collection
     content:
