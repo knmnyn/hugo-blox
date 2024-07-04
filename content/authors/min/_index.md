@@ -14,8 +14,8 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: National University of Singapore
-    url: ''
+  - name: National University of Singapore, School of Computing
+    url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
