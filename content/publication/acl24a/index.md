@@ -42,7 +42,7 @@ url_code: 'https://github.com/sail-sg/lm-random-memory-access'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'A illustration of our investigation of memory access pattern in language models. We find that the model accesses its parametric memory largely in a sequential manner, and faces difficulty in randomly ac- cessing the content in the middle of memorized strings.'
+  caption: 'A illustration of our investigation of memory access pattern in language models. We find that the model accesses its parametric memory largely in a sequential manner, and faces difficulty in randomly accessing the content in the middle of memorized strings.'
   preview_only: false
 
 # Associated Projects (optional).
