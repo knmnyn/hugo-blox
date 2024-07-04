@@ -1,12 +1,16 @@
 ---
 title: 'An example conference paper'
-
+# Tongyao Zhu, Qian Liu, Liang Pang, Zhengbao Jiang, Min-Yen Kan and Min Lin (2024) Beyond Memorization: The Challenge of Random Memory Access in Language Models. In Proceedings of the Annual Meeting fof the Association of Computational Linguistics (ACL '24).
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Tongyao Zhu
+  - Qian Liu
+  - Liang Pang
+  - Zhengbao Jiang
   - admin
-  - Robert Ford
+  - 
 
 # Author notes (optional)
 author_notes:
@@ -33,7 +37,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [nlp]
 
 # Display this page in the Featured widget?
 featured: true
