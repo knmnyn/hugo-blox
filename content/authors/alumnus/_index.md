@@ -3,8 +3,8 @@
 title: Somebody
 
 # Full Name (for SEO)
-first_name: Min-Yen
-last_name: Kan
+first_name: Somebody
+last_name: Somewhere
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,9 +14,9 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: house
-    icon_pack: fas
-    link: https://www.comp.nus.edu.sg/~kanmy/
+  # - icon: house
+  #  icon_pack: fas
+  #  link: https://www.comp.nus.edu.sg/~kanmy/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
