@@ -1,0 +1,234 @@
+@inproceedings{han-etal-2024-self,
+    title = "Self-Adaptive Sampling for Accurate Video Question Answering on Image Text Models",
+    author = "Han, Wei  and
+      Chen, Hui  and
+      Kan, Min-Yen  and
+      Poria, Soujanya",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.162",
+    pages = "2522--2534",
+    abstract = "Image{--}text models (ITMs) is the prevalent architecture to solve video question{--}answering tasks, which requires only a few input frames to save huge computational cost compared to video{--}language models.However, we find existent ITM video question{--}answering solutions either 1) adopt simplistic and unintentional sampling strategies, which may miss key frames to offer the answer clues; or 2) sample a large number of frames into divided groups, which the computational sources can not accommodate. In this work, we aim at an efficient sampling method towards the few-frame situations.We first summarize a family of prior sampling methods based on question{--}frame correlation into a unified one, dubbed *Most Implied Frames* (MIF). Through some primary results and analysis, Through analysis, we form a hypothesis that question-aware sampling is not necessary, from which we further propose the other method *Most Dominant Frames* (MDF).Experimental results on four public datasets and three advanced ITMs demonstrate that our proposed strategies can boost the performance for image{--}text pretrained models, and have a wide application scenario in terms of model architectures and dataset types. Our code is available at https://github.com/declare-lab/Sealing\url{https://github.com/declare-lab/Sealing}.",
+}
+
+@inproceedings{aksu-etal-2022-n,
+    title = "N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking",
+    author = "Aksu, Ibrahim  and
+      Liu, Zhengyuan  and
+      Kan, Min-Yen  and
+      Chen, Nancy",
+    editor = "Muresan, Smaranda  and
+      Nakov, Preslav  and
+      Villavicencio, Aline",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.131",
+    doi = "10.18653/v1/2022.findings-acl.131",
+    pages = "1659--1671",
+    abstract = "Augmentation of task-oriented dialogues has followed standard methods used for plain-text such as back-translation, word-level manipulation, and paraphrasing despite its richly annotated structure. In this work, we introduce an augmentation framework that utilizes belief state annotations to match turns from various dialogues and form new synthetic dialogues in a bottom-up manner. Unlike other augmentation strategies, it operates with as few as five examples. Our augmentation strategy yields significant improvements when both adapting a DST model to a new domain, and when adapting a language model to the DST task, on evaluations with TRADE and TOD-BERT models. Further analysis shows that our model performs better on seen values during training, and it is also more robust to unseen values. We conclude that exploiting belief state annotations enhances dialogue augmentation and results in improved models in n-shot training scenarios.",
+}
+
+@inproceedings{zhang-etal-2022-interpreting,
+    title = "Interpreting the Robustness of Neural {NLP} Models to Textual Perturbations",
+    author = "Zhang, Yunxiang  and
+      Pan, Liangming  and
+      Tan, Samson  and
+      Kan, Min-Yen",
+    editor = "Muresan, Smaranda  and
+      Nakov, Preslav  and
+      Villavicencio, Aline",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.315",
+    doi = "10.18653/v1/2022.findings-acl.315",
+    pages = "3993--4007",
+    abstract = "Modern Natural Language Processing (NLP) models are known to be sensitive to input perturbations and their performance can decrease when applied to real-world, noisy data. However, it is still unclear why models are less robust to some perturbations than others. In this work, we test the hypothesis that the extent to which a model is affected by an unseen textual perturbation (robustness) can be explained by the learnability of the perturbation (defined as how well the model learns to identify the perturbation with a small amount of evidence). We further give a causal justification for the learnability metric. We conduct extensive experiments with four prominent NLP models {---} TextRNN, BERT, RoBERTa and XLNet {---} over eight types of textual perturbations on three datasets. We show that a model which is better at identifying a perturbation (higher learnability) becomes worse at ignoring such a perturbation at test time (lower robustness), providing empirical support for our hypothesis.",
+}
+
+@inproceedings{dou-etal-2022-towards,
+    title = "Towards Knowledge-Intensive Text-to-{SQL} Semantic Parsing with Formulaic Knowledge",
+    author = "Dou, Longxu  and
+      Gao, Yan  and
+      Liu, Xuqi  and
+      Pan, Mingyang  and
+      Wang, Dingzirui  and
+      Che, Wanxiang  and
+      Zhan, Dechen  and
+      Kan, Min-Yen  and
+      Lou, Jian-Guang",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.350",
+    doi = "10.18653/v1/2022.emnlp-main.350",
+    pages = "5240--5253",
+    abstract = "In this paper, we study the problem of knowledge-intensive text-to-SQL, in which domain knowledge is necessary to parse expert questions into SQL queries over domain-specific tables. We formalize this scenario by building a new benchmark KnowSQL consisting of domain-specific questions covering various domains. We then address this problem by representing formulaic knowledge rather than by annotating additional data examples. More concretely, we construct a formulaic knowledge bank as a domain knowledge base and propose a framework (ReGrouP) to leverage this formulaic knowledge during parsing. Experiments using ReGrouP demonstrate a significant 28.2{\%} improvement overall on KnowSQL.",
+}
+
+@inproceedings{han-etal-2022-mm,
+    title = "{MM}-Align: Learning Optimal Transport-based Alignment Dynamics for Fast and Accurate Inference on Missing Modality Sequences",
+    author = "Han, Wei  and
+      Chen, Hui  and
+      Kan, Min-Yen  and
+      Poria, Soujanya",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.717",
+    doi = "10.18653/v1/2022.emnlp-main.717",
+    pages = "10498--10511",
+    abstract = "Existing multimodal tasks mostly target at the complete input modality setting, i.e., each modality is either complete or completely missing in both training and test sets. However, the randomly missing situations have still been underexplored. In this paper, we present a novel approach named MM-Align to address the missing-modality inference problem. Concretely, we propose 1) an alignment dynamics learning module based on the theory of optimal transport (OT) for missing data imputation; 2) a denoising training algorithm to enhance the quality of imputation as well as the accuracy of model predictions. Compared with previous generative methods which devote to restoring the missing inputs, MM-Align learns to capture and imitate the alignment dynamics between modality sequences. Results of comprehensive experiments on two multimodal tasks empirically demonstrate that our method can perform more accurate and faster inference and alleviate the overfitting issue under different missing conditions.",
+}
+
+@inproceedings{jain-etal-2022-comparative,
+    title = "Comparative Snippet Generation",
+    author = "Jain, Saurabh  and
+      Miao, Yisong  and
+      Kan, Min-Yen",
+    editor = "Malmasi, Shervin  and
+      Rokhlenko, Oleg  and
+      Ueffing, Nicola  and
+      Guy, Ido  and
+      Agichtein, Eugene  and
+      Kallumadi, Surya",
+    booktitle = "Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 5)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.ecnlp-1.7",
+    doi = "10.18653/v1/2022.ecnlp-1.7",
+    pages = "49--57",
+    abstract = "We model products{'} reviews to generate comparative responses consisting of positive and negative experiences regarding the product. Specifically, we generate a single-sentence, comparative response from a given positive and a negative opinion. We contribute the first dataset for this task of Comparative Snippet Generation from contrasting opinions regarding a product, and an analysis of performance of a pre-trained BERT model to generate such snippets.",
+}
+
+@inproceedings{xu-etal-2022-corefdiffs,
+    title = "{C}oref{D}iffs: Co-referential and Differential Knowledge Flow in Document Grounded Conversations",
+    author = "Xu, Lin  and
+      Zhou, Qixian  and
+      Fu, Jinlan  and
+      Kan, Min-Yen  and
+      Ng, See-Kiong",
+    editor = "Calzolari, Nicoletta  and
+      Huang, Chu-Ren  and
+      Kim, Hansaem  and
+      Pustejovsky, James  and
+      Wanner, Leo  and
+      Choi, Key-Sun  and
+      Ryu, Pum-Mo  and
+      Chen, Hsin-Hsi  and
+      Donatelli, Lucia  and
+      Ji, Heng  and
+      Kurohashi, Sadao  and
+      Paggio, Patrizia  and
+      Xue, Nianwen  and
+      Kim, Seokhwan  and
+      Hahm, Younggyun  and
+      He, Zhong  and
+      Lee, Tony Kyungil  and
+      Santus, Enrico  and
+      Bond, Francis  and
+      Na, Seung-Hoon",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.38",
+    pages = "471--484",
+    abstract = "Knowledge-grounded dialog systems need to incorporate smooth transitions among knowledge selected for generating responses, to ensure that dialog flows naturally. For document-grounded dialog systems, the inter- and intra-document knowledge relations can be used to model such conversational flows. We develop a novel Multi-Document Co-Referential Graph (Coref-MDG) to effectively capture the inter-document relationships based on commonsense and similarity and the intra-document co-referential structures of knowledge segments within the grounding documents. We propose CorefDiffs, a Co-referential and Differential flow management method, to linearize the static Coref-MDG into conversational sequence logic. CorefDiffs performs knowledge selection by accounting for contextual graph structures and the knowledge difference sequences. CorefDiffs significantly outperforms the state-of-the-art by 9.5{\%}, 7.4{\%} and 8.2{\%} on three public benchmarks. This demonstrates that the effective modeling of co-reference and knowledge difference for dialog flows are critical for transitions in document-grounded conversation.",
+}
+
+@inproceedings{ramesh-kashyap-etal-2022-different,
+    title = "So Different Yet So Alike! Constrained Unsupervised Text Style Transfer",
+    author = "Ramesh Kashyap, Abhinav  and
+      Hazarika, Devamanyu  and
+      Kan, Min-Yen  and
+      Zimmermann, Roger  and
+      Poria, Soujanya",
+    editor = "Muresan, Smaranda  and
+      Nakov, Preslav  and
+      Villavicencio, Aline",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.32",
+    doi = "10.18653/v1/2022.acl-long.32",
+    pages = "416--431",
+    abstract = "Automatic transfer of text between domains has become popular in recent times. One of its aims is to preserve the semantic content while adapting to the target domain. However, it does not explicitly maintain other attributes between the source and translated text: e.g., text length and descriptiveness. Maintaining constraints in transfer has several downstream applications, including data augmentation and debiasing. We introduce a method for such constrained unsupervised text style transfer by introducing two complementary losses to the generative adversarial network (GAN) family of models. Unlike the competing losses used in GANs, we introduce cooperative losses where the discriminator and the generator cooperate and reduce the same loss. The first is a contrastive loss and the second is a classification loss {---} aiming to regularize the latent space further and bring similar sentences closer together. We demonstrate that such training retains lexical, syntactic and domain-specific constraints between domains for multiple benchmark datasets, including ones where more than one attribute change. We show that the complementary cooperative losses improve text quality, according to both automated and human evaluation measures.",
+}
+
+@inproceedings{qin-etal-2022-gl,
+    title = "{GL}-{CL}e{F}: A Global{--}Local Contrastive Learning Framework for Cross-lingual Spoken Language Understanding",
+    author = "Qin, Libo  and
+      Chen, Qiguang  and
+      Xie, Tianbao  and
+      Li, Qixin  and
+      Lou, Jian-Guang  and
+      Che, Wanxiang  and
+      Kan, Min-Yen",
+    editor = "Muresan, Smaranda  and
+      Nakov, Preslav  and
+      Villavicencio, Aline",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.191",
+    doi = "10.18653/v1/2022.acl-long.191",
+    pages = "2677--2686",
+    abstract = "Due to high data demands of current methods, attention to zero-shot cross-lingual spoken language understanding (SLU) has grown, as such approaches greatly reduce human annotation effort. However, existing models solely rely on shared parameters, which can only perform implicit alignment across languages. We present Global-Local Contrastive Learning Framework (GL-CLeF) to address this shortcoming. Specifically, we employ contrastive learning, leveraging bilingual dictionaries to construct multilingual views of the same utterance, then encourage their representations to be more similar than negative example pairs, which achieves to explicitly align representations of similar sentences across languages. In addition, a key step in GL-CLeF is a proposed Local and Global component, which achieves a fine-grained cross-lingual transfer (i.e., sentence-level Local intent transfer, token-level Local slot transfer, and semantic-level Global transfer across intent and slot). Experiments on MultiATIS++ show that GL-CLeF achieves the best performance and successfully pulls representations of similar sentences across languages closer.",
+}
+
+@inproceedings{aksu-etal-2021-velocidapter,
+    title = "Velocidapter: Task-oriented Dialogue Comprehension Modeling Pairing Synthetic Text Generation with Domain Adaptation",
+    author = "Aksu, Ibrahim Taha  and
+      Liu, Zhengyuan  and
+      Kan, Min-Yen  and
+      Chen, Nancy",
+    editor = "Li, Haizhou  and
+      Levow, Gina-Anne  and
+      Yu, Zhou  and
+      Gupta, Chitralekha  and
+      Sisman, Berrak  and
+      Cai, Siqi  and
+      Vandyke, David  and
+      Dethlefs, Nina  and
+      Wu, Yan  and
+      Li, Junyi Jessy",
+    booktitle = "Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    month = jul,
+    year = "2021",
+    address = "Singapore and Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.sigdial-1.14",
+    doi = "10.18653/v1/2021.sigdial-1.14",
+    pages = "133--143",
+    abstract = "We introduce a synthetic dialogue generation framework, Velocidapter, which addresses the corpus availability problem for dialogue comprehension. Velocidapter augments datasets by simulating synthetic conversations for a task-oriented dialogue domain, requiring a small amount of bootstrapping work for each new domain. We evaluate the efficacy of our framework on a task-oriented dialogue comprehension dataset, MRCWOZ, which we curate by annotating questions for slots in the restaurant, taxi, and hotel domains of the MultiWOZ 2.2 dataset (Zang et al., 2020). We run experiments within a low-resource setting, where we pretrain a model on SQuAD, fine-tuning it on either a small original data or on the synthetic data generated by our framework. Velocidapter shows significant improvements using both the transformer-based BERTBase and BiDAF as base models. We further show that the framework is easy to use by novice users and conclude that Velocidapter can greatly help training over task-oriented dialogues, especially for low-resourced emerging domains.",
+}
+
