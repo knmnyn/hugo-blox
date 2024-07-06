@@ -4,7 +4,7 @@ title: 'MM-Align: Learning Optimal Transport-based Alignment Dynamics for Fast a
 authors:
 - Wei Han
 - Hui Chen
-- Min-Yen Kan
+- min
 - Soujanya Poria
 date: '2022-12-01'
 publishDate: '2024-07-05T17:09:42.610472Z'

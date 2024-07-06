@@ -8,7 +8,7 @@ authors:
 - Dingzirui Wang
 - Wanxiang Che
 - Dechen Zhan
-- Min-Yen Kan
+- min
 - Jian-Guang Lou
 date: '2022-12-01'
 publishDate: '2024-07-05T17:09:42.603419Z'

@@ -4,7 +4,7 @@ title: Self-Adaptive Sampling for Accurate Video Question Answering on Image Tex
 authors:
 - Wei Han
 - Hui Chen
-- Min-Yen Kan
+- min
 - Soujanya Poria
 date: '2024-06-01'
 publishDate: '2024-07-05T17:09:42.578623Z'
