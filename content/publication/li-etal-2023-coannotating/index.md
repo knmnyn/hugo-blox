@@ -5,7 +5,7 @@ authors:
 - Minzhi Li
 - Taiwei Shi
 - Caleb Ziems
-- Min-Yen Kan
+- min
 - Nancy Chen
 - Zhengyuan Liu
 - Diyi Yang

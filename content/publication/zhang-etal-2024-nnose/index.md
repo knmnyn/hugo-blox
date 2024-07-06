@@ -3,7 +3,7 @@ title: 'NNOSE: Nearest Neighbor Occupational Skill Extraction'
 authors:
 - Mike Zhang
 - Rob van der Goot
-- Min-Yen Kan
+- min
 - Barbara Plank
 date: '2024-03-01'
 publishDate: '2024-07-06T02:22:24.520030Z'

@@ -3,7 +3,7 @@ title: Understanding Ethics in NLP Authoring and Reviewing
 authors:
 - Luciana Benotti
 - Karën Fort
-- Min-Yen Kan
+- min
 - Yulia Tsvetkov
 date: '2023-05-01'
 publishDate: '2024-07-06T02:22:24.603387Z'

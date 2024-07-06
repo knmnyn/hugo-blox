@@ -3,7 +3,7 @@ title: 'Songs Across Borders: Singable and Controllable Neural Lyric Translation
 authors:
 - Longshen Ou
 - Xichu Ma
-- Min-Yen Kan
+- min
 - Ye Wang
 date: '2023-07-01'
 publishDate: '2024-07-06T02:22:24.625493Z'

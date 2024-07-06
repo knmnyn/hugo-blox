@@ -4,7 +4,7 @@ title: 'TraVLR: Now You See It, Now You Don′t! A Bimodal Dataset for Evaluatin
 authors:
 - Keng Ji Chow
 - Samson Tan
-- Min-Yen Kan
+- min
 date: '2023-05-01'
 publishDate: '2024-07-06T02:22:24.618335Z'
 publication_types:

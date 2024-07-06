@@ -3,7 +3,7 @@ title: N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking
 authors:
 - Ibrahim Aksu
 - Zhengyuan Liu
-- Min-Yen Kan
+- min
 - Nancy Chen
 date: '2022-05-01'
 publishDate: '2024-07-05T17:09:42.588862Z'

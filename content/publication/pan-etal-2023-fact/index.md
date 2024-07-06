@@ -6,7 +6,7 @@ authors:
 - Xinyuan Lu
 - Anh Tuan Luu
 - William Yang Wang
-- Min-Yen Kan
+- min
 - Preslav Nakov
 date: '2023-07-01'
 publishDate: '2024-07-06T02:22:24.639283Z'

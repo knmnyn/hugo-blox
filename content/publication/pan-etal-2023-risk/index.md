@@ -5,7 +5,7 @@ authors:
 - Liangming Pan
 - Wenhu Chen
 - Preslav Nakov
-- Min-Yen Kan
+- min
 - William Wang
 date: '2023-12-01'
 publishDate: '2024-07-06T02:22:24.546968Z'

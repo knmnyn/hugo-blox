@@ -3,7 +3,7 @@ title: Attacking Open-domain Question Answering by Injecting Misinformation
 authors:
 - Liangming Pan
 - Wenhu Chen
-- Min-Yen Kan
+- min
 - William Yang Wang
 date: '2023-11-01'
 publishDate: '2024-07-06T02:22:24.540512Z'

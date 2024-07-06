@@ -6,7 +6,7 @@ authors:
 - Liangming Pan
 - Qian Liu
 - Preslav Nakov
-- Min-Yen Kan
+- min
 date: '2023-12-01'
 publishDate: '2024-07-06T02:22:24.568376Z'
 publication_types:

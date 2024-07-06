@@ -3,7 +3,7 @@ title: So Different Yet So Alike! Constrained Unsupervised Text Style Transfer
 authors:
 - Abhinav Ramesh Kashyap
 - Devamanyu Hazarika
-- Min-Yen Kan
+- min
 - Roger Zimmermann
 - Soujanya Poria
 date: '2022-05-01'

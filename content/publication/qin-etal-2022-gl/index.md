@@ -8,7 +8,7 @@ authors:
 - Qixin Li
 - Jian-Guang Lou
 - Wanxiang Che
-- Min-Yen Kan
+- min
 date: '2022-05-01'
 publishDate: '2024-07-05T17:09:42.638128Z'
 publication_types:

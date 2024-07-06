@@ -4,7 +4,7 @@ title: 'Velocidapter: Task-oriented Dialogue Comprehension Modeling Pairing Synt
 authors:
 - Ibrahim Taha Aksu
 - Zhengyuan Liu
-- min
+- min  
 - Nancy Chen
 date: '2021-07-01'
 publishDate: '2024-07-05T17:09:42.645613Z'
