@@ -1,0 +1,1247 @@
+
+@inproceedings{ramesh-kashyap-etal-2021-analyzing,
+    title = "Analyzing the Domain Robustness of Pretrained Language Models, Layer by Layer",
+    author = "Ramesh Kashyap, Abhinav  and
+      Mehnaz, Laiba  and
+      Malik, Bhavitvya  and
+      Waheed, Abdul  and
+      Hazarika, Devamanyu  and
+      Kan, Min-Yen  and
+      Shah, Rajiv Ratn",
+    editor = "Ben-David, Eyal  and
+      Cohen, Shay  and
+      McDonald, Ryan  and
+      Plank, Barbara  and
+      Reichart, Roi  and
+      Rotman, Guy  and
+      Ziser, Yftah",
+    booktitle = "Proceedings of the Second Workshop on Domain Adaptation for NLP",
+    month = apr,
+    year = "2021",
+    address = "Kyiv, Ukraine",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.adaptnlp-1.23",
+    pages = "222--244",
+    abstract = "The robustness of pretrained language models(PLMs) is generally measured using performance drops on two or more domains. However, we do not yet understand the inherent robustness achieved by contributions from different layers of a PLM. We systematically analyze the robustness of these representations layer by layer from two perspectives. First, we measure the robustness of representations by using domain divergence between two domains. We find that i) Domain variance increases from the lower to the upper layers for vanilla PLMs; ii) Models continuously pretrained on domain-specific data (DAPT)(Gururangan et al., 2020) exhibit more variance than their pretrained PLM counterparts; and that iii) Distilled models (e.g., DistilBERT) also show greater domain variance. Second, we investigate the robustness of representations by analyzing the encoded syntactic and semantic information using diagnostic probes. We find that similar layers have similar amounts of linguistic information for data from an unseen domain.",
+}
+
+
+@inproceedings{pan-etal-2021-unsupervised,
+    title = "Unsupervised Multi-hop Question Answering by Question Generation",
+    author = "Pan, Liangming  and
+      Chen, Wenhu  and
+      Xiong, Wenhan  and
+      Kan, Min-Yen  and
+      Wang, William Yang",
+    editor = "Toutanova, Kristina  and
+      Rumshisky, Anna  and
+      Zettlemoyer, Luke  and
+      Hakkani-Tur, Dilek  and
+      Beltagy, Iz  and
+      Bethard, Steven  and
+      Cotterell, Ryan  and
+      Chakraborty, Tanmoy  and
+      Zhou, Yichao",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.naacl-main.469",
+    doi = "10.18653/v1/2021.naacl-main.469",
+    pages = "5866--5880",
+    abstract = "Obtaining training data for multi-hop question answering (QA) is time-consuming and resource-intensive. We explore the possibility to train a well-performed multi-hop QA model without referencing any human-labeled multi-hop question-answer pairs, i.e., unsupervised multi-hop QA. We propose MQA-QG, an unsupervised framework that can generate human-like multi-hop training data from both homogeneous and heterogeneous data sources. MQA-QG generates questions by first selecting/generating relevant information from each data source and then integrating the multiple information to form a multi-hop question. Using only generated training data, we can train a competent multi-hop QA which achieves 61{\%} and 83{\%} of the supervised learning performance for the HybridQA and the HotpotQA dataset, respectively. We also show that pretraining the QA system with the generated data would greatly reduce the demand for human-annotated training data. Our codes are publicly available at \url{https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA}.",
+}
+
+
+@inproceedings{pan-etal-2021-zero,
+    title = "Zero-shot Fact Verification by Claim Generation",
+    author = "Pan, Liangming  and
+      Chen, Wenhu  and
+      Xiong, Wenhan  and
+      Kan, Min-Yen  and
+      Wang, William Yang",
+    editor = "Zong, Chengqing  and
+      Xia, Fei  and
+      Li, Wenjie  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-short.61",
+    doi = "10.18653/v1/2021.acl-short.61",
+    pages = "476--483",
+    abstract = "Neural models for automated fact verification have achieved promising results thanks to the availability of large, human-annotated datasets. However, for each new domain that requires fact verification, creating a dataset by manually writing claims and linking them to their supporting evidence is expensive. We develop QACG, a framework for training a robust fact verification model by using automatically generated claims that can be supported, refuted, or unverifiable from evidence from Wikipedia. QACG generates question-answer pairs from the evidence and then converts them into different types of claims. Experiments on the FEVER dataset show that our QACG framework significantly reduces the demand for human-annotated training data. In a zero-shot scenario, QACG improves a RoBERTa model{'}s F1 from 50{\%} to 77{\%}, equivalent in performance to 2K+ manually-curated examples. Our QACG code is publicly available.",
+}
+
+
+@inproceedings{tan-etal-2021-reliability,
+    title = "Reliability Testing for Natural Language Processing Systems",
+    author = "Tan, Samson  and
+      Joty, Shafiq  and
+      Baxter, Kathy  and
+      Taeihagh, Araz  and
+      Bennett, Gregory A.  and
+      Kan, Min-Yen",
+    editor = "Zong, Chengqing  and
+      Xia, Fei  and
+      Li, Wenjie  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.321",
+    doi = "10.18653/v1/2021.acl-long.321",
+    pages = "4153--4169",
+    abstract = "Questions of fairness, robustness, and transparency are paramount to address before deploying NLP systems. Central to these concerns is the question of reliability: Can NLP systems reliably treat different demographics fairly and function correctly in diverse and noisy environments? To address this, we argue for the need for reliability testing and contextualize it among existing work on improving accountability. We show how adversarial attacks can be reframed for this goal, via a framework for developing reliability tests. We argue that reliability testing {---} with an emphasis on interdisciplinary collaboration {---} will enable rigorous and targeted testing, and aid in the enactment and enforcement of industry standards.",
+}
+
+
+@inproceedings{ramesh-kashyap-kan-2020-sciwing,
+    title = "{S}ci{WING}{--} A Software Toolkit for Scientific Document Processing",
+    author = "Ramesh Kashyap, Abhinav  and
+      Kan, Min-Yen",
+    editor = "Chandrasekaran, Muthu Kumar  and
+      de Waard, Anita  and
+      Feigenblat, Guy  and
+      Freitag, Dayne  and
+      Ghosal, Tirthankar  and
+      Hovy, Eduard  and
+      Knoth, Petr  and
+      Konopnicki, David  and
+      Mayr, Philipp  and
+      Patton, Robert M.  and
+      Shmueli-Scheuer, Michal",
+    booktitle = "Proceedings of the First Workshop on Scholarly Document Processing",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.sdp-1.13",
+    doi = "10.18653/v1/2020.sdp-1.13",
+    pages = "113--120",
+    abstract = "We introduce SciWING, an open-source soft-ware toolkit which provides access to state-of-the-art pre-trained models for scientific document processing (SDP) tasks, such as citation string parsing, logical structure recovery and citation intent classification. Compared to other toolkits, SciWING follows a full neural pipeline and provides a Python inter-face for SDP. When needed, SciWING provides fine-grained control for rapid experimentation with different models by swapping and stacking different modules. Transfer learning from general and scientific documents specific pre-trained transformers (i.e., BERT, SciBERT, etc.) can be performed. SciWING incorporates ready-to-use web and terminal-based applications and demonstrations to aid adoption and development. The toolkit is available from \url{http://sciwing.io} and the demos are available at \url{http://rebrand.ly/sciwing-demo}.",
+}
+
+
+@inproceedings{tan-etal-2020-mind,
+    title = "Mind Your Inflections! {I}mproving {NLP} for Non-Standard {E}nglishes with {B}ase-{I}nflection {E}ncoding",
+    author = "Tan, Samson  and
+      Joty, Shafiq  and
+      Varshney, Lav  and
+      Kan, Min-Yen",
+    editor = "Webber, Bonnie  and
+      Cohn, Trevor  and
+      He, Yulan  and
+      Liu, Yang",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.emnlp-main.455",
+    doi = "10.18653/v1/2020.emnlp-main.455",
+    pages = "5647--5663",
+    abstract = "Inflectional variation is a common feature of World Englishes such as Colloquial Singapore English and African American Vernacular English. Although comprehension by human readers is usually unimpaired by non-standard inflections, current NLP systems are not yet robust. We propose Base-Inflection Encoding (BITE), a method to tokenize English text by reducing inflected words to their base forms before reinjecting the grammatical information as special symbols. Fine-tuning pretrained NLP models for downstream tasks using our encoding defends against inflectional adversaries while maintaining performance on clean data. Models using BITE generalize better to dialects with non-standard inflections without explicit training and translation models converge faster when trained with BITE. Finally, we show that our encoding improves the vocabulary efficiency of popular data-driven subword tokenizers. Since there has been no prior work on quantitatively evaluating vocabulary efficiency, we propose metrics to do so.",
+}
+
+
+@inproceedings{lei-etal-2020-examining,
+    title = "Re-examining the Role of Schema Linking in Text-to-{SQL}",
+    author = "Lei, Wenqiang  and
+      Wang, Weixin  and
+      Ma, Zhixin  and
+      Gan, Tian  and
+      Lu, Wei  and
+      Kan, Min-Yen  and
+      Chua, Tat-Seng",
+    editor = "Webber, Bonnie  and
+      Cohn, Trevor  and
+      He, Yulan  and
+      Liu, Yang",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.emnlp-main.564",
+    doi = "10.18653/v1/2020.emnlp-main.564",
+    pages = "6943--6954",
+    abstract = "In existing sophisticated text-to-SQL models, schema linking is often considered as a simple, minor component, belying its importance. By providing a schema linking corpus based on the Spider text-to-SQL dataset, we systematically study the role of schema linking. We also build a simple BERT-based baseline, called Schema-Linking SQL (SLSQL) to perform a data-driven study. We find when schema linking is done well, SLSQL demonstrates good performance on Spider despite its structural simplicity. Many remaining errors are attributable to corpus noise. This suggests schema linking is the crux for the current text-to-SQL task. Our analytic studies provide insights on the characteristics of schema linking for future developments of text-to-SQL tasks.",
+}
+
+
+@inproceedings{xie-etal-2020-exploring,
+    title = "Exploring Question-Specific Rewards for Generating Deep Questions",
+    author = "Xie, Yuxi  and
+      Pan, Liangming  and
+      Wang, Dongzhe  and
+      Kan, Min-Yen  and
+      Feng, Yansong",
+    editor = "Scott, Donia  and
+      Bel, Nuria  and
+      Zong, Chengqing",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2020.coling-main.228",
+    doi = "10.18653/v1/2020.coling-main.228",
+    pages = "2534--2546",
+    abstract = "Recent question generation (QG) approaches often utilize the sequence-to-sequence framework (Seq2Seq) to optimize the log likelihood of ground-truth questions using teacher forcing. However, this training objective is inconsistent with actual question quality, which is often reflected by certain global properties such as whether the question can be answered by the document. As such, we directly optimize for QG-specific objectives via reinforcement learning to improve question quality. We design three different rewards that target to improve the fluency, relevance, and answerability of generated questions. We conduct both automatic and human evaluations in addition to thorough analysis to explore the effect of each QG-specific reward. We find that optimizing on question-specific rewards generally leads to better performance in automatic evaluation metrics. However, only the rewards that correlate well with human judgement (e.g., relevance) lead to real improvement in question quality. Optimizing for the others, especially answerability, introduces incorrect bias to the model, resulting in poorer question quality. The code is publicly available at \url{https://github.com/YuxiXie/RL-for-Question-Generation}.",
+}
+
+
+@inproceedings{li-etal-2020-molweni,
+    title = "Molweni: A Challenge Multiparty Dialogues-based Machine Reading Comprehension Dataset with Discourse Structure",
+    author = "Li, Jiaqi  and
+      Liu, Ming  and
+      Kan, Min-Yen  and
+      Zheng, Zihao  and
+      Wang, Zekun  and
+      Lei, Wenqiang  and
+      Liu, Ting  and
+      Qin, Bing",
+    editor = "Scott, Donia  and
+      Bel, Nuria  and
+      Zong, Chengqing",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2020.coling-main.238",
+    doi = "10.18653/v1/2020.coling-main.238",
+    pages = "2642--2652",
+    abstract = "Research into the area of multiparty dialog has grown considerably over recent years. We present the Molweni dataset, a machine reading comprehension (MRC) dataset with discourse structure built over multiparty dialog. Molweni{'}s source samples from the Ubuntu Chat Corpus, including 10,000 dialogs comprising 88,303 utterances. We annotate 30,066 questions on this corpus, including both answerable and unanswerable questions. Molweni also uniquely contributes discourse dependency annotations in a modified Segmented Discourse Representation Theory (SDRT; Asher et al., 2016) style for all of its multiparty dialogs, contributing large-scale (78,245 annotated discourse relations) data to bear on the task of multiparty dialog discourse parsing. Our experiments show that Molweni is a challenging dataset for current MRC models: BERT-wwm, a current, strong SQuAD 2.0 performer, achieves only 67.7{\%} F1 on Molweni{'}s questions, a 20+{\%} significant drop as compared against its SQuAD 2.0 performance.",
+}
+
+
+@inproceedings{bhola-etal-2020-retrieving,
+    title = "Retrieving Skills from Job Descriptions: A Language Model Based Extreme Multi-label Classification Framework",
+    author = "Bhola, Akshay  and
+      Halder, Kishaloy  and
+      Prasad, Animesh  and
+      Kan, Min-Yen",
+    editor = "Scott, Donia  and
+      Bel, Nuria  and
+      Zong, Chengqing",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2020.coling-main.513",
+    doi = "10.18653/v1/2020.coling-main.513",
+    pages = "5832--5842",
+    abstract = "We introduce a deep learning model to learn the set of enumerated job skills associated with a job description. In our analysis of a large-scale government job portal mycareersfuture.sg, we observe that as much as 65{\%} of job descriptions miss describing a significant number of relevant skills. Our model addresses this task from the perspective of an extreme multi-label classification (XMLC) problem, where descriptions are the evidence for the binary relevance of thousands of individual skills. Building upon the current state-of-the-art language modeling approaches such as BERT, we show our XMLC method improves on an existing baseline solution by over 9{\%} and 7{\%} absolute improvements in terms of recall and normalized discounted cumulative gain. We further show that our approach effectively addresses the missing skills problem, and helps in recovering relevant skills that were missed out in the job postings by taking into account the structured semantic representation of skills and their co-occurrences through a Correlation Aware Bootstrapping process. We further show that our approach, to ensure the BERT-XMLC model accounts for structured semantic representation of skills and their co-occurrences through a Correlation Aware Bootstrapping process, effectively addresses the missing skills problem, and helps in recovering relevant skills that were missed out in the job postings. To facilitate future research and replication of our work, we have made the dataset and the implementation of our model publicly available.",
+}
+
+
+@inproceedings{cao-etal-2020-expertise,
+    title = "Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen",
+    author = "Cao, Yixin  and
+      Shui, Ruihao  and
+      Pan, Liangming  and
+      Kan, Min-Yen  and
+      Liu, Zhiyuan  and
+      Chua, Tat-Seng",
+    editor = "Jurafsky, Dan  and
+      Chai, Joyce  and
+      Schluter, Natalie  and
+      Tetreault, Joel",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.acl-main.100",
+    doi = "10.18653/v1/2020.acl-main.100",
+    pages = "1061--1071",
+    abstract = "The curse of knowledge can impede communication between experts and laymen. We propose a new task of expertise style transfer and contribute a manually annotated dataset with the goal of alleviating such cognitive biases. Solving this task not only simplifies the professional language, but also improves the accuracy and expertise level of laymen descriptions using simple words. This is a challenging task, unaddressed in previous work, as it requires the models to have expert intelligence in order to modify text with a deep understanding of domain knowledge and structures. We establish the benchmark performance of five state-of-the-art models for style transfer and text simplification. The results demonstrate a significant gap between machine and human performance. We also discuss the challenges of automatic evaluation, to provide insights into future research directions. The dataset is publicly available at \url{https://srhthu.github.io/expertise-style-transfer/}.",
+}
+
+
+@inproceedings{pan-etal-2020-semantic,
+    title = "Semantic Graphs for Generating Deep Questions",
+    author = "Pan, Liangming  and
+      Xie, Yuxi  and
+      Feng, Yansong  and
+      Chua, Tat-Seng  and
+      Kan, Min-Yen",
+    editor = "Jurafsky, Dan  and
+      Chai, Joyce  and
+      Schluter, Natalie  and
+      Tetreault, Joel",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.acl-main.135",
+    doi = "10.18653/v1/2020.acl-main.135",
+    pages = "1463--1475",
+    abstract = "This paper proposes the problem of Deep Question Generation (DQG), which aims to generate complex questions that require reasoning over multiple pieces of information about the input passage. In order to capture the global structure of the document and facilitate reasoning, we propose a novel framework that first constructs a semantic-level graph for the input document and then encodes the semantic graph by introducing an attention-based GGNN (Att-GGNN). Afterward, we fuse the document-level and graph-level representations to perform joint training of content selection and question decoding. On the HotpotQA deep-question centric dataset, our model greatly improves performance over questions requiring reasoning over multiple facts, leading to state-of-the-art performance. The code is publicly available at \url{https://github.com/WING-NUS/SG-Deep-Question-Generation}.",
+}
+
+
+@inproceedings{tan-etal-2020-morphin,
+    title = "It{'}s Morphin{'} Time! {C}ombating Linguistic Discrimination with Inflectional Perturbations",
+    author = "Tan, Samson  and
+      Joty, Shafiq  and
+      Kan, Min-Yen  and
+      Socher, Richard",
+    editor = "Jurafsky, Dan  and
+      Chai, Joyce  and
+      Schluter, Natalie  and
+      Tetreault, Joel",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.acl-main.263",
+    doi = "10.18653/v1/2020.acl-main.263",
+    pages = "2920--2935",
+    abstract = "Training on only perfect Standard English corpora predisposes pre-trained neural networks to discriminate against minorities from non-standard linguistic backgrounds (e.g., African American Vernacular English, Colloquial Singapore English, etc.). We perturb the inflectional morphology of words to craft plausible and semantically similar adversarial examples that expose these biases in popular NLP models, e.g., BERT and Transformer, and show that adversarially fine-tuning them for a single epoch significantly improves robustness without sacrificing performance on clean data.",
+}
+
+
+@inproceedings{prasad-kan-2019-glocal,
+    title = "{G}local: Incorporating Global Information in Local Convolution for Keyphrase Extraction",
+    author = "Prasad, Animesh  and
+      Kan, Min-Yen",
+    editor = "Burstein, Jill  and
+      Doran, Christy  and
+      Solorio, Thamar",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N19-1182",
+    doi = "10.18653/v1/N19-1182",
+    pages = "1837--1846",
+    abstract = "Graph Convolutional Networks (GCNs) are a class of spectral clustering techniques that leverage localized convolution filters to perform supervised classification directly on graphical structures. While such methods model nodes{'} local pairwise importance, they lack the capability to model global importance relative to other nodes of the graph. This causes such models to miss critical information in tasks where global ranking is a key component for the task, such as in keyphrase extraction. We address this shortcoming by allowing the proper incorporation of global information into the GCN family of models through the use of scaled node weights. In the context of keyphrase extraction, incorporating global random walk scores obtained from TextRank boosts performance significantly. With our proposed method, we achieve state-of-the-art results, bettering a strong baseline by an absolute 2{\%} increase in F1 score.",
+}
+
+
+@inproceedings{halder-etal-2019-predicting,
+    title = "Predicting Helpful Posts in Open-Ended Discussion Forums: A Neural Architecture",
+    author = "Halder, Kishaloy  and
+      Kan, Min-Yen  and
+      Sugiyama, Kazunari",
+    editor = "Burstein, Jill  and
+      Doran, Christy  and
+      Solorio, Thamar",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N19-1318",
+    doi = "10.18653/v1/N19-1318",
+    pages = "3148--3157",
+    abstract = "Users participate in online discussion forums to learn from others and share their knowledge with the community. They often start a thread with a question or by sharing their new findings on a certain topic. We find that, unlike Community Question Answering, where questions are mostly factoid based, the threads in a forum are often open-ended (e.g., asking for recommendations from others) without a single correct answer. In this paper, we address the task of identifying helpful posts in a forum thread to help users comprehend long running discussion threads, which often contain repetitive or irrelevant posts. We propose a recurrent neural network based architecture to model (i) the relevance of a post regarding the original post starting the thread and (ii) the novelty it brings to the discussion, compared to the previous posts in the thread. Experimental results on different types of online forum datasets show that our model significantly outperforms the state-of-the-art neural network models for text classification.",
+}
+
+
+@inproceedings{si-etal-2019-sentiment,
+    title = "Sentiment Aware Neural Machine Translation",
+    author = "Si, Chenglei  and
+      Wu, Kui  and
+      Aw, Ai Ti  and
+      Kan, Min-Yen",
+    editor = "Nakazawa, Toshiaki  and
+      Ding, Chenchen  and
+      Dabre, Raj  and
+      Kunchukuttan, Anoop  and
+      Doi, Nobushige  and
+      Oda, Yusuke  and
+      Bojar, Ond{\v{r}}ej  and
+      Parida, Shantipriya  and
+      Goto, Isao  and
+      Mino, Hidaya",
+    booktitle = "Proceedings of the 6th Workshop on Asian Translation",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D19-5227",
+    doi = "10.18653/v1/D19-5227",
+    pages = "200--206",
+    abstract = "Sentiment ambiguous lexicons refer to words where their polarity depends strongly on con- text. As such, when the context is absent, their translations or their embedded sentence ends up (incorrectly) being dependent on the training data. While neural machine translation (NMT) has achieved great progress in recent years, most systems aim to produce one single correct translation for a given source sentence. We investigate the translation variation in two sentiment scenarios. We perform experiments to study the preservation of sentiment during translation with three different methods that we propose. We conducted tests with both sentiment and non-sentiment bearing contexts to examine the effectiveness of our methods. We show that NMT can generate both positive- and negative-valent translations of a source sentence, based on a given input sentiment label. Empirical evaluations show that our valence-sensitive embedding (VSE) method significantly outperforms a sequence-to-sequence (seq2seq) baseline, both in terms of BLEU score and ambiguous word translation accuracy in test, given non-sentiment bearing contexts.",
+}
+
+
+@inproceedings{nguyen-etal-2018-treatment,
+    title = "Treatment Side Effect Prediction from Online User-generated Content",
+    author = "Nguyen, Van Hoang  and
+      Sugiyama, Kazunari  and
+      Kan, Min-Yen  and
+      Halder, Kishaloy",
+    editor = "Lavelli, Alberto  and
+      Minard, Anne-Lyse  and
+      Rinaldi, Fabio",
+    booktitle = "Proceedings of the Ninth International Workshop on Health Text Mining and Information Analysis",
+    month = oct,
+    year = "2018",
+    address = "Brussels, Belgium",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-5602",
+    doi = "10.18653/v1/W18-5602",
+    pages = "12--21",
+    abstract = "With Health 2.0, patients and caregivers increasingly seek information regarding possible drug side effects during their medical treatments in online health communities. These are helpful platforms for non-professional medical opinions, yet pose risk of being unreliable in quality and insufficient in quantity to cover the wide range of potential drug reactions. Existing approaches which analyze such user-generated content in online forums heavily rely on feature engineering of both documents and users, and often overlook the relationships between posts within a common discussion thread. Inspired by recent advancements, we propose a neural architecture that models the textual content of user-generated documents and user experiences in online communities to predict side effects during treatment. Experimental results show that our proposed architecture outperforms baseline models.",
+}
+
+
+@inproceedings{chandrasekaran-kan-2018-countering,
+    title = "Countering Position Bias in Instructor Interventions in {MOOC} Discussion Forums",
+    author = "Chandrasekaran, Muthu Kumar  and
+      Kan, Min-Yen",
+    editor = "Tseng, Yuen-Hsien  and
+      Chen, Hsin-Hsi  and
+      Ng, Vincent  and
+      Komachi, Mamoru",
+    booktitle = "Proceedings of the 5th Workshop on Natural Language Processing Techniques for Educational Applications",
+    month = jul,
+    year = "2018",
+    address = "Melbourne, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-3720",
+    doi = "10.18653/v1/W18-3720",
+    pages = "135--142",
+    abstract = "We systematically confirm that instructors are strongly influenced by the user interface presentation of Massive Online Open Course (MOOC) discussion forums. In a large scale dataset, we conclusively show that instructor interventions exhibit strong position bias, as measured by the position where the thread appeared on the user interface at the time of intervention. We measure and remove this bias, enabling unbiased statistical modelling and evaluation. We show that our de-biased classifier improves predicting interventions over the state-of-the-art on courses with sufficient number of interventions by 8.2{\%} in F1 and 24.4{\%} in recall on average.",
+}
+
+
+@inproceedings{gildea-etal-2018-acl,
+    title = "The {ACL} {A}nthology: Current State and Future Directions",
+    author = "Gildea, Daniel  and
+      Kan, Min-Yen  and
+      Madnani, Nitin  and
+      Teichmann, Christoph  and
+      Villalba, Mart{\'\i}n",
+    editor = "Park, Eunjeong L.  and
+      Hagiwara, Masato  and
+      Milajevs, Dmitrijs  and
+      Tan, Liling",
+    booktitle = "Proceedings of Workshop for {NLP} Open Source Software ({NLP}-{OSS})",
+    month = jul,
+    year = "2018",
+    address = "Melbourne, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-2504",
+    doi = "10.18653/v1/W18-2504",
+    pages = "23--28",
+    abstract = "The Association of Computational Linguistic{'}s Anthology is the open source archive, and the main source for computational linguistics and natural language processing{'}s scientific literature. The ACL Anthology is currently maintained exclusively by community volunteers and has to be available and up-to-date at all times. We first discuss the current, open source approach used to achieve this, and then discuss how the planned use of Docker images will improve the Anthology{'}s long-term stability. This change will make it easier for researchers to utilize Anthology data for experimentation. We believe the ACL community can directly benefit from the extension-friendly architecture of the Anthology. We end by issuing an open challenge of reviewer matching we encourage the community to rally towards.",
+}
+
+
+@inproceedings{lei-etal-2018-sequicity,
+    title = "{S}equicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures",
+    author = "Lei, Wenqiang  and
+      Jin, Xisen  and
+      Kan, Min-Yen  and
+      Ren, Zhaochun  and
+      He, Xiangnan  and
+      Yin, Dawei",
+    editor = "Gurevych, Iryna  and
+      Miyao, Yusuke",
+    booktitle = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2018",
+    address = "Melbourne, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P18-1133",
+    doi = "10.18653/v1/P18-1133",
+    pages = "1437--1447",
+    abstract = "Existing solutions to task-oriented dialogue systems follow pipeline designs which introduces architectural complexity and fragility. We propose a novel, holistic, extendable framework based on a single sequence-to-sequence (seq2seq) model which can be optimized with supervised or reinforcement learning. A key contribution is that we design text spans named belief spans to track dialogue believes, allowing task-oriented dialogue systems to be modeled in a seq2seq way. Based on this, we propose a simplistic Two Stage CopyNet instantiation which emonstrates good scalability: significantly reducing model complexity in terms of number of parameters and training time by a magnitude. It significantly outperforms state-of-the-art pipeline-based methods on large datasets and retains a satisfactory entity match rate on out-of-vocabulary (OOV) cases where pipeline-designed competitors totally fail.",
+}
+
+
+@inproceedings{jiang-etal-2018-identifying,
+    title = "Identifying Emergent Research Trends by Key Authors and Phrases",
+    author = "Jiang, Shenhao  and
+      Prasad, Animesh  and
+      Kan, Min-Yen  and
+      Sugiyama, Kazunari",
+    editor = "Bender, Emily M.  and
+      Derczynski, Leon  and
+      Isabelle, Pierre",
+    booktitle = "Proceedings of the 27th International Conference on Computational Linguistics",
+    month = aug,
+    year = "2018",
+    address = "Santa Fe, New Mexico, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/C18-1022",
+    pages = "259--269",
+    abstract = "Identifying emergent research trends is a key issue for both primary researchers as well as secondary research managers. Such processes can uncover the historical development of an area, and yield insight on developing topics. We propose an embedded trend detection framework for this task which incorporates our bijunctive hypothesis that important phrases are written by important authors within a field and vice versa. By ranking both author and phrase information in a multigraph, our method jointly determines key phrases and authoritative authors. We represent this intermediate output as phrasal embeddings, and feed this to a recurrent neural network (RNN) to compute trend scores that identify research trends. Over two large datasets of scientific articles, we demonstrate that our approach successfully detects past trends from the field, outperforming baselines based solely on text centrality or citation.",
+}
+
+
+@inproceedings{halder-etal-2017-modeling,
+    title = "Modeling Temporal Progression of Emotional Status in Mental Health Forum: A Recurrent Neural Net Approach",
+    author = "Halder, Kishaloy  and
+      Poddar, Lahari  and
+      Kan, Min-Yen",
+    editor = "Balahur, Alexandra  and
+      Mohammad, Saif M.  and
+      van der Goot, Erik",
+    booktitle = "Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis",
+    month = sep,
+    year = "2017",
+    address = "Copenhagen, Denmark",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W17-5217",
+    doi = "10.18653/v1/W17-5217",
+    pages = "127--135",
+    abstract = "Patients turn to Online Health Communities not only for information on specific conditions but also for emotional support. Previous research has indicated that the progression of emotional status can be studied through the linguistic patterns of an individual{'}s posts. We analyze a real-world dataset from the Mental Health section of HealthBoards.com. Estimated from the word usages in their posts, we find that the emotional progress across patients vary widely. We study the problem of predicting a patient{'}s emotional status in the future from her past posts and we propose a Recurrent Neural Network (RNN) based architecture to address it. We find that the future emotional status can be predicted with reasonable accuracy given her historical posts and participation features. Our evaluation results demonstrate the efficacy of our proposed architecture, by outperforming state-of-the-art approaches with over 0.13 reduction in Mean Absolute Error.",
+}
+
+
+@inproceedings{prasad-kan-2017-wing,
+    title = "{WING}-{NUS} at {S}em{E}val-2017 Task 10: Keyphrase Extraction and Classification as Joint Sequence Labeling",
+    author = "Prasad, Animesh  and
+      Kan, Min-Yen",
+    editor = "Bethard, Steven  and
+      Carpuat, Marine  and
+      Apidianaki, Marianna  and
+      Mohammad, Saif M.  and
+      Cer, Daniel  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 11th International Workshop on Semantic Evaluation ({S}em{E}val-2017)",
+    month = aug,
+    year = "2017",
+    address = "Vancouver, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/S17-2170",
+    doi = "10.18653/v1/S17-2170",
+    pages = "973--977",
+    abstract = "We describe an end-to-end pipeline processing approach for SemEval 2017{'}s Task 10 to extract keyphrases and their relations from scientific publications. We jointly identify and classify keyphrases by modeling the subtasks as sequential labeling. Our system utilizes standard, surface-level features along with the adjacent word features, and performs conditional decoding on whole text to extract keyphrases. We focus only on the identification and typing of keyphrases (Subtasks A and B, together referred as extraction), but provide an end-to-end system inclusive of keyphrase relation identification (Subtask C) for completeness. Our top performing configuration achieves an $F_1$ of 0.27 for the end-to-end keyphrase extraction and relation identification scenario on the final test data, and compares on par to other top ranked systems for keyphrase extraction. Our system outperforms other techniques that do not employ global decoding and hence do not account for dependencies between keyphrases. We believe this is crucial for keyphrase classification in the given context of scientific document mining.",
+}
+
+
+@proceedings{acl-2017-association-linguistics,
+    title = "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    editor = "Barzilay, Regina  and
+      Kan, Min-Yen",
+    month = jul,
+    year = "2017",
+    address = "Vancouver, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P17-2000",
+    doi = "10.18653/v1/P17-2",
+}
+
+
+@proceedings{ws-2016-joint,
+    title = "Proceedings of the Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries ({BIRNDL})",
+    editor = "Cabanac, Guillaume  and
+      Chandrasekaran, Muthu Kumar  and
+      Frommholz, Ingo  and
+      Jaidka, Kokil  and
+      Kan, Min-Yen  and
+      Mayr, Philipp  and
+      Wolfram, Dietmar",
+    month = jun,
+    year = "2016",
+    url = "https://aclanthology.org/W16-1500",
+    pages = "1--5",
+}
+
+
+@inproceedings{chen-etal-2015-interactive,
+    title = "Interactive Second Language Learning from News Websites",
+    author = "Chen, Tao  and
+      Zheng, Naijia  and
+      Zhao, Yue  and
+      Chandrasekaran, Muthu Kumar  and
+      Kan, Min-Yen",
+    editor = "Chen, Hsin-Hsi  and
+      Tseng, Yuen-Hsien  and
+      Matsumoto, Yuji  and
+      Wong, Lung Hsiang",
+    booktitle = "Proceedings of the 2nd Workshop on Natural Language Processing Techniques for Educational Applications",
+    month = jul,
+    year = "2015",
+    address = "Beijing, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W15-4406",
+    doi = "10.18653/v1/W15-4406",
+    pages = "34--42",
+}
+
+
+@inproceedings{kan-2015-keywords,
+    title = "Keywords, phrases, clauses and sentences: topicality, indicativeness and informativeness at scales",
+    author = "Kan, Min-Yen",
+    editor = "Gollapalli, Sujatha Das  and
+      Caragea, Cornelia  and
+      Li, Xiaoli  and
+      Giles, C. Lee",
+    booktitle = "Proceedings of the {ACL} 2015 Workshop on Novel Computational Approaches to Keyphrase Extraction",
+    month = jul,
+    year = "2015",
+    address = "Beijing, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W15-3601",
+    doi = "10.18653/v1/W15-3601",
+    pages = "1",
+}
+
+
+@inproceedings{ng-etal-2014-exploiting,
+    title = "Exploiting Timelines to Enhance Multi-document Summarization",
+    author = "Ng, Jun-Ping  and
+      Chen, Yan  and
+      Kan, Min-Yen  and
+      Li, Zhoujun",
+    editor = "Toutanova, Kristina  and
+      Wu, Hua",
+    booktitle = "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jun,
+    year = "2014",
+    address = "Baltimore, Maryland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P14-1087",
+    doi = "10.3115/v1/P14-1087",
+    pages = "923--933",
+}
+
+
+@inproceedings{wang-kan-2013-mining,
+    title = "Mining Informal Language from {C}hinese Microtext: Joint Word Recognition and Segmentation",
+    author = "Wang, Aobo  and
+      Kan, Min-Yen",
+    editor = "Schuetze, Hinrich  and
+      Fung, Pascale  and
+      Poesio, Massimo",
+    booktitle = "Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2013",
+    address = "Sofia, Bulgaria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P13-1072",
+    pages = "731--741",
+}
+
+
+@inproceedings{wang-etal-2013-chinese,
+    title = "{C}hinese Informal Word Normalization: an Experimental Study",
+    author = "Wang, Aobo  and
+      Kan, Min-Yen  and
+      Andrade, Daniel  and
+      Onishi, Takashi  and
+      Ishikawa, Kai",
+    editor = "Mitkov, Ruslan  and
+      Park, Jong C.",
+    booktitle = "Proceedings of the Sixth International Joint Conference on Natural Language Processing",
+    month = oct,
+    year = "2013",
+    address = "Nagoya, Japan",
+    publisher = "Asian Federation of Natural Language Processing",
+    url = "https://aclanthology.org/I13-1015",
+    pages = "127--135",
+}
+
+
+@inproceedings{ng-etal-2013-exploiting,
+    title = "Exploiting Discourse Analysis for Article-Wide Temporal Classification",
+    author = "Ng, Jun-Ping  and
+      Kan, Min-Yen  and
+      Lin, Ziheng  and
+      Feng, Wei  and
+      Chen, Bin  and
+      Su, Jian  and
+      Tan, Chew-Lim",
+    editor = "Yarowsky, David  and
+      Baldwin, Timothy  and
+      Korhonen, Anna  and
+      Livescu, Karen  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2013",
+    address = "Seattle, Washington, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D13-1002",
+    pages = "12--23",
+}
+
+
+@inproceedings{jin-etal-2013-mining,
+    title = "Mining Scientific Terms and their Definitions: A Study of the {ACL} {A}nthology",
+    author = "Jin, Yiping  and
+      Kan, Min-Yen  and
+      Ng, Jun-Ping  and
+      He, Xiangnan",
+    editor = "Yarowsky, David  and
+      Baldwin, Timothy  and
+      Korhonen, Anna  and
+      Livescu, Karen  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2013",
+    address = "Seattle, Washington, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D13-1073",
+    pages = "780--790",
+}
+
+
+@inproceedings{bysani-kan-2012-integrating,
+    title = "Integrating User-Generated Content in the {ACL} {A}nthology",
+    author = "Bysani, Praveen  and
+      Kan, Min-Yen",
+    editor = "Banchs, Rafael E.",
+    booktitle = "Proceedings of the {ACL}-2012 Special Workshop on Rediscovering 50 Years of Discoveries",
+    month = jul,
+    year = "2012",
+    address = "Jeju Island, Korea",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W12-3209",
+    pages = "83--87",
+}
+
+
+@inproceedings{wang-etal-2012-tweeting,
+    title = "Re-tweeting from a linguistic perspective",
+    author = "Wang, Aobo  and
+      Chen, Tao  and
+      Kan, Min-Yen",
+    editor = "Sood, Sara Owsley  and
+      Nagarajan, Meenakshi  and
+      Gamon, Michael",
+    booktitle = "Proceedings of the Second Workshop on Language in Social Media",
+    month = jun,
+    year = "2012",
+    address = "Montr{\'e}al, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W12-2106",
+    pages = "46--55",
+}
+
+
+@inproceedings{lin-etal-2012-combining,
+    title = "Combining Coherence Models and Machine Translation Evaluation Metrics for Summarization Evaluation",
+    author = "Lin, Ziheng  and
+      Liu, Chang  and
+      Ng, Hwee Tou  and
+      Kan, Min-Yen",
+    editor = "Li, Haizhou  and
+      Lin, Chin-Yew  and
+      Osborne, Miles  and
+      Lee, Gary Geunbae  and
+      Park, Jong C.",
+    booktitle = "Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2012",
+    address = "Jeju Island, Korea",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P12-1106",
+    pages = "1006--1014",
+}
+
+
+@inproceedings{ng-etal-2012-exploiting,
+    title = "Exploiting Category-Specific Information for Multi-Document Summarization",
+    author = "Ng, Jun-Ping  and
+      Bysani, Praveen  and
+      Lin, Ziheng  and
+      Kan, Min-Yen  and
+      Tan, Chew-Lim",
+    editor = "Kay, Martin  and
+      Boitet, Christian",
+    booktitle = "Proceedings of {COLING} 2012",
+    month = dec,
+    year = "2012",
+    address = "Mumbai, India",
+    publisher = "The COLING 2012 Organizing Committee",
+    url = "https://aclanthology.org/C12-1128",
+    pages = "2093--2108",
+}
+
+
+@inproceedings{ng-kan-2012-improved,
+    title = "Improved Temporal Relation Classification using Dependency Parses and Selective Crowdsourced Annotations",
+    author = "Ng, Jun-Ping  and
+      Kan, Min-Yen",
+    editor = "Kay, Martin  and
+      Boitet, Christian",
+    booktitle = "Proceedings of {COLING} 2012",
+    month = dec,
+    year = "2012",
+    address = "Mumbai, India",
+    publisher = "The COLING 2012 Organizing Committee",
+    url = "https://aclanthology.org/C12-1129",
+    pages = "2109--2124",
+}
+
+
+@inproceedings{lin-etal-2011-automatically,
+    title = "Automatically Evaluating Text Coherence Using Discourse Relations",
+    author = "Lin, Ziheng  and
+      Ng, Hwee Tou  and
+      Kan, Min-Yen",
+    editor = "Lin, Dekang  and
+      Matsumoto, Yuji  and
+      Mihalcea, Rada",
+    booktitle = "Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2011",
+    address = "Portland, Oregon, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P11-1100",
+    pages = "997--1006",
+}
+
+
+@inproceedings{lin-etal-2010-extracting,
+    title = "Extracting Formulaic and Free Text Clinical Research Articles Metadata using Conditional Random Fields",
+    author = "Lin, Sein  and
+      Ng, Jun-Ping  and
+      Pradhan, Shreyasee  and
+      Shah, Jatin  and
+      Pietrobon, Ricardo  and
+      Kan, Min-Yen",
+    editor = "Dalianis, Hercules  and
+      Hassel, Martin  and
+      Nilsson, Gunnar",
+    booktitle = "Proceedings of the {NAACL} {HLT} 2010 Second Louhi Workshop on Text and Data Mining of Health Documents",
+    month = jun,
+    year = "2010",
+    address = "Los Angeles, California, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W10-1114",
+    pages = "90--95",
+}
+
+
+@inproceedings{kim-etal-2010-semeval,
+    title = "{S}em{E}val-2010 Task 5 : Automatic Keyphrase Extraction from Scientific Articles",
+    author = "Kim, Su Nam  and
+      Medelyan, Olena  and
+      Kan, Min-Yen  and
+      Baldwin, Timothy",
+    editor = "Erk, Katrin  and
+      Strapparava, Carlo",
+    booktitle = "Proceedings of the 5th International Workshop on Semantic Evaluation",
+    month = jul,
+    year = "2010",
+    address = "Uppsala, Sweden",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/S10-1004",
+    pages = "21--26",
+}
+
+
+@inproceedings{luong-etal-2010-hybrid,
+    title = "A Hybrid Morpheme-Word Representation for Machine Translation of Morphologically Rich Languages",
+    author = "Luong, Minh-Thang  and
+      Nakov, Preslav  and
+      Kan, Min-Yen",
+    editor = "Li, Hang  and
+      M{\`a}rquez, Llu{\'\i}s",
+    booktitle = "Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2010",
+    address = "Cambridge, MA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D10-1015",
+    pages = "148--157",
+}
+
+
+@inproceedings{hoang-kan-2010-towards,
+    title = "Towards Automated Related Work Summarization",
+    author = "Hoang, Cong Duy Vu  and
+      Kan, Min-Yen",
+    editor = "Huang, Chu-Ren  and
+      Jurafsky, Dan",
+    booktitle = "Coling 2010: Posters",
+    month = aug,
+    year = "2010",
+    address = "Beijing, China",
+    publisher = "Coling 2010 Organizing Committee",
+    url = "https://aclanthology.org/C10-2049",
+    pages = "427--435",
+}
+
+
+@inproceedings{kim-etal-2010-evaluating,
+    title = "Evaluating N-gram based Evaluation Metrics for Automatic Keyphrase Extraction",
+    author = "Kim, Su Nam  and
+      Baldwin, Timothy  and
+      Kan, Min-Yen",
+    editor = "Huang, Chu-Ren  and
+      Jurafsky, Dan",
+    booktitle = "Proceedings of the 23rd International Conference on Computational Linguistics (Coling 2010)",
+    month = aug,
+    year = "2010",
+    address = "Beijing, China",
+    publisher = "Coling 2010 Organizing Committee",
+    url = "https://aclanthology.org/C10-1065",
+    pages = "572--580",
+}
+
+
+@inproceedings{luong-kan-2010-enhancing,
+    title = "Enhancing Morphological Alignment for Translating Highly Inflected Languages",
+    author = "Luong, Minh-Thang  and
+      Kan, Min-Yen",
+    editor = "Huang, Chu-Ren  and
+      Jurafsky, Dan",
+    booktitle = "Proceedings of the 23rd International Conference on Computational Linguistics (Coling 2010)",
+    month = aug,
+    year = "2010",
+    address = "Beijing, China",
+    publisher = "Coling 2010 Organizing Committee",
+    url = "https://aclanthology.org/C10-1084",
+    pages = "743--751",
+}
+
+
+@proceedings{ws-2009-2009-text,
+    title = "Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries ({NLPIR}4{DL})",
+    editor = "Kan, Min-Yen  and
+      Teufel, Simone",
+    month = aug,
+    year = "2009",
+    address = "Suntec City, Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W09-3600",
+}
+
+
+@inproceedings{kim-kan-2009-examining,
+    title = "Re-examining Automatic Keyphrase Extraction Approaches in Scientific Articles",
+    author = "Kim, Su Nam  and
+      Kan, Min-Yen",
+    editor = "Anastasiou, Dimitra  and
+      Hashimoto, Chikara  and
+      Nakov, Preslav  and
+      Kim, Su Nam",
+    booktitle = "Proceedings of the Workshop on Multiword Expressions: Identification, Interpretation, Disambiguation and Applications ({MWE} 2009)",
+    month = aug,
+    year = "2009",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W09-2902",
+    pages = "9--16",
+}
+
+
+@inproceedings{hoang-etal-2009-examination,
+    title = "A re-examination of lexical association measures",
+    author = "Hoang, Hung Huu  and
+      Kim, Su Nam  and
+      Kan, Min-Yen",
+    editor = "Anastasiou, Dimitra  and
+      Hashimoto, Chikara  and
+      Nakov, Preslav  and
+      Kim, Su Nam",
+    booktitle = "Proceedings of the Workshop on Multiword Expressions: Identification, Interpretation, Disambiguation and Applications ({MWE} 2009)",
+    month = aug,
+    year = "2009",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W09-2905",
+    pages = "31--39",
+}
+
+
+@inproceedings{kim-etal-2009-extracting,
+    title = "Extracting Domain-Specific Words - A Statistical Approach",
+    author = "Kim, Su Nam  and
+      Baldwin, Timothy  and
+      Kan, Min-Yen",
+    editor = "Pizzato, Luiz Augusto  and
+      Schwitter, Rolf",
+    booktitle = "Proceedings of the Australasian Language Technology Association Workshop 2009",
+    month = dec,
+    year = "2009",
+    address = "Sydney, Australia",
+    url = "https://aclanthology.org/U09-1013",
+    pages = "94--98",
+}
+
+
+@inproceedings{setiawan-etal-2009-topological,
+    title = "Topological Ordering of Function Words in Hierarchical Phrase-based Translation",
+    author = "Setiawan, Hendra  and
+      Kan, Min-Yen  and
+      Li, Haizhou  and
+      Resnik, Philip",
+    editor = "Su, Keh-Yih  and
+      Su, Jian  and
+      Wiebe, Janyce  and
+      Li, Haizhou",
+    booktitle = "Proceedings of the Joint Conference of the 47th Annual Meeting of the {ACL} and the 4th International Joint Conference on Natural Language Processing of the {AFNLP}",
+    month = aug,
+    year = "2009",
+    address = "Suntec, Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P09-1037",
+    pages = "324--332",
+}
+
+
+@inproceedings{lin-etal-2009-recognizing,
+    title = "Recognizing Implicit Discourse Relations in the {P}enn {D}iscourse {T}reebank",
+    author = "Lin, Ziheng  and
+      Kan, Min-Yen  and
+      Ng, Hwee Tou",
+    editor = "Koehn, Philipp  and
+      Mihalcea, Rada",
+    booktitle = "Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing",
+    month = aug,
+    year = "2009",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D09-1036",
+    pages = "343--351",
+}
+
+
+@inproceedings{bird-etal-2008-acl,
+    title = "The {ACL} {A}nthology Reference Corpus: A Reference Dataset for Bibliographic Research in Computational Linguistics",
+    author = "Bird, Steven  and
+      Dale, Robert  and
+      Dorr, Bonnie  and
+      Gibson, Bryan  and
+      Joseph, Mark  and
+      Kan, Min-Yen  and
+      Lee, Dongwon  and
+      Powley, Brett  and
+      Radev, Dragomir  and
+      Tan, Yee Fan",
+    editor = "Calzolari, Nicoletta  and
+      Choukri, Khalid  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Odijk, Jan  and
+      Piperidis, Stelios  and
+      Tapias, Daniel",
+    booktitle = "Proceedings of the Sixth International Conference on Language Resources and Evaluation ({LREC}'08)",
+    month = may,
+    year = "2008",
+    address = "Marrakech, Morocco",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2008/pdf/445_paper.pdf",
+    abstract = "The ACL Anthology is a digital archive of conference and journal papers in natural language processing and computational linguistics. Its primary purpose is to serve as a reference repository of research results, but we believe that it can also be an object of study and a platform for research in its own right. We describe an enriched and standardized reference corpus derived from the ACL Anthology that can be used for research in scholarly document processing. This corpus, which we call the ACL Anthology Reference Corpus (ACL ARC), brings together the recent activities of a number of research groups around the world. Our goal is to make the corpus widely available, and to encourage other researchers to use it as a standard testbed for experiments in both bibliographic and bibliometric research.",
+}
+
+
+@inproceedings{councill-etal-2008-parscit,
+    title = "{P}ars{C}it: an Open-source {CRF} Reference String Parsing Package",
+    author = "Councill, Isaac  and
+      Giles, C. Lee  and
+      Kan, Min-Yen",
+    editor = "Calzolari, Nicoletta  and
+      Choukri, Khalid  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Odijk, Jan  and
+      Piperidis, Stelios  and
+      Tapias, Daniel",
+    booktitle = "Proceedings of the Sixth International Conference on Language Resources and Evaluation ({LREC}'08)",
+    month = may,
+    year = "2008",
+    address = "Marrakech, Morocco",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2008/pdf/166_paper.pdf",
+    abstract = "We describe ParsCit, a freely available, open-source implementation of a reference string parsing package. At the core of ParsCit is a trained conditional random field (CRF) model used to label the token sequences in the reference string. A heuristic model wraps this core with added functionality to identify reference strings from a plain text file, and to retrieve the citation contexts. The package comes with utilities to run it as a web service or as a standalone utility. We compare ParsCit on three distinct reference string datasets and show that it compares well with other previously published work.",
+}
+
+
+@inproceedings{qiu-etal-2008-modeling,
+    title = "Modeling Context in Scenario Template Creation",
+    author = "Qiu, Long  and
+      Kan, Min-Yen  and
+      Chua, Tat-Seng",
+    booktitle = "Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-{I}",
+    year = "2008",
+    url = "https://aclanthology.org/I08-1021",
+}
+
+
+@inproceedings{lin-kan-2007-timestamped,
+    title = "Timestamped Graphs: Evolutionary Models of Text for Multi-Document Summarization",
+    author = "Lin, Ziheng  and
+      Kan, Min-Yen",
+    editor = "Biemann, Chris  and
+      Matveeva, Irina  and
+      Mihalcea, Rada  and
+      Radev, Dragomir",
+    booktitle = "Proceedings of the Second Workshop on {T}ext{G}raphs: Graph-Based Algorithms for Natural Language Processing",
+    year = "2007",
+    address = "Rochester, NY, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W07-0204",
+    pages = "25--32",
+}
+
+
+@inproceedings{elmacioglu-etal-2007-psnus,
+    title = "{PSNUS}: Web People Name Disambiguation by Simple Clustering with Rich Features",
+    author = "Elmacioglu, Ergin  and
+      Tan, Yee Fan  and
+      Yan, Su  and
+      Kan, Min-Yen  and
+      Lee, Dongwon",
+    editor = "Agirre, Eneko  and
+      M{\`a}rquez, Llu{\'\i}s  and
+      Wicentowski, Richard",
+    booktitle = "Proceedings of the Fourth International Workshop on Semantic Evaluations ({S}em{E}val-2007)",
+    month = jun,
+    year = "2007",
+    address = "Prague, Czech Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/S07-1058",
+    pages = "268--271",
+}
+
+
+@inproceedings{setiawan-etal-2007-ordering,
+    title = "Ordering Phrases with Function Words",
+    author = "Setiawan, Hendra  and
+      Kan, Min-Yen  and
+      Li, Haizhou",
+    editor = "Zaenen, Annie  and
+      van den Bosch, Antal",
+    booktitle = "Proceedings of the 45th Annual Meeting of the Association of Computational Linguistics",
+    month = jun,
+    year = "2007",
+    address = "Prague, Czech Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P07-1090",
+    pages = "712--719",
+}
+
+
+@inproceedings{tan-etal-2006-extending,
+    title = "Extending corpus-based identification of light verb constructions using a supervised learning framework",
+    author = "Tan, Yee Fan  and
+      Kan, Min-Yen  and
+      Cui, Hang",
+    booktitle = "Proceedings of the Workshop on Multi-word-expressions in a multilingual context",
+    year = "2006",
+    url = "https://aclanthology.org/W06-2407",
+}
+
+
+@inproceedings{qiu-etal-2006-paraphrase,
+    title = "Paraphrase Recognition via Dissimilarity Significance Classification",
+    author = "Qiu, Long  and
+      Kan, Min-Yen  and
+      Chua, Tat-Seng",
+    editor = "Jurafsky, Dan  and
+      Gaussier, Eric",
+    booktitle = "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+    month = jul,
+    year = "2006",
+    address = "Sydney, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W06-1603",
+    pages = "18--26",
+}
+
+
+@inproceedings{qiu-etal-2004-public,
+    title = "A Public Reference Implementation of the {RAP} Anaphora Resolution Algorithm",
+    author = "Qiu, Long  and
+      Kan, Min-Yen  and
+      Chua, Tat-Seng",
+    editor = "Lino, Maria Teresa  and
+      Xavier, Maria Francisca  and
+      Ferreira, F{\'a}tima  and
+      Costa, Rute  and
+      Silva, Raquel",
+    booktitle = "Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04)",
+    month = may,
+    year = "2004",
+    address = "Lisbon, Portugal",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2004/pdf/778.pdf",
+}
+
+
+@inproceedings{kan-mckeown-2002-corpus,
+    title = "Corpus-trained Text Generation for Summarization",
+    author = "Kan, Min-Yen  and
+      McKeown, Kathleen R.",
+    editor = "McKeown, Kathleen",
+    booktitle = "Proceedings of the International Natural Language Generation Conference",
+    month = jul,
+    year = "2002",
+    address = "Harriman, New York, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W02-2101",
+    pages = "1--8",
+}
+
+
+@inproceedings{kan-etal-2002-using,
+    title = "Using the Annotated Bibliography as a Resource for Indicative Summarization",
+    author = "Kan, Min-Yen  and
+      Klavans, Judith L.  and
+      McKeown, Kathleen R.",
+    editor = "Gonz{\'a}lez Rodr{\'\i}guez, Manuel  and
+      Suarez Araujo, Carmen Paz",
+    booktitle = "Proceedings of the Third International Conference on Language Resources and Evaluation ({LREC}{'}02)",
+    month = may,
+    year = "2002",
+    address = "Las Palmas, Canary Islands - Spain",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2002/pdf/7.pdf",
+}
+
+
+@inproceedings{kan-etal-2001-applying,
+    title = "Applying Natural Language Generation to Indicative Summarization",
+    author = "Kan, Min-Yen  and
+      McKeown, Kathleen R.  and
+      Klavans, Judith L.",
+    editor = "Horacek, Helmut  and
+      Nicolov, Nicolas  and
+      Wanner, Leo",
+    booktitle = "Proceedings of the {ACL} 2001 Eighth {E}uropean Workshop on Natural Language Generation ({EWNLG})",
+    year = "2001",
+    address = "Toulouse, France",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W01-0813",
+}
+
+
+@inproceedings{kan-etal-1998-linear,
+    title = "Linear Segmentation and Segment Significance",
+    author = "Kan, Min-Yen  and
+      Klavans, Judith L.  and
+      McKeown, Kathleen R.",
+    booktitle = "Sixth Workshop on Very Large Corpora",
+    year = "1998",
+    url = "https://aclanthology.org/W98-1123",
+}
+
+
+@inproceedings{klavans-kan-1998-role-verbs,
+    title = "Role of Verbs in Document Analysis",
+    author = "Klavans, Judith L.  and
+      Kan, Min-Yen",
+    booktitle = "36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1",
+    month = aug,
+    year = "1998",
+    address = "Montreal, Quebec, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P98-1112",
+    doi = "10.3115/980845.980959",
+    pages = "680--686",
+}
+
