@@ -1,0 +1,20 @@
+---
+title: Extracting Formulaic and Free Text Clinical Research Articles Metadata using
+  Conditional Random Fields
+authors:
+- Sein Lin
+- Jun-Ping Ng
+- Shreyasee Pradhan
+- Jatin Shah
+- Ricardo Pietrobon
+- Min-Yen Kan
+date: '2010-06-01'
+publishDate: '2024-07-11T07:40:56.481260Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the NAACL HLT 2010 Second Louhi Workshop on Text and
+  Data Mining of Health Documents*'
+links:
+- name: URL
+  url: https://aclanthology.org/W10-1114
+---
