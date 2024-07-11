@@ -4,7 +4,7 @@ title: 'Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequen
 authors:
 - Wenqiang Lei
 - Xisen Jin
-- Min-Yen Kan
+- min
 - Zhaochun Ren
 - Xiangnan He
 - Dawei Yin

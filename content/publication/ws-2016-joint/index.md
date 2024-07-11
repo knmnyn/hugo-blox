@@ -6,7 +6,7 @@ authors:
 - Muthu Kumar Chandrasekaran
 - Ingo Frommholz
 - Kokil Jaidka
-- Min-Yen Kan
+- min
 - Philipp Mayr
 - Dietmar Wolfram
 date: '2016-06-01'

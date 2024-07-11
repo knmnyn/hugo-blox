@@ -2,7 +2,7 @@
 title: 'Mining Scientific Terms and their Definitions: A Study of the ACL Anthology'
 authors:
 - Yiping Jin
-- Min-Yen Kan
+- min
 - Jun-Ping Ng
 - Xiangnan He
 date: '2013-10-01'

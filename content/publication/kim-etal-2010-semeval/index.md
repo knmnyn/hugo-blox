@@ -3,7 +3,7 @@ title: 'SemEval-2010 Task 5 : Automatic Keyphrase Extraction from Scientific Art
 authors:
 - Su Nam Kim
 - Olena Medelyan
-- Min-Yen Kan
+- min
 - Timothy Baldwin
 date: '2010-07-01'
 publishDate: '2024-07-11T07:40:56.487584Z'

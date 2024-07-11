@@ -4,7 +4,7 @@ authors:
 - Yuxi Xie
 - Liangming Pan
 - Dongzhe Wang
-- Min-Yen Kan
+- min
 - Yansong Feng
 date: '2020-12-01'
 publishDate: '2024-07-11T07:40:56.276341Z'

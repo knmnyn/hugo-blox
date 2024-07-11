@@ -3,7 +3,7 @@ title: 'Glocal: Incorporating Global Information in Local Convolution for Keyphr
   Extraction'
 authors:
 - Animesh Prasad
-- Min-Yen Kan
+- min
 date: '2019-06-01'
 publishDate: '2024-07-11T07:40:56.320220Z'
 publication_types:

@@ -1,7 +1,7 @@
 ---
 title: Linear Segmentation and Segment Significance
 authors:
-- Min-Yen Kan
+- min
 - Judith L. Klavans
 - Kathleen R. McKeown
 date: '1998-01-01'

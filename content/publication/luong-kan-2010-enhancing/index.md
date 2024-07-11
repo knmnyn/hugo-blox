@@ -2,7 +2,7 @@
 title: Enhancing Morphological Alignment for Translating Highly Inflected Languages
 authors:
 - Minh-Thang Luong
-- Min-Yen Kan
+- min
 date: '2010-08-01'
 publishDate: '2024-07-11T07:40:56.511952Z'
 publication_types:

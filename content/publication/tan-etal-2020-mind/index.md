@@ -5,7 +5,7 @@ authors:
 - Samson Tan
 - Shafiq Joty
 - Lav Varshney
-- Min-Yen Kan
+- min
 date: '2020-11-01'
 publishDate: '2024-07-11T07:40:56.262379Z'
 publication_types:

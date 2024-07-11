@@ -3,7 +3,7 @@ title: Identifying Emergent Research Trends by Key Authors and Phrases
 authors:
 - Shenhao Jiang
 - Animesh Prasad
-- Min-Yen Kan
+- min
 - Kazunari Sugiyama
 date: '2018-08-01'
 publishDate: '2024-07-11T07:40:56.368249Z'

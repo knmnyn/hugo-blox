@@ -3,7 +3,7 @@ title: Extending corpus-based identification of light verb constructions using a
   learning framework
 authors:
 - Yee Fan Tan
-- Min-Yen Kan
+- min
 - Hang Cui
 date: '2006-01-01'
 publishDate: '2024-07-11T07:40:56.592096Z'

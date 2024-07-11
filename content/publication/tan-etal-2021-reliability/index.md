@@ -6,7 +6,7 @@ authors:
 - Kathy Baxter
 - Araz Taeihagh
 - Gregory A. Bennett
-- Min-Yen Kan
+- min
 date: '2021-08-01'
 publishDate: '2024-07-11T07:40:56.247998Z'
 publication_types:

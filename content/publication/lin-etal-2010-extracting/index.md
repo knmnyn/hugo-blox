@@ -7,7 +7,7 @@ authors:
 - Shreyasee Pradhan
 - Jatin Shah
 - Ricardo Pietrobon
-- Min-Yen Kan
+- min
 date: '2010-06-01'
 publishDate: '2024-07-11T07:40:56.481260Z'
 publication_types:

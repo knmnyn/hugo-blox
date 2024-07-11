@@ -3,7 +3,7 @@ title: It′s Morphin′ Time! Combating Linguistic Discrimination with Inflecti
 authors:
 - Samson Tan
 - Shafiq Joty
-- Min-Yen Kan
+- min
 - Richard Socher
 date: '2020-07-01'
 publishDate: '2024-07-11T07:40:56.313557Z'

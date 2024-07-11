@@ -3,7 +3,7 @@ title: Automatically Evaluating Text Coherence Using Discourse Relations
 authors:
 - Ziheng Lin
 - Hwee Tou Ng
-- Min-Yen Kan
+- min
 date: '2011-06-01'
 publishDate: '2024-07-11T07:40:56.475209Z'
 publication_types:

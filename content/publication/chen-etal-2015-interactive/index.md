@@ -5,7 +5,7 @@ authors:
 - Naijia Zheng
 - Yue Zhao
 - Muthu Kumar Chandrasekaran
-- Min-Yen Kan
+- min
 date: '2015-07-01'
 publishDate: '2024-07-11T07:40:56.401303Z'
 publication_types:

@@ -3,7 +3,7 @@ title: Re-tweeting from a linguistic perspective
 authors:
 - Aobo Wang
 - Tao Chen
-- Min-Yen Kan
+- min
 date: '2012-06-01'
 publishDate: '2024-07-11T07:40:56.450801Z'
 publication_types:

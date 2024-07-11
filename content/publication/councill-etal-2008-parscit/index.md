@@ -3,7 +3,7 @@ title: 'ParsCit: an Open-source CRF Reference String Parsing Package'
 authors:
 - Isaac Councill
 - C. Lee Giles
-- Min-Yen Kan
+- min
 date: '2008-05-01'
 publishDate: '2024-07-11T07:40:56.561520Z'
 publication_types:

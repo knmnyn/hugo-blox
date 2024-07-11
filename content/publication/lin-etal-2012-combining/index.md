@@ -5,7 +5,7 @@ authors:
 - Ziheng Lin
 - Chang Liu
 - Hwee Tou Ng
-- Min-Yen Kan
+- min
 date: '2012-07-01'
 publishDate: '2024-07-11T07:40:56.456833Z'
 publication_types:

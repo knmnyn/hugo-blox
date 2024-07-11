@@ -7,7 +7,7 @@ authors:
 - Bonnie Dorr
 - Bryan Gibson
 - Mark Joseph
-- Min-Yen Kan
+- min
 - Dongwon Lee
 - Brett Powley
 - Dragomir Radev

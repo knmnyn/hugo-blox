@@ -6,7 +6,7 @@ authors:
 - Bhavitvya Malik
 - Abdul Waheed
 - Devamanyu Hazarika
-- Min-Yen Kan
+- min
 - Rajiv Ratn Shah
 date: '2021-04-01'
 publishDate: '2024-07-11T07:40:56.223020Z'

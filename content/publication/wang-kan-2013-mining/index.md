@@ -3,7 +3,7 @@ title: 'Mining Informal Language from Chinese Microtext: Joint Word Recognition 
   Segmentation'
 authors:
 - Aobo Wang
-- Min-Yen Kan
+- min
 date: '2013-08-01'
 publishDate: '2024-07-11T07:40:56.420009Z'
 publication_types:

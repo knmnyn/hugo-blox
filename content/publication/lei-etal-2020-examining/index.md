@@ -6,7 +6,7 @@ authors:
 - Zhixin Ma
 - Tian Gan
 - Wei Lu
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2020-11-01'
 publishDate: '2024-07-11T07:40:56.269384Z'

@@ -1,7 +1,7 @@
 ---
 title: Applying Natural Language Generation to Indicative Summarization
 authors:
-- Min-Yen Kan
+- min
 - Kathleen R. McKeown
 - Judith L. Klavans
 date: '2001-01-01'

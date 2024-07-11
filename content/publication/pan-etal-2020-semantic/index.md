@@ -5,7 +5,7 @@ authors:
 - Yuxi Xie
 - Yansong Feng
 - Tat-Seng Chua
-- Min-Yen Kan
+- min
 date: '2020-07-01'
 publishDate: '2024-07-11T07:40:56.306034Z'
 publication_types:

@@ -4,7 +4,7 @@ title: 'Molweni: A Challenge Multiparty Dialogues-based Machine Reading Comprehe
 authors:
 - Jiaqi Li
 - Ming Liu
-- Min-Yen Kan
+- min
 - Zihao Zheng
 - Zekun Wang
 - Wenqiang Lei

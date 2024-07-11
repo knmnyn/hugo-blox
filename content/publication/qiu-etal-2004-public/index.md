@@ -2,7 +2,7 @@
 title: A Public Reference Implementation of the RAP Anaphora Resolution Algorithm
 authors:
 - Long Qiu
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2004-05-01'
 publishDate: '2024-07-11T07:40:56.604279Z'

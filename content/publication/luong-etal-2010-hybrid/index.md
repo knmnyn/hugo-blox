@@ -4,7 +4,7 @@ title: A Hybrid Morpheme-Word Representation for Machine Translation of Morpholo
 authors:
 - Minh-Thang Luong
 - Preslav Nakov
-- Min-Yen Kan
+- min
 date: '2010-10-01'
 publishDate: '2024-07-11T07:40:56.493708Z'
 publication_types:

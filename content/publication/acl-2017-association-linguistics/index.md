@@ -3,7 +3,7 @@ title: 'Proceedings of the 55th Annual Meeting of the Association for Computatio
   Linguistics (Volume 2: Short Papers)'
 authors:
 - Regina Barzilay
-- Min-Yen Kan
+- min
 date: '2017-07-01'
 publishDate: '2024-07-11T07:40:56.389063Z'
 publication_types:

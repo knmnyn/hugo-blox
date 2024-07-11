@@ -2,7 +2,7 @@
 title: 'The ACL Anthology: Current State and Future Directions'
 authors:
 - Daniel Gildea
-- Min-Yen Kan
+- min
 - Nitin Madnani
 - Christoph Teichmann
 - Martı́n Villalba

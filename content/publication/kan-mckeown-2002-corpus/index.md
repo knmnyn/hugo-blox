@@ -1,7 +1,7 @@
 ---
 title: Corpus-trained Text Generation for Summarization
 authors:
-- Min-Yen Kan
+- min
 - Kathleen R. McKeown
 date: '2002-07-01'
 publishDate: '2024-07-11T07:40:56.610197Z'

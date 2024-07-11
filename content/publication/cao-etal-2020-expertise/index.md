@@ -5,7 +5,7 @@ authors:
 - Yixin Cao
 - Ruihao Shui
 - Liangming Pan
-- Min-Yen Kan
+- min
 - Zhiyuan Liu
 - Tat-Seng Chua
 date: '2020-07-01'

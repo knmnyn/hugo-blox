@@ -5,7 +5,7 @@ authors:
 - Akshay Bhola
 - Kishaloy Halder
 - Animesh Prasad
-- Min-Yen Kan
+- min
 date: '2020-12-01'
 publishDate: '2024-07-11T07:40:56.291153Z'
 publication_types:

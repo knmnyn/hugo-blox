@@ -2,7 +2,7 @@
 title: Integrating User-Generated Content in the ACL Anthology
 authors:
 - Praveen Bysani
-- Min-Yen Kan
+- min
 date: '2012-07-01'
 publishDate: '2024-07-11T07:40:56.444716Z'
 publication_types:

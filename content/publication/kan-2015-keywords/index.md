@@ -2,7 +2,7 @@
 title: 'Keywords, phrases, clauses and sentences: topicality, indicativeness and informativeness
   at scales'
 authors:
-- Min-Yen Kan
+- min
 date: '2015-07-01'
 publishDate: '2024-07-11T07:40:56.407539Z'
 publication_types:

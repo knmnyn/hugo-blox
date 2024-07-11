@@ -1,7 +1,7 @@
 ---
 title: Using the Annotated Bibliography as a Resource for Indicative Summarization
 authors:
-- Min-Yen Kan
+- min
 - Judith L. Klavans
 - Kathleen R. McKeown
 date: '2002-05-01'

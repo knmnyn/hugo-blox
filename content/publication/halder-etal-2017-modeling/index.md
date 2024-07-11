@@ -4,7 +4,7 @@ title: 'Modeling Temporal Progression of Emotional Status in Mental Health Forum
 authors:
 - Kishaloy Halder
 - Lahari Poddar
-- Min-Yen Kan
+- min
 date: '2017-09-01'
 publishDate: '2024-07-11T07:40:56.375219Z'
 publication_types:

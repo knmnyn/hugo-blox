@@ -3,7 +3,7 @@ title: Improved Temporal Relation Classification using Dependency Parses and Sel
   Crowdsourced Annotations
 authors:
 - Jun-Ping Ng
-- Min-Yen Kan
+- min
 date: '2012-12-01'
 publishDate: '2024-07-11T07:40:56.469115Z'
 publication_types:

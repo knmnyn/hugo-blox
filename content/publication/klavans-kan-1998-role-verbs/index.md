@@ -2,7 +2,7 @@
 title: Role of Verbs in Document Analysis
 authors:
 - Judith L. Klavans
-- Min-Yen Kan
+- min
 date: '1998-08-01'
 publishDate: '2024-07-11T07:40:56.643091Z'
 publication_types:
