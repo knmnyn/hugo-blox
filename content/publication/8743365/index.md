@@ -3,7 +3,7 @@ title: Resource Mention Extraction for MOOC Discussion Forums
 authors:
 - Ya-Hui An
 - Liangming Pan
-- Min-Yen Kan
+- min
 - Qiang Dong
 - Yan Fu
 date: '2019-01-01'
