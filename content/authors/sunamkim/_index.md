@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dongyuan Lu
+title: Su Nam Kim
 
 # Full Name (for SEO)
-first_name: Dongyuan
-last_name: Lu
+first_name: Su Nam
+last_name: Kim
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,8 +22,6 @@ bio: WING alumni; former postdoc
 
 interests:
   - Natural Language Processing
-  - Information Retrieval
-  - Online Social Networks
 
 # education:
 #  courses:
@@ -41,19 +39,19 @@ interests:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
- social:
+social:
   - icon: house
     icon_pack: fas
-    link: https://dblp.org/pid/73/8382.html
+    link: https://www.linkedin.com/in/su-nam-kim-33a6b34/
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:kanmy@comp.nus.edu.sg'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/knmnyn
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?user=aNVcd3EAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=wHFtqTIAAAAJ&hl=en
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/knmnyn
