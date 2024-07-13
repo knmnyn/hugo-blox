@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: WING lead; interests include Digital Libraries, Information Retrieval and Natural Language Processing. 
 
 interests:
   - Artificial Intelligence
@@ -80,7 +80,7 @@ user_groups:
 #  - Researchers
 ---
 
-Min-Yen Kan (BS;MS;PhD Columbia Univ.; SACM, SIEEE) is an Associate Professor and Vice Dean of Undergraduate Studies at the National University of Singapore. Min is an active member of the Association of Computational Linguistics (ACL), currently serving as a co-chair for the ACL Ethics Committee, and previously as the ACL Anthology Director (2008–2018). He is an associate editor for Information Retrieval and the survey editor for the Journal of AI Research (JAIR).
+Min-Yen Kan (BS;MS;PhD Columbia Univ.; SACM, SIEEE) is an Associate Professor and Vice Dean of Undergraduate Studies at the National University of Singapore. Min is an active member of the Association of Computational Linguistics (ACL), currently serving as a co-chair for the ACL Ethics Committee (ACL AEC), and previously as the ACL Anthology Director (2008–2018). He is an associate editor for Information Retrieval and the survey editor for the Journal of AI Research (JAIR).
 
 His research interests include digital libraries, natural language processing and information retrieval. He was recognized as a distinguished speaker by the ACM for natural language processing and digital libraries research. Specific projects include work in the areas of scientific discourse analysis, fact verification, full-text literature mining, lexical semantics and large language models. He leads the Web Information Retrieval / Natural Language Processing Group (WING.NUS) http://wing.comp.nus.edu.sg/ 
 
