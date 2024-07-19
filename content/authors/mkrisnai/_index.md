@@ -14,8 +14,8 @@ role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-  - name: National University of Singapore, School of Computing
-    url: 'http://www.comp.nus.edu.sg'
+  - name: Mohamed Bin Zayed University of Artificial Intelligence 
+    url: 'http://www.mbzuai.ac.ae/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Intern
