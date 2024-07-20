@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Victor Li
+title: Chuang Li 
 
 # Full Name (for SEO)
 first_name: Chuang
