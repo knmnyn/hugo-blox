@@ -3,7 +3,7 @@ title: 'BiRank: Towards Ranking on Bipartite Graphs'
 authors:
 - Xiangnan He
 - Ming Gao
-- Min-Yen Kan
+- min
 - Dingxian Wang
 date: '2017-01-01'
 publishDate: '2024-07-23T15:26:59.196448Z'
