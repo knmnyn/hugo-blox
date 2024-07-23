@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Chuang Li 
+title: Yisong Miao
 
 # Full Name (for SEO)
-first_name: Chuang
-last_name: Li
+first_name: Yisong
+last_name: Miao
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,21 +18,23 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate August 2020 Intake
+bio: PhD Candidate January 2021 Intake
 
 interests:
-  - Information Retrieval
-  - Conversational Recommender System
-  - Large Language Models
+  - Discourse Semantics
+  - Lexical Semantics
 
 education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      year: 2020-2024
-    - course: BSc in Electrical and Computer Engineering
+      year: 2021-Now
+    - course: Master of Computing
       institution: National University of Singapore
-      year: 2016-2020
+      year: 2018-2020
+    - course: Bachelor of Computing
+      institution: University of Chinese Academy of Sciences
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,16 +43,16 @@ education:
 social:
   - icon: house
     icon_pack: fas
-    link: https://lichuangnus.github.io
+    link: https://yisong.me
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lichuang@u.nus.edu'
+    link: 'mailto:yisong@comp.nus.edu.sg'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=_9Q_D1MAAAAJ&hl=en
+    link: http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/lichuangnus
+    link: https://github.com/yisongmiao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'lichuang@u.nus.edu'
+email: 'yisong@comp.nus.edu.sg'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,4 +72,4 @@ user_groups:
 #  - Researchers
 ---
 
-Victor is a 4-th year PhD Candidate jointly supervised by Professor Kan Min-Yen and Professor Li Haizhou. His reserach interestes are in Conversational Recommender System and Natural Language Processing. 
+Yisong is a fourth-year PhD student under the supervision of Prof. Min-Yen Kan. His research interests include discourse and lexical semantics. He [composes emojis](https://yisong.me/publications/ELCo@LREC-COLING24.pdf) to represent lexical compositions and [asks questions](https://yisong.me/publications/acl24-DiSQ-CR.pdf) to evaluate language models' faithful understanding of discourse relations.
