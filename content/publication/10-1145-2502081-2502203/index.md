@@ -3,7 +3,7 @@ title: Understanding and classifying image tweets
 authors:
 - Tao Chen
 - Dongyuan Lu
-- Min-Yen Kan
+- min
 - Peng Cui
 date: '2013-01-01'
 publishDate: '2024-07-23T15:26:59.182049Z'
