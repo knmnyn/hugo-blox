@@ -3,7 +3,7 @@ title: Fast Matrix Factorization for Online Recommendation with Implicit Feedbac
 authors:
 - Xiangnan He
 - Hanwang Zhang
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2016-01-01'
 publishDate: '2024-07-23T15:26:59.071156Z'
