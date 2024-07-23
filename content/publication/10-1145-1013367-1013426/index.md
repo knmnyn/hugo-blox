@@ -1,7 +1,7 @@
 ---
 title: Web page classification without the web page
 authors:
-- Min-Yen Kan
+- min
 date: '2004-01-01'
 publishDate: '2024-07-23T15:26:59.167638Z'
 publication_types:
