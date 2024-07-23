@@ -4,7 +4,7 @@ authors:
 - Van-Hoang Nguyen
 - Kazunari Sugiyama
 - Preslav Nakov
-- Min-Yen Kan
+- min
 date: '2020-01-01'
 publishDate: '2024-07-23T15:26:59.100134Z'
 publication_types:
