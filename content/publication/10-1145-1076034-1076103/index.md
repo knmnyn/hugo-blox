@@ -4,7 +4,7 @@ authors:
 - Hang Cui
 - Renxu Sun
 - Keya Li
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2005-01-01'
 publishDate: '2024-07-23T15:26:59.115351Z'
