@@ -2,7 +2,7 @@
 title: Comment-based multi-view clustering of web 2.0 items
 authors:
 - Xiangnan He
-- Min-Yen Kan
+- min
 - Peichu Xie
 - Xiao Chen
 date: '2014-01-01'
