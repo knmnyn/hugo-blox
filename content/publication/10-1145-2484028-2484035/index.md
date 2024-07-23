@@ -4,7 +4,7 @@ title: 'Addressing cold-start in app recommendation: latent user models construc
 authors:
 - Jovian Lin
 - Kazunari Sugiyama
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2013-01-01'
 publishDate: '2024-07-23T15:26:59.107639Z'
