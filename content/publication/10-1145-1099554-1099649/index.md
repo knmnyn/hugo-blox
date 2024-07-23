@@ -1,7 +1,7 @@
 ---
 title: Fast webpage classification using URL features
 authors:
-- Min-Yen Kan
+- min
 - Hoang Oanh Nguyen Thi
 date: '2005-01-01'
 publishDate: '2024-07-23T15:26:59.086224Z'
