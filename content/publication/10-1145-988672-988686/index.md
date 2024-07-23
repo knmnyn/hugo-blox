@@ -3,7 +3,7 @@ title: Unsupervised learning of soft patterns for generating definitions from on
   news
 authors:
 - Hang Cui
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2004-01-01'
 publishDate: '2024-07-23T15:26:59.159979Z'
