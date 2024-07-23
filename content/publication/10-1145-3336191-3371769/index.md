@@ -4,10 +4,10 @@ title: 'Estimation-Action-Reflection: Towards Deep Interaction Between Conversat
 authors:
 - Wenqiang Lei
 - Xiangnan He
-- Yisong Miao
+- yisong
 - Qingyun Wu
 - Richang Hong
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2020-01-01'
 publishDate: '2024-07-23T15:15:04.606218Z'
