@@ -3,7 +3,7 @@ title: Adaptive sorted neighborhood methods for efficient record linkage
 authors:
 - Su Yan
 - Dongwon Lee
-- Min-Yen Kan
+- min
 - Lee C. Giles
 date: '2007-01-01'
 publishDate: '2024-07-23T15:26:59.137040Z'
