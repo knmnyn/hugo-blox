@@ -3,7 +3,7 @@ title: 'TriRank: Review-aware Explainable Recommendation by Modeling Aspects'
 authors:
 - Xiangnan He
 - Tao Chen
-- Min-Yen Kan
+- min
 - Xiao Chen
 date: '2015-01-01'
 publishDate: '2024-07-23T15:26:59.078864Z'
