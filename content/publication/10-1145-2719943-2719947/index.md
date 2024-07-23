@@ -3,7 +3,7 @@ title: \"Towards higher relevance and serendipity in scholarly paper recommendat
   by Kazunari Sugiyama and Min-Yen Kan with Martin Vesely as coordinator
 authors:
 - Kazunari Sugiyama
-- Min-Yen Kan
+- min
 date: '2015-02-01'
 publishDate: '2024-07-23T15:26:59.061184Z'
 publication_types:
