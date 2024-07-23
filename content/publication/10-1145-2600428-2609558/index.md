@@ -3,7 +3,7 @@ title: Predicting the popularity of web 2.0 items based on user comments
 authors:
 - Xiangnan He
 - Ming Gao
-- Min-Yen Kan
+- min
 - Yiqun Liu
 - Kazunari Sugiyama
 date: '2014-01-01'
