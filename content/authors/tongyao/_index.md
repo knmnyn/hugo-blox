@@ -69,4 +69,4 @@ user_groups:
 #  - Researchers
 ---
 
-Tongyao is a second-year PhD student under the supervision of Prof. Min-Yen Kan. He is currently an industry PhD student in Sea AI Lab, mentored by Dr Liu Qian. He is interested in studying the memory mechanisms of language models as well as the intersection between information retrieval and LLMs. 
+Tongyao is a second-year PhD student under the supervision of Prof. Min-Yen Kan. He is concurrently an industry PhD student in Sea AI Lab, mentored by Dr Liu Qian. He is interested in studying the memory mechanisms of language models and the intersection between information retrieval and LLMs. 
