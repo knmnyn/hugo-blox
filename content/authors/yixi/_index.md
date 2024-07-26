@@ -57,8 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#  - Visitors / Interns
-  - Researchers
+  - Principal Investigator / Staff
+#  - Researchers
 ---
 
 Yixi is a Research Assistant at the NUS School of Computing, specializing in Natural Language Processing. Her current research focuses on controlled summarization of scientific documents, employing advanced techniques to generate customized summaries for various purposes. 
