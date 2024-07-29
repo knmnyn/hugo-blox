@@ -46,7 +46,7 @@ social:
     link: 'mailto:li.minzhi@u.nus.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=GGDzfZQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/Yocodeyo
