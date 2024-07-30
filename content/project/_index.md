@@ -12,24 +12,18 @@ banner:
 type: landing
 
 sections:
-  - block: people
+  - block: project
     content:
-      title: Meet the Team
       # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigator / Staff
-          - Graduate Students
-          - Undergraduate Students
-          - Visitors / Interns
-          - Staff Alumni
-          - Graduate Alumni
-          - Undergraduate / Intern Alumni
-      sort_by: Params.last_name
+      #   Edit `project_groups` in each user's profile to add them to one or more of these groups.
+      project_groups:
+          - Projects
+      sort_by: Params.year
       sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
 ---
+Test
 ---
