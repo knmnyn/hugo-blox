@@ -1,8 +1,8 @@
 ---
-title: The 2022 Singapore Symposium on Natural Language Processing (SSNLP '22)
+title: SSNLP '22
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: The 2022 Singapore Symposium on Natural Language Processing
+event_url: https://wing-nus.github.io/SSNLP-2022/
 
 location: NUS SR2 / SR3
 address:
