@@ -1,19 +1,16 @@
 ---
 # Display name
-title: Zekai Li
+title: Yan Meng
 
 # Full Name (for SEO)
-first_name: Zekai
-last_name: Li
+first_name: Yan
+last_name: Meng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: | 
-  UROP Student (Aug '23) <BR/> <font color=red><strong>OUR Awardee</strong></font>
-
-tags: ["mentor:Yanxia"]
+role: Masters Student (Aug '21)
 
 # Organizations/Affiliations
 organizations:
@@ -21,19 +18,25 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: FYP student
+bio: Graduate Student August 2021 Intake
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
+#  - icon: house
+#    icon_pack: fas
+#    link: https://.github.io/
 #  - icon: envelope
 #    icon_pack: fas
-#    link: 'mailto:yixi.d@nus.edu.sg'
+#    link: 'e1237209@u.nus.edu'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=
 #  - icon: github
 #    icon_pack: fab
-#    link: https://github.com/dyxohjl666
+#    link: https://github.com/xx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -41,7 +44,7 @@ bio: FYP student
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'yixi.d@nus.edu.sg'
+# email: 'e1237209@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -49,7 +52,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate / Intern Alumni
+  - Graduate Alumni
 #  - Researchers
 ---
-
