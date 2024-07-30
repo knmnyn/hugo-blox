@@ -15,6 +15,7 @@ sections:
           - Graduate Students
           - Undergraduate Students
           - Visitors / Interns
+          - Staff Alumni
           - Graduate Alumni
           - Undergraduate / Intern Alumni
       sort_by: Params.last_name
