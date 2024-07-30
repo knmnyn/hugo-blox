@@ -10,7 +10,7 @@ last_name: Luo
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Undergraduate Student (Apr '24)
 
 # Organizations/Affiliations
 organizations:

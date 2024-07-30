@@ -10,7 +10,7 @@ last_name: Ding
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Research Assistant (Jan '22)
 
 # Organizations/Affiliations
 organizations:

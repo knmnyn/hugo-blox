@@ -10,7 +10,7 @@ last_name: Miao
 superuser: false
 
 # Role/position
-role: Graduate Students
+role: Graduate Student (Jan '21)
 
 # Organizations/Affiliations
 organizations:
