@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Xunyi Jiang 
+title: Yanxia Qin
 
 # Full Name (for SEO)
-first_name: Xunyi
-last_name: Jiang
+first_name: Yanxia
+last_name: Qin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Undergraduate NGNE Intern (Jun '24)
+role: Postdoctoral Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,44 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate NGNE Intern (Jun '24) 
+bio: WING alumni; former postdoc
+
+interests:
+  - Natural Language Processing
+  - Scholarly Document Processing
+
+# education:
+#  courses:
+#    - course: PhD in Computer Science
+#      institution: Columbia University
+#      year: 2002
+#    - course: MS in Computer Science
+#      institution: Columbia University
+#      year: 2000
+#    - course: BSc in Computer Science
+#      institution: Columbia University
+#      year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
+social:
+  - icon: house
+    icon_pack: fas
+    link: https://www.linkedin.com/in/yanxia-qin-3766016a/?originalSubdomain=sg
 #  - icon: envelope
 #    icon_pack: fas
-#    link: 'mailto:yixi.d@nus.edu.sg'
+#    link: 'mailto:kanmy@comp.nus.edu.sg'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/knmnyn
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=aNVcd3EAAAAJ
 #  - icon: github
 #    icon_pack: fab
-#    link: https://github.com/dyxohjl666
+#    link: https://github.com/knmnyn
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -38,7 +63,7 @@ bio: Undergraduate NGNE Intern (Jun '24)
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'yixi.d@nus.edu.sg'
+# email: 'kanmy@comp.nus.edu.sg'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -46,7 +71,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate / Intern Alumni
+  - Alumni
 #  - Researchers
 ---
-
