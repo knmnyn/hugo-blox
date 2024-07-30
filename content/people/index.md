@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+# date: 2022-10-24
 
 type: landing
 
@@ -25,3 +25,4 @@ sections:
       show_role: true
       show_social: true
 ---
+Test text for People.
