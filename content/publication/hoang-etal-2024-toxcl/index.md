@@ -12,7 +12,7 @@ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-03-26T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics*

@@ -12,7 +12,7 @@ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-10-08T17:06:11.943Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 IEEE International Conference on Image Processing*

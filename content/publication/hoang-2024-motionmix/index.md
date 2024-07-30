@@ -11,7 +11,7 @@ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-24T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 38th Annual AAAI Conference on Artificial Intelligence*

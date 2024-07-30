@@ -13,7 +13,7 @@ doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-02-28T00:00:00Z'
-publication_types: ['1']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 39th ACM/SIGAPP Symposium On Applied Computing 2024*

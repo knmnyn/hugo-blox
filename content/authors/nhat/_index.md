@@ -37,24 +37,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: house
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=HOItlroAAAAJ&hl=en&oi=ao
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/nhathoang2002/
+    link: https://nhathoang2002.github.io/
   - icon: github
     icon_pack: fab
     link: https://github.com/NhatHoang2002
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/nhathoang2002/
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/NhatHoang2002
-    label: Follow me on Twitter
-    display:
-      header: true
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.sg/citations?hl=en&user=d6ixOGYAAAAJ&view_op=list_works
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
