@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuxi Xie
+title: Haoyue Liu
 
 # Full Name (for SEO)
 first_name: Haoyue
