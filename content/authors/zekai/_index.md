@@ -11,7 +11,9 @@ superuser: false
 
 # Role/position
 role: | 
-  UROP Student (Aug '23) <BR/> <strong>OUR Awardee</strong>
+  UROP Student (Aug '23) <BR/> <font color=red><strong>OUR Awardee</strong></font>
+
+tag: ["mentor:Yanxia"]
 
 # Organizations/Affiliations
 organizations:
