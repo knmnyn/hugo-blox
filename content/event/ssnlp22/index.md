@@ -24,7 +24,7 @@ all_day: true
 publishDate: '2022-05-13'
 
 authors: [yanxia]
-tags: ["SSNLP", "Workshop"]
+tags: ["SSNLP", "Workshop", "Natural Language Processing"]
 
 # Is this a featured talk? (true/false)
 featured: false
