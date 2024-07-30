@@ -8,11 +8,12 @@ location: NUS SR2 / SR3
 address:
   street: 13 Computing Drive
   city: Singapore
-  region: 
+  region: Singapore
   postcode: '117417'
   country: Singapore
-summary: The 2022 Singapore Symposium on Natural Language Processing
-abstract: 'We are pleased to announce that the Singapore Symposium on Natural Language Processing (SSNLP 2022) will be held on Friday, 13 May (full day)! This is a pre-conference practice workshop for both local students, practitioners and faculty working in natural language processing to network. This is a free event, open to the public, but requires registration. It will be held in two parallel tracks at the School's Seminar Room 2 and Seminar Room 3'
+
+summary: 'The 2022 Singapore Symposium on Natural Language Processing'
+abstract: 'We are pleased to announce that the Singapore Symposium on Natural Language Processing (SSNLP 2022) will be held on Friday, 13 May (full day)! This is a pre-conference practice workshop for both local students, practitioners and faculty working in natural language processing to network. This is a free event, open to the public, but requires registration. It will be held in two parallel tracks at the Schools Seminar Room 2 and Seminar Room 3'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
