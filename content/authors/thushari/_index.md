@@ -10,7 +10,7 @@ last_name: Pahalage
 superuser: false
 
 # Role/position
-role: Research Intern
+role: Research Intern (Jun '24)
 
 # Organizations/Affiliations
 organizations:

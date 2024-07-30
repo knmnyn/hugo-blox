@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: Graduate Students
+role: Graduate Student (Aug '20)
 
 # Organizations/Affiliations
 organizations:

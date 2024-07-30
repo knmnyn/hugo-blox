@@ -10,7 +10,7 @@ last_name: Hu
 superuser: false
 
 # Role/position
-role: Graduate Students
+role: Graduate Student (Aug '19)
 
 # Organizations/Affiliations
 organizations:

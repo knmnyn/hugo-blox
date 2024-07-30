@@ -11,7 +11,7 @@ last_name: Hoang
 superuser: true
 
 # Role/position
-role: Research Intern
+role: Research Intern (Jul '24)
 
 # Organizations/Affiliations
 organizations:

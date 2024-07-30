@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: false
 
 # Role/position
-role: Graduate Students
+role: Graduate Student (Jan '23)
 
 # Organizations/Affiliations
 organizations:

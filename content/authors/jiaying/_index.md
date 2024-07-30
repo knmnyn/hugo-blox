@@ -10,7 +10,7 @@ last_name: Wu
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Research Fellow (Jul '24)
 
 # Organizations/Affiliations
 organizations:

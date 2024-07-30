@@ -10,7 +10,7 @@ last_name: Ihsani
 superuser: false
 
 # Role/position
-role: Research Intern
+role: Research Intern (Jul '24)
 
 # Organizations/Affiliations
 organizations:
