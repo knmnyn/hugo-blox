@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yisong Miao
+title: Yuxi Xie
 
 # Full Name (for SEO)
-first_name: Yisong
-last_name: Miao
+first_name: Yuxi
+last_name: Xie
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,20 +21,21 @@ organizations:
 bio: PhD Candidate January 2021 Intake
 
 interests:
-  - Discourse Semantics
-  - Lexical Semantics
+  - Multi-Step Reasoning and Text Generation
+  - Vision-Language Understanding and Reasoning
+  - Self-Improvement for Large Foundation Models
 
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. Student in Computer Science
       institution: National University of Singapore
       year: 2021-Now
-    - course: Master of Computing
-      institution: National University of Singapore
-      year: 2018-2020
-    - course: Bachelor of Computing
-      institution: University of Chinese Academy of Sciences
-      year: 2014-2018
+    - course: Bachelor of Economics
+      institution: Peking University
+      year: 2017-2020
+    - course: B.S. in Data Science and Big Data Technology
+      institution: Peking University
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,16 +44,16 @@ education:
 social:
   - icon: house
     icon_pack: fas
-    link: https://yisong.me
+    link: https://yuxixie.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yisong@comp.nus.edu.sg'
+    link: 'xieyuxi@u.nus.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: http://scholar.google.com/citations?user=a-oIKBoAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=LNLECx0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/yisongmiao
+    link: https://github.com/YuxiXie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yisong@comp.nus.edu.sg'
+email: 'xieyuxi@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,4 +73,6 @@ user_groups:
 #  - Researchers
 ---
 
-Yisong is a fourth-year PhD student under the supervision of Prof. Min-Yen Kan. His research interests include discourse and lexical semantics. He [composes emojis](https://yisong.me/publications/ELCo@LREC-COLING24.pdf) to represent lexical compositions and [asks questions](https://yisong.me/publications/acl24-DiSQ-CR.pdf) to evaluate language models' faithful understanding of discourse relations.
+Yuxi is a fourth-year Ph.D. student advised by Prof. Min-Yen Kan. She is visiting University of California, Santa Barbara and collaborates with Prof. William Wang in 2024. Her primary research focus is on Vision-Language Understanding and Reasoning. Prior to that, She worked with Prof. Yansong Feng at Wangxuan Institute of Computer Technology at Peking University.
+
+Her primary research focus is on Vision-Language Understanding and Reasoning. She is working on developing training and inference-time algorithms to enhance the reasoning capabilities of large foundation models, including both LVLMs and LLMs. She has also been interested in Natural Language Generation, especially about generating deep questions that require complex reasoning on textual and multimodal data.

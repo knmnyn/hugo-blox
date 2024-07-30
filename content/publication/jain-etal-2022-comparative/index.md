@@ -2,7 +2,7 @@
 title: Comparative Snippet Generation
 authors:
 - Saurabh Jain
-- Yisong Miao
+- yisong
 - min
 date: '2022-05-01'
 publishDate: '2024-07-05T17:09:42.617512Z'

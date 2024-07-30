@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Chuang Li 
+title: Yixi Ding
 
 # Full Name (for SEO)
-first_name: Chuang
-last_name: Li
+first_name: Yixi
+last_name: Ding
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Graduate Students
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,39 +18,30 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate August 2020 Intake
+bio: Research Assistant 
 
 interests:
-  - Information Retrieval
-  - Conversational Recommender System
-  - Large Language Models
+  - Controlled Summarization
+  - Scientific Document Processing
+
 
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: National University of Singapore
-      year: 2020-2024
-    - course: BSc in Electrical and Computer Engineering
-      institution: National University of Singapore
-      year: 2016-2020
+    - course: Bachelor in Software Engineer
+      institution: Donghua University, China
+      year: 2018~2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: house
-    icon_pack: fas
-    link: https://lichuangnus.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lichuang@u.nus.edu'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=_9Q_D1MAAAAJ&hl=en
+    link: 'mailto:yixi.d@nus.edu.sg'
   - icon: github
     icon_pack: fab
-    link: https://github.com/lichuangnus
+    link: https://github.com/dyxohjl666
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'lichuang@u.nus.edu'
+email: 'yixi.d@nus.edu.sg'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,8 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Principal Investigator / Staff
 #  - Researchers
 ---
 
-Victor is a 4-th year PhD Candidate jointly supervised by Professor Kan Min-Yen and Professor Li Haizhou. His research interests are in Conversational Recommender System and Natural Language Processing. 
+Yixi is a Research Assistant at the NUS School of Computing, specializing in Natural Language Processing. Her current research focuses on controlled summarization of scientific documents, employing advanced techniques to generate customized summaries for various purposes. 

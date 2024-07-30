@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Chuang Li 
+title: Minzhi Li (Ella)
 
 # Full Name (for SEO)
-first_name: Chuang
+first_name: Minzhi (Ella)
 last_name: Li
 
 # Is this the primary user of the site?
@@ -18,21 +18,20 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate August 2020 Intake
+bio: PhD Candidate August 2022 Intake
 
 interests:
-  - Information Retrieval
-  - Conversational Recommender System
-  - Large Language Models
+  - Socially Aware NLP Systems
+  - Human-Centric and Data-Centric NLP
 
 education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      year: 2020-2024
-    - course: BSc in Electrical and Computer Engineering
+      year: 2022-Now
+    - course: Bachelor of Science, Business Analytics
       institution: National University of Singapore
-      year: 2016-2020
+      year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -41,16 +40,16 @@ education:
 social:
   - icon: house
     icon_pack: fas
-    link: https://lichuangnus.github.io
+    link: https://yocodeyo.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lichuang@u.nus.edu'
+    link: 'mailto:li.minzhi@u.nus.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=_9Q_D1MAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=GGDzfZQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/lichuangnus
+    link: https://github.com/Yocodeyo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'lichuang@u.nus.edu'
+email: 'li.minzhi@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,4 +69,4 @@ user_groups:
 #  - Researchers
 ---
 
-Victor is a 4-th year PhD Candidate jointly supervised by Professor Kan Min-Yen and Professor Li Haizhou. His research interests are in Conversational Recommender System and Natural Language Processing. 
+Minzhi (Ella) is a third-year PhD student under the supervision of Prof. Min-Yen Kan, Dr. Nancy F Chen, and Prof. Shafiq Joty. She also collaborates closely with Prof. Diyi Yang. She is working on evaluation of social intelligence in NLP systems. Her works have contributed taxonomy ([Social AI Data Infrastructure](https://arxiv.org/abs/2403.14659)), datasets ([Positive Reframing](https://arxiv.org/abs/2204.02952)), and data-efficient methods ([CoAnnotating](https://aclanthology.org/2023.emnlp-main.92/), [Decompose-and-Aggregate](https://arxiv.org/abs/2405.15329)) to evaluate language models' social intelligence levels.
