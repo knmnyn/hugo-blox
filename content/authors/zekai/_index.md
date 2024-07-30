@@ -10,7 +10,8 @@ last_name: Li
 superuser: true
 
 # Role/position
-role: UROP Student (Aug '23)
+role: | 
+  UROP Student (Aug '23) <BR/> OUR Awardee
 
 # Organizations/Affiliations
 organizations:

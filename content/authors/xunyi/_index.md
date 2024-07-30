@@ -10,7 +10,7 @@ last_name: Jiang
 superuser: true
 
 # Role/position
-role: Undergraduate NGNE Intern (Jun '24)
+role: NGNE Intern (Jun '24)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate NGNE Intern (Jun '24) 
+bio: NGNE Intern (Jun '24) 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
