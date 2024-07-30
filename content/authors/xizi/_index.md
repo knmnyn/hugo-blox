@@ -7,7 +7,7 @@ first_name: Xizi
 last_name: Luo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: FYP Student (Aug '24)

@@ -8,7 +8,7 @@ middle_name: Minh
 last_name: Hoang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Research Intern (Jul '24)

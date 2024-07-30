@@ -4,10 +4,16 @@ title: Example Project
 summary: An example project.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
-tags: [Tag1 Tag2]
+tags: ["Tag1", "Tag2"]
 year: 2023
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2023-08-01'
+#date_end: '2030-0-01T15:00:00Z'
+all_day: true
+
 # Is this a featured project? (true/false)
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
@@ -23,13 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides:
 
-authors: ["kaz", "dongyuan"]
+authors: ["min", "jiaying"]
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
 ---
-Test text
+Project Description

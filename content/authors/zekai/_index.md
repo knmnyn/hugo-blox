@@ -7,11 +7,11 @@ first_name: Zekai
 last_name: Li
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: | 
-  UROP Student (Aug '23) <BR/> OUR Awardee
+  UROP Student (Aug '23) <BR/> <strong>OUR Awardee</strong>
 
 # Organizations/Affiliations
 organizations:

@@ -7,7 +7,7 @@ first_name: Xunyi
 last_name: Jiang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: NGNE Intern (Jun '24)
