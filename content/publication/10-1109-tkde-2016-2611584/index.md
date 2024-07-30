@@ -31,6 +31,7 @@ abstract: "The bipartite graph is a ubiquitous data structure that can model the
   real-world datasets demonstrate BiRank's soundness&nbsp;(fast convergence), efficiency&nbsp;(linear
   in the number of graph edges), and effectiveness&nbsp;(achieving state-of-the-art
   in the two real-world tasks)."
+tags: ["2017", "Information Retrieval"]
 links:
 - name: URL
   url: https://doi.org/10.1109/TKDE.2016.2611584
