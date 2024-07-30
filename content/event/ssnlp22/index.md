@@ -12,8 +12,8 @@ address:
   postcode: '117417'
   country: Singapore
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: The 2022 Singapore Symposium on Natural Language Processing
+abstract: 'We are pleased to announce that the Singapore Symposium on Natural Language Processing (SSNLP 2022) will be held on Friday, 13 May (full day)! This is a pre-conference practice workshop for both local students, practitioners and faculty working in natural language processing to network. This is a free event, open to the public, but requires registration. It will be held in two parallel tracks at the School's Seminar Room 2 and Seminar Room 3'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
