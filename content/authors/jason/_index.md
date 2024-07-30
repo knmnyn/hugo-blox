@@ -10,7 +10,7 @@ last_name: Qiu
 superuser: true
 
 # Role/position
-role: Undergraduate Student (Apr '24)
+role: FYP Student (Aug '24)
 
 # Organizations/Affiliations
 organizations:
