@@ -23,7 +23,7 @@ abstract: Can emojis be composed to convey intricate meanings like English phras
 # Summary. An optional shortened abstract.
 summary: Can emojis convey intricate meanings like English phrases? We present the Emoji-Lexical Composition (ELCo) dataset with 1,655 instances spanning 209 concepts, from tangible to abstract ideas. ELCo enables analysis of emoji and lexical composition. Our Emoji-based Textual Entailment (EmoTE) task reveals challenges for current models, but fine-tuning improves performance significantly.
 
-tags: [nlp]
+tags: ["ELCo", "Emoji", "Natural Langauge Processing", "2024"]
 
 # Display this page in the Featured widget?
 featured: true

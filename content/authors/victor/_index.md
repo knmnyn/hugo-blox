@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: Doctoral Student (Aug '20)
+role: ISEP Doctoral Student (Aug '20)
 
 # Organizations/Affiliations
 organizations:

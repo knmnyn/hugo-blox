@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: Doctoral Student (Aug '22)
+role: A*STAR Doctoral Student (Aug '22)
 
 # Organizations/Affiliations
 organizations:

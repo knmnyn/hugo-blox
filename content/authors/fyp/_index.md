@@ -10,7 +10,7 @@ last_name: Last
 superuser: false
 
 # Role/position
-role: Undergraduate Student (Apr '24)
+role: Undergraduate Student (Aug '24)
 
 # Organizations/Affiliations
 organizations:
