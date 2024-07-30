@@ -10,7 +10,7 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Graduate Student (Jan '24)
+role: Masters Student (Jan '24)
 
 # Organizations/Affiliations
 organizations:
