@@ -11,7 +11,6 @@ address:
   region: 
   postcode: '117417'
   country: Singapore
-
 summary: The 2022 Singapore Symposium on Natural Language Processing
 abstract: 'We are pleased to announce that the Singapore Symposium on Natural Language Processing (SSNLP 2022) will be held on Friday, 13 May (full day)! This is a pre-conference practice workshop for both local students, practitioners and faculty working in natural language processing to network. This is a free event, open to the public, but requires registration. It will be held in two parallel tracks at the School's Seminar Room 2 and Seminar Room 3'
 
