@@ -18,8 +18,8 @@ banner:
       #   Edit `project_groups` in each user's profile to add them to one or more of these groups.
 #      project_groups:
 #          - Projects
-      sort_by: Params.year
-      sort_ascending: true
+#      sort_by: Params.year
+#      sort_ascending: true
 #    design:
 #      show_interests: false
 #      show_role: true
