@@ -2,12 +2,12 @@
 title: Research Projects
 
 # Listing view
-view: compact
+view: card
 
 # Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# banner:
+#  caption: ''
+#  image: ''
 
 # type: landing
 
@@ -25,5 +25,5 @@ banner:
 #      show_role: true
 #      show_social: true
 ---
-Test
+WING researchers work on many information retrieval and natural language processing topics, including scholarly digital libraries, large language models, and recommender systems.  
 ---
