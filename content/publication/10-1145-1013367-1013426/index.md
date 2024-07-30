@@ -19,6 +19,8 @@ tags:
 - text categorization
 - uniform resource locator
 - word segmentation
+- information retrieval
+- 2004
 links:
 - name: URL
   url: https://doi.org/10.1145/1013367.1013426

@@ -36,6 +36,8 @@ tags:
 - latent user models
 - collaborative filtering
 - cold-start problem
+- information retrieval
+- 2013
 links:
 - name: URL
   url: https://doi.org/10.1145/2484028.2484035

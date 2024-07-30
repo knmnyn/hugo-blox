@@ -24,6 +24,9 @@ tags:
 - image tweets
 - classification
 - analysis
+- 2013
+- multimedia
+- tweets
 links:
 - name: URL
   url: https://doi.org/10.1145/2502081.2502203

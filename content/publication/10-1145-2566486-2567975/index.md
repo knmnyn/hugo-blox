@@ -34,9 +34,13 @@ abstract: Clustering Web 2.0 items (i.e., web resources like videos, images) int
   gain of 7%.
 tags:
 - CoNMF
-- co-regularized nmf
+- co-regularized NMF
 - comment-based clustering
 - multi-view clustering
+- clustering
+- information retrieval
+- World Wide Web
+- 2014
 links:
 - name: URL
   url: https://doi.org/10.1145/2566486.2567975
