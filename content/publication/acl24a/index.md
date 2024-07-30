@@ -3,7 +3,7 @@ title: 'Beyond Memorization: The Challenge of Random Memory Access in Language M
 # Tongyao Zhu, Qian Liu, Liang Pang, Zhengbao Jiang, Min-Yen Kan and Min Lin (2024) Beyond Memorization: The Challenge of Random Memory Access in Language Models. In Proceedings of the Annual Meeting fof the Association of Computational Linguistics (ACL '24).
 
 authors:
-  - Tongyao Zhu
+  - tongyao
   - Qian Liu
   - Liang Pang
   - Zhengbao Jiang

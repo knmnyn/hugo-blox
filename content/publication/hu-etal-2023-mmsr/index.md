@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems"
 authors:
-  - Hengchang Hu
+  - hengchang
   - Wei Guo
   - Yong Liu
   - min

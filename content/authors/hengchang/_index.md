@@ -21,8 +21,8 @@ organizations:
 bio: PhD Candidate August 2019 Intake
 
 interests:
-  - Recommender System
-  - MultiModal
+  - Recommender Systems
+  - Multi-Modality
 
 education:
   courses:

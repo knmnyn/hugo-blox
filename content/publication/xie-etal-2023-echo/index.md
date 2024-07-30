@@ -2,7 +2,7 @@
 title: 'ECHo: A Visio-Linguistic Dataset for Event Causality Inference via Human-Centric
   Reasoning'
 authors:
-- Yuxi Xie
+- yuxi
 - Guanzhen Li
 - min
 date: '2023-12-01'
