@@ -5,7 +5,7 @@ authors:
 - Ming Gao
 - min
 - Yiqun Liu
-- Kazunari Sugiyama
+- kaz
 date: '2014-01-01'
 publishDate: '2024-07-23T15:26:59.152586Z'
 publication_types:

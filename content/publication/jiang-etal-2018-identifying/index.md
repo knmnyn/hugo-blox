@@ -4,7 +4,7 @@ authors:
 - Shenhao Jiang
 - Animesh Prasad
 - min
-- Kazunari Sugiyama
+- kaz
 date: '2018-08-01'
 publishDate: '2024-07-11T07:40:56.368249Z'
 publication_types:

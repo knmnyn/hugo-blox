@@ -1,7 +1,7 @@
 ---
 title: Exploiting potential citation papers in scholarly paper recommendation
 authors:
-- Kazunari Sugiyama
+- kaz
 - min
 date: '2013-01-01'
 publishDate: '2024-07-23T15:26:59.122443Z'

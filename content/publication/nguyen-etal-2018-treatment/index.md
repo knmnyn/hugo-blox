@@ -2,7 +2,7 @@
 title: Treatment Side Effect Prediction from Online User-generated Content
 authors:
 - Van Hoang Nguyen
-- Kazunari Sugiyama
+- kaz
 - min
 - Kishaloy Halder
 date: '2018-10-01'

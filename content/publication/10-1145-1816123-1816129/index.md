@@ -1,7 +1,7 @@
 ---
 title: Scholarly paper recommendation via user's recent research interests
 authors:
-- Kazunari Sugiyama
+- kaz
 - min
 date: '2010-01-01'
 publishDate: '2024-07-23T15:26:59.093108Z'
