@@ -10,7 +10,7 @@ last_name: Gan
 superuser: false
 
 # Role/position
-role: PhD Student 
+role: PhD Candidate 
 
 # Organizations/Affiliations
 organizations:
