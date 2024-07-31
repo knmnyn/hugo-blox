@@ -25,7 +25,11 @@ bio: Doctoral Alumni ()
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 # social:
-#  - icon: envelope
+social:
+  - icon: house
+    icon_pack: fas
+    link: 'https://www.linkedin.com/in/abhinavkashyap92/'
+    #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:yixi.d@nus.edu.sg'
 #  - icon: github
