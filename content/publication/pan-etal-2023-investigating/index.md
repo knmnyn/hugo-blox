@@ -1,7 +1,7 @@
 ---
 title: Investigating Zero- and Few-shot Generalization in Fact Verification
 authors:
-- Liangming Pan
+- liangming
 - yunxiang
 - min
 date: '2023-11-01'

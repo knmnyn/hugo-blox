@@ -4,7 +4,7 @@ title: 'Expertise Style Transfer: A New Task Towards Better Communication betwee
 authors:
 - Yixin Cao
 - Ruihao Shui
-- Liangming Pan
+- liangming
 - min
 - Zhiyuan Liu
 - Tat-Seng Chua

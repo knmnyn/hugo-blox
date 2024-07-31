@@ -2,7 +2,7 @@
 title: On the Risk of Misinformation Pollution with Large Language Models
 authors:
 - Yikang Pan
-- Liangming Pan
+- liangming
 - Wenhu Chen
 - Preslav Nakov
 - min

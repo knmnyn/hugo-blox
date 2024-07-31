@@ -3,7 +3,7 @@ title: 'Doolittle: Benchmarks and Corpora for Academic Writing Formalization'
 authors:
 - Shizhe Diao
 - Yongyu Lei
-- Liangming Pan
+- liangming
 - Tianqing Fang
 - Wangchunshu Zhou
 - Sedrick Keh

@@ -1,7 +1,7 @@
 ---
 title: Attacking Open-domain Question Answering by Injecting Misinformation
 authors:
-- Liangming Pan
+- liangming
 - Wenhu Chen
 - min
 - William Yang Wang

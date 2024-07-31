@@ -1,7 +1,7 @@
 ---
 title: Semantic Graphs for Generating Deep Questions
 authors:
-- Liangming Pan
+- liangming
 - yuxi
 - Yansong Feng
 - Tat-Seng Chua

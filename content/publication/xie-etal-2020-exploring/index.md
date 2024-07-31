@@ -2,7 +2,7 @@
 title: Exploring Question-Specific Rewards for Generating Deep Questions
 authors:
 - yuxi
-- Liangming Pan
+- liangming
 - Dongzhe Wang
 - min
 - Yansong Feng
