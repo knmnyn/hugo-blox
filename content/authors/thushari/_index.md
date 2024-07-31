@@ -10,7 +10,7 @@ last_name: Pahalage
 superuser: false
 
 # Role/position
-role: Research Intern (Jun '24)
+role: SRI Intern (Jul '24)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://genial.univ-lorraine.fr/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Intern
+bio: Summer Research Intern (SRI Programme)
 
 interests:
   - Machine Learning

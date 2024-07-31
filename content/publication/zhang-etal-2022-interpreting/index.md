@@ -1,7 +1,7 @@
 ---
 title: Interpreting the Robustness of Neural NLP Models to Textual Perturbations
 authors:
-- Yunxiang Zhang
+- yunxiang
 - Liangming Pan
 - Samson Tan
 - min
