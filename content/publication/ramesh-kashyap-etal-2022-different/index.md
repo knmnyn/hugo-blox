@@ -1,7 +1,7 @@
 ---
 title: So Different Yet So Alike! Constrained Unsupervised Text Style Transfer
 authors:
-- Abhinav Ramesh Kashyap
+- abhinav
 - Devamanyu Hazarika
 - min
 - Roger Zimmermann

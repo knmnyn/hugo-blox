@@ -1,7 +1,7 @@
 ---
 title: SciWING-- A Software Toolkit for Scientific Document Processing
 authors:
-- Abhinav Ramesh Kashyap
+- abhinav
 - min
 date: '2020-11-01'
 publishDate: '2024-07-11T07:40:56.255395Z'

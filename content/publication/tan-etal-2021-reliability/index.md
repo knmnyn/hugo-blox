@@ -1,7 +1,7 @@
 ---
 title: Reliability Testing for Natural Language Processing Systems
 authors:
-- Samson Tan
+- samson
 - Shafiq Joty
 - Kathy Baxter
 - Araz Taeihagh

@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Liangming Pan
+title: Abhinav Ramesh Kashyap
 
 # Full Name (for SEO)
-first_name: Liangming
-last_name: Pan
+first_name: Abhinav Ramesh Kashyap
+last_name: Kashyap
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Alumni ('22)
+role: Doctoral Alumni ('24)
 
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore, School of Computing
-    url: 'https://liangmingpan.bio'
+    url: 'https://www.linkedin.com/in/abhinavkashyap92/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumni ('22)
+bio: Doctoral Alumni ()
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

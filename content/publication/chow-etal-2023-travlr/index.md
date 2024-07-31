@@ -3,7 +3,7 @@ title: 'TraVLR: Now You See It, Now You Don′t! A Bimodal Dataset for Evaluatin
   Reasoning'
 authors:
 - kengji
-- Samson Tan
+- samson
 - min
 date: '2023-05-01'
 publishDate: '2024-07-06T02:22:24.618335Z'

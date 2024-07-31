@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Liangming Pan
+title: Samson Tan
 
 # Full Name (for SEO)
-first_name: Liangming
-last_name: Pan
+first_name: Samson
+last_name: Tan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Alumni ('22)
+role: Doctoral Alumni ('23)
 
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore, School of Computing
-    url: 'https://liangmingpan.bio'
+    url: 'https://samsontmr.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumni ('22)
+bio: Doctoral Alumni ('23)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
