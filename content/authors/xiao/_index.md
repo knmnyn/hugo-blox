@@ -10,7 +10,7 @@ last_name: Xu
 superuser: false
 
 # Role/position
-role: Visiting Student (Sep '23)
+role: CSC Visiting Student (Sep '23)
 
 # Organizations/Affiliations
 organizations:
