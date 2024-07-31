@@ -3,7 +3,7 @@ title: 'The ELCo Dataset: Bridging Emoji and Lexical Composition'
 # Zi Yun Yang, Ziqing Zhang, and Yisong Miao (2024) The ELCo Dataset: Bridging Emoji and Lexical Composition. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING '24).
 
 authors:
-  - Zi Yun Yang
+  - ziyun
   - Ziqing Zhang
   - yisong
 

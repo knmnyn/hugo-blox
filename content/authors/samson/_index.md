@@ -10,7 +10,7 @@ last_name: Tan
 superuser: false
 
 # Role/position
-role: Doctoral Alumni ('23)
+role: Doctoral Alumni ('22)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://samsontmr.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumni ('23)
+bio: Doctoral Alumni ('22)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

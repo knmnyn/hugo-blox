@@ -1,16 +1,16 @@
 ---
 # Display name
-title: George Po-Wei Huang
+title: Xinze Li
 
 # Full Name (for SEO)
-first_name: George Po-Wei
-last_name: Huang
+first_name: Xinze
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UROP Student (Aug '21)
+role: Undergraduate Student (Aug '20)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: UROP student
+bio: FYP student
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

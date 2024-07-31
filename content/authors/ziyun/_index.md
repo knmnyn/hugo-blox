@@ -1,16 +1,16 @@
 ---
 # Display name
-title: First Last
+title: Zi Yun Yang
 
 # Full Name (for SEO)
-first_name: First
-last_name: Last
+first_name: Zi Yun
+last_name: Yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student (Aug '24)
+role: Undergraduate Student (Aug '21)
 
 # Organizations/Affiliations
 organizations:
