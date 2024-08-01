@@ -10,7 +10,8 @@ last_name: Gan
 superuser: false
 
 # Role/position
-role: PhD Candidate 
+role: |
+Doctoral Student (Aug '23) <br/> Co-Supervised by <a href="http://michaelshieh.com">Michael Shieh</a>
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +19,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student
+bio: PhD Candidate August 2023 Intake
 
 interests:
   - Artificial Intelligence
@@ -56,6 +57,4 @@ user_groups:
   - Graduate Students
 #  - Researchers
 ---
-
-Luo Xizi is a FYP student joing our group in 2024. 
 
