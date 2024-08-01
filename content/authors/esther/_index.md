@@ -10,8 +10,7 @@ last_name: Gan
 superuser: false
 
 # Role/position
-role: |
-Doctoral Student (Aug '23) <br/> Co-Supervised by <a href="http://michaelshieh.com">Michael Shieh</a>
+role: Doctoral Student (Aug '23) <br/> Co-Supervised by <a href="http://michaelshieh.com">Michael Shieh</a>
 
 # Organizations/Affiliations
 organizations:
