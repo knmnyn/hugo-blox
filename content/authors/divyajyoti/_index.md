@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Divyajyoti
+title: Divyajyoti Panda
 
 # Full Name (for SEO)
 first_name: Divyajyoti
