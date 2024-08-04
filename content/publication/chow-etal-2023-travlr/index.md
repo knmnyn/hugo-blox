@@ -2,8 +2,8 @@
 title: 'TraVLR: Now You See It, Now You Don′t! A Bimodal Dataset for Evaluating Visio-Linguistic
   Reasoning'
 authors:
-- Keng Ji Chow
-- Samson Tan
+- kengji
+- samson
 - min
 date: '2023-05-01'
 publishDate: '2024-07-06T02:22:24.618335Z'

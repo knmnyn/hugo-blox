@@ -1,7 +1,7 @@
 ---
 title: Zero-shot Fact Verification by Claim Generation
 authors:
-- Liangming Pan
+- liangming
 - Wenhu Chen
 - Wenhan Xiong
 - min

@@ -1,7 +1,7 @@
 ---
 title: Fact-Checking Complex Claims with Program-Guided Reasoning
 authors:
-- Liangming Pan
+- liangming
 - Xiaobao Wu
 - Xinyuan Lu
 - Anh Tuan Luu

@@ -2,7 +2,7 @@
 title: Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection
   Encoding
 authors:
-- Samson Tan
+- samson
 - Shafiq Joty
 - Lav Varshney
 - min

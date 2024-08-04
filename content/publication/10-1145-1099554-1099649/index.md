@@ -21,6 +21,9 @@ abstract: We demonstrate the usefulness of the uniform resource locator (URL) al
 tags:
 - webpage classification
 - uniform resource locator
+- URL
+- information retrieval
+- 2005
 links:
 - name: URL
   url: https://doi.org/10.1145/1099554.1099649

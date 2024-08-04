@@ -3,7 +3,7 @@ title: 'Beyond Memorization: The Challenge of Random Memory Access in Language M
 # Tongyao Zhu, Qian Liu, Liang Pang, Zhengbao Jiang, Min-Yen Kan and Min Lin (2024) Beyond Memorization: The Challenge of Random Memory Access in Language Models. In Proceedings of the Annual Meeting fof the Association of Computational Linguistics (ACL '24).
 
 authors:
-  - Tongyao Zhu
+  - tongyao
   - Qian Liu
   - Liang Pang
   - Zhengbao Jiang
@@ -26,7 +26,7 @@ abstract: Recent developments in Language Models (LMs) have shown their effectiv
 # Summary. An optional shortened abstract.
 summary: we investigate whether a generative LM (e.g., GPT- 2) is able to access its memory sequentially or randomly. Through carefully-designed synthetic tasks, we reveal that LMs manage to sequentially access their memory while encountering challenges in randomly accessing memorized content.
 
-tags: [nlp]
+tags: ["Natural Language Processing", "Large Language Models"]
 
 # Display this page in the Featured widget?
 featured: true

@@ -10,7 +10,7 @@ last_name: Xie
 superuser: false
 
 # Role/position
-role: Graduate Students
+role: Doctoral Student (Jan '21)
 
 # Organizations/Affiliations
 organizations:

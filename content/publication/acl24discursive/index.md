@@ -25,7 +25,7 @@ abstract: "While large language models have significantly enhanced the effective
 # Summary. An optional shortened abstract.
 summary: We propose Discursive Socratic Questioning (DiSQ), a new evaluation measure for discourse semantics. Inspired by the Socratic method, DiSQ involves asking models about key event relations, testing their robustness to counterfactuals, and ensuring consistency with equivalent questions. Experiments show that GPT-4 achieves only 41% of the DiSQ scores. We recommend using context and discourse connectives as essential linguistic features to enhance discourse comprehension.
 
-tags: [nlp]
+tags: ["Natural Language Processing", "Discourse", "Large Language Models"]
 
 # Display this page in the Featured widget?
 featured: true

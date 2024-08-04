@@ -2,7 +2,7 @@
 title: 'New and improved: modeling versions to improve app recommendation'
 authors:
 - Jovian Lin
-- Kazunari Sugiyama
+- kaz
 - min
 - Tat-Seng Chua
 date: '2014-01-01'

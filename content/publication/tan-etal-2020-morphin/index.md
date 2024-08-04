@@ -1,7 +1,7 @@
 ---
 title: It′s Morphin′ Time! Combating Linguistic Discrimination with Inflectional Perturbations
 authors:
-- Samson Tan
+- samson
 - Shafiq Joty
 - min
 - Richard Socher

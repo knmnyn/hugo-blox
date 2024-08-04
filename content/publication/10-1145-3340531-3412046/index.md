@@ -2,7 +2,7 @@
 title: 'FANG: Leveraging Social Context for Fake News Detection Using Graph Representation'
 authors:
 - Van-Hoang Nguyen
-- Kazunari Sugiyama
+- kaz
 - Preslav Nakov
 - min
 date: '2020-01-01'

@@ -3,7 +3,7 @@ title: 'Addressing cold-start in app recommendation: latent user models construc
   from twitter followers'
 authors:
 - Jovian Lin
-- Kazunari Sugiyama
+- kaz
 - min
 - Tat-Seng Chua
 date: '2013-01-01'
@@ -36,6 +36,8 @@ tags:
 - latent user models
 - collaborative filtering
 - cold-start problem
+- information retrieval
+- 2013
 links:
 - name: URL
   url: https://doi.org/10.1145/2484028.2484035

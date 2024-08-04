@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: WING Events
 
 # Listing view
 view: compact

@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: false
 
 # Role/position
-role: Graduate Students
+role: IPP Doctoral Student (Jan '23; SEA)
 
 # Organizations/Affiliations
 organizations:

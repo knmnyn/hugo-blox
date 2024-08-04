@@ -30,6 +30,9 @@ tags:
 - pseudo-relevance feedback
 - soft patterns
 - unsupervised learning
+- question answering
+- information retrieval
+- 2004
 links:
 - name: URL
   url: https://doi.org/10.1145/988672.988686

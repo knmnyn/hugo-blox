@@ -7,10 +7,10 @@ first_name: Jason
 last_name: Qiu
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: FYP Student (Aug '24)
 
 # Organizations/Affiliations
 organizations:

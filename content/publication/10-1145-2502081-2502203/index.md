@@ -2,7 +2,7 @@
 title: Understanding and classifying image tweets
 authors:
 - Tao Chen
-- Dongyuan Lu
+- dongyuan
 - min
 - Peng Cui
 date: '2013-01-01'
@@ -24,6 +24,9 @@ tags:
 - image tweets
 - classification
 - analysis
+- 2013
+- multimedia
+- tweets
 links:
 - name: URL
   url: https://doi.org/10.1145/2502081.2502203

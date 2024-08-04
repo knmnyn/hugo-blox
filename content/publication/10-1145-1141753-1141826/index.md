@@ -21,6 +21,9 @@ tags:
 - IHF
 - author disambiguation
 - entity resolution
+- natural language processing
+- information retrieval
+- 2006
 links:
 - name: URL
   url: https://doi.org/10.1145/1141753.1141826

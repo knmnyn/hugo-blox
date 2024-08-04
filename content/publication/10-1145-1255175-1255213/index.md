@@ -31,6 +31,9 @@ tags:
 - entity resolution
 - record linkage
 - sorted neighborhood
+- information retrieval
+- world wide web
+- 2007
 links:
 - name: URL
   url: https://doi.org/10.1145/1255175.1255213

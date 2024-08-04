@@ -28,6 +28,8 @@ tags:
 - dependency parsing
 - passage retrieval
 - question answering
+- natural language processing
+- 2005
 links:
 - name: URL
   url: https://doi.org/10.1145/1076034.1076103
