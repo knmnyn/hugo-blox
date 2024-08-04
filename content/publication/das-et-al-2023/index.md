@@ -1,5 +1,5 @@
 ---
-title: 'Statistical machine translation for indic languages'
+title: 'Statistical Machine Translation for Indic Languages'
 authors:
 - Sudhansu Bala Das
 - divyajyoti
