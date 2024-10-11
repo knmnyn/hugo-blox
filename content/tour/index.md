@@ -25,24 +25,24 @@ sections:
           url: ../contact/
       - title: ACL'24 @ Thailand
         content: "Our past alumni and our current students at Thailand!"
-        align: left
+        align: center
         background:
           image:
             filename: contact.jpg
             filters:
               brightness: 0.7
-          position: center
-          color: '#555'
+          position: right
+          color: '#666'
       - title: Our group social events in this July
         content: "We had a fun BBQ at Yajing's condo!"
-        align: right
+        align: center
         background:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
-          color: '#333'
+          color: '#666'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
