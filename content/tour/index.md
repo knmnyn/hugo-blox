@@ -24,7 +24,7 @@ sections:
           text: Join Us
           url: ../contact/
       - title: ACL'24 @ Thailand
-        content: 'Our past alumni and our current students at Thailand!'
+        content: "Our past alumni and our current students at Thailand!"
         align: left
         background:
           image:
@@ -34,7 +34,7 @@ sections:
           position: center
           color: '#555'
       - title: Our group social events in this July
-        content: 'We had a fun BBQ at Yajing's condo!'
+        content: "We had a fun BBQ at Yajing's condo!"
         align: right
         background:
           image:
