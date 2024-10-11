@@ -23,26 +23,26 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
-      # - title: ACL'24 @ Thailand
-      #   content: 'Our past alumni and our current students at Thailand!'
-      #   align: left
-      #   background:
-      #     image:
-      #       filename: WING_ACL24_2408.jpg
-      #       filters:
-      #         brightness: 0.7
-      #     position: center
-      #     color: '#555'
-      # - title: Our group social events in this July
-      #   content: 'We had a fun BBQ at Yajing's condo!'
-      #   align: right
-      #   background:
-      #     image:
-      #       filename: WING_social_2407_1.jpg
-      #       filters:
-      #         brightness: 0.5
-      #     position: center
-      #     color: '#333'
+      - title: ACL'24 @ Thailand
+        content: 'Our past alumni and our current students at Thailand!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Our group social events in this July
+        content: 'We had a fun BBQ at Yajing's condo!'
+        align: right
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
