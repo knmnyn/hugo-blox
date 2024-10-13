@@ -27,7 +27,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-12-04'
 
-authors: [Yanxia Qin,Hao Fei,Yang Deng,Sun Shuo,Suzanna Sia,Gerard Yeo]
+authors: [yanxia,Hao Fei,Yang Deng,Sun Shuo,Suzanna Sia,Gerard Yeo]
 tags: ["SSNLP", "Workshop", "Natural Language Processing"]
 
 # Is this a featured talk? (true/false)

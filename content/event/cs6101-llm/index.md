@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-08-06'
 
-authors: [Hengchang Hu, Min-Yen Kan, Xinyuan Lu, Yisong Miao, Michael Shieh]
+authors: [hengchang, min, xinyuan, yisong, Michael Shieh]
 tags: ["CS6101", "Reading Group", "Natural Language Processing"]
 
 # Is this a featured talk? (true/false)
