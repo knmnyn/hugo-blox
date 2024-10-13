@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-05-13'
 
-authors: [yanxia]
+authors: [Nancy Chen, Kokil Jaidka, Jing Jiang, Shafiq Joty, min, Wei Lu, Hwee Tou Ng, Soujanya Poria, yanxia]
 tags: ["SSNLP", "Workshop", "Natural Language Processing"]
 
 # Is this a featured talk? (true/false)

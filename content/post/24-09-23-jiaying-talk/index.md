@@ -1,5 +1,5 @@
 ---
-title: Dr. Jiaying Wu Presented the Recent Research on LLMs for Social Simulation.
+title: Jiaying presents recent research on LLMs for Social Simulation
 date: 2024-09-23
 ---
 
