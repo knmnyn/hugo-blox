@@ -1,5 +1,5 @@
 ---
-title: Dr. Taha Aksu Successfully Defends His PhD Thesis
+title: Congratulations, Dr. Taha Aksu! 
 date: 2024-04-02
 authors: [taha]
 ---

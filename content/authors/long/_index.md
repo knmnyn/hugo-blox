@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Do Xuan Long
+title: Xuan Long Do
 
 # Full Name (for SEO)
 first_name: Long 

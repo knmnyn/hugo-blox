@@ -1,5 +1,5 @@
 ---
-title: Yisong Miao receives the Area Chair Award at ACL 2024
+title: Yisong Miao receives the Area Chair Award at ACL 2024!
 date: 2024-08-15
 image:
   focal_point: 'top'

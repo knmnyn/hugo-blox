@@ -1,5 +1,5 @@
 ---
-title: Dr. Hengchang Hu Successfully Defends His PhD Thesis
+title: Dr. Hengchang Hu defends his Ph.D. Thesis!
 date: 2024-08-27
 authors: [hengchang]
 ---
