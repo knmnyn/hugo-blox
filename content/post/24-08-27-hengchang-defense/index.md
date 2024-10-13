@@ -1,6 +1,7 @@
 ---
 title: Dr. Hengchang Hu Successfully Defends His PhD Thesis
 date: 2024-08-27
+authors: [hengchang]
 ---
 
 We are delighted to announce that Dr. Hengchang Hu has successfully defended his PhD thesis titled, *"Going Beyond ID-Based Recommender Systems by Exploiting External Knowledge,"* under the supervision of A/P Min-Yen Kan.

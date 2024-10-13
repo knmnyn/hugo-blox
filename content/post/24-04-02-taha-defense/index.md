@@ -1,6 +1,7 @@
 ---
 title: Dr. Taha Aksu Successfully Defends His PhD Thesis
 date: 2024-04-02
+authors: [taha]
 ---
 
 Congratulations to Dr. Taha Aksu on successfully defending his PhD thesis titled, *"Task-Oriented Dialogue Understanding and Evaluation using Minimal Data."* 

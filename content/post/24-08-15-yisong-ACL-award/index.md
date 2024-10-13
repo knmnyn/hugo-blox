@@ -3,7 +3,7 @@ title: Yisong Miao receives the Area Chair Award at ACL 2024
 date: 2024-08-15
 image:
   focal_point: 'top'
-authors: [yisong, min]
+authors: [yisong]
 ---
 
 Congratulations to Yisong Miao and his collaborators for winning the Area Chair Award at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) for their paper, *"Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models' Understanding of Discourse Relations."*

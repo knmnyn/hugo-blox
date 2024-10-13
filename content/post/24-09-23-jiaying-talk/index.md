@@ -1,6 +1,7 @@
 ---
 title: Jiaying presents recent research on LLMs for Social Simulation
 date: 2024-09-23
+authors: [jiaying]
 ---
 
 Dr. Jiaying Wu presented the recent research on using LLMs for social simulations at the iGyro meeting.
