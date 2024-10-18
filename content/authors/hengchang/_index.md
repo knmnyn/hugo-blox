@@ -10,7 +10,7 @@ last_name: Hu
 superuser: false
 
 # Role/position
-role: Doctoral Student (Aug '19)
+role: Doctoral Alumni ('24)
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Alumni
 #  - Researchers
 ---
 
