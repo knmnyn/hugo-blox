@@ -4,7 +4,7 @@ title: Exploring characteristics of highly cited authors according to citation l
 authors:
 - Juyoung An
 - Namhee Kim
-- Min-Yen Kan
+- min
 - Muthu Kumar Chandrasekaran
 - Min Song
 date: '2017-08-01'

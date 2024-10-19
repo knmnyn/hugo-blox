@@ -2,9 +2,9 @@
 title: '#mytweet via Instagram: Exploring User Behaviour across Multiple Social Networks'
 authors:
 - Bang Hui Lim
-- Dongyuan Lu
+- dongyuan
 - Tao Chen
-- Min-Yen Kan
+- min
 date: '2015-01-01'
 publishDate: '2024-10-19T14:08:42.205353Z'
 publication_types:

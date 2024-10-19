@@ -2,8 +2,8 @@
 title: Health Forum Thread Recommendation Using an Interest Aware Topic Model
 authors:
 - Kishaloy Halder
-- Min-Yen Kan
-- Kazunari Sugiyama
+- min
+- kaz
 date: '2017-01-01'
 publishDate: '2024-10-19T14:08:42.138840Z'
 publication_types:

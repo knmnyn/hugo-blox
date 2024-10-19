@@ -3,8 +3,8 @@ title: 'Scrutinizing Mobile App Recommendation: Identifying Important App-Relate
   Indicators'
 authors:
 - Jovian Lin
-- Kazunari Sugiyama
-- Min-Yen Kan
+- kaz
+- min
 - Tat-Seng Chua
 date: '2016-01-01'
 publishDate: '2024-10-19T14:08:42.190112Z'

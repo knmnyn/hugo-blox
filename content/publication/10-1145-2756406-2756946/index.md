@@ -4,7 +4,7 @@ title: Scholarly Document Information Extraction using Extensible Features for E
 authors:
 - Nguyen Viet Cuong
 - Muthu Kumar Chandrasekaran
-- Min-Yen Kan
+- min
 - Wee Sun Lee
 date: '2015-01-01'
 publishDate: '2024-10-19T14:08:42.182824Z'

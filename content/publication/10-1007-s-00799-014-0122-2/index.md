@@ -2,8 +2,8 @@
 title: A comprehensive evaluation of scholarly paper recommendation using potential
   citation papers
 authors:
-- Kazunari Sugiyama
-- Min-Yen Kan
+- kaz
+- min
 date: '2015-06-01'
 publishDate: '2024-10-19T14:08:42.212532Z'
 publication_types:

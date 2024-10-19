@@ -2,8 +2,8 @@
 title: Linking Organizational Social Network Profiles
 authors:
 - Jerome Cheng
-- Kazunari Sugiyama
-- Min-Yen Kan
+- kaz
+- min
 date: '2016-01-01'
 publishDate: '2024-10-19T14:08:42.197769Z'
 publication_types:

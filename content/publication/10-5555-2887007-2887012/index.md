@@ -4,8 +4,8 @@ authors:
 - Tao Chen
 - Hany M. SalahEldeen
 - Xiangnan He
-- Min-Yen Kan
-- Dongyuan Lu
+- min
+- dongyuan
 date: '2015-01-01'
 publishDate: '2024-10-19T14:08:42.220393Z'
 publication_types:

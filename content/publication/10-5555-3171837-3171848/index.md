@@ -6,7 +6,7 @@ authors:
 - Meichun Liu
 - Ilija Ilievski
 - Xiangnan He
-- Min-Yen Kan
+- min
 date: '2017-01-01'
 publishDate: '2024-10-19T14:08:42.156820Z'
 publication_types:
