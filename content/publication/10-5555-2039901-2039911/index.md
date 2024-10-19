@@ -2,7 +2,7 @@
 title: Robust argumentative zoning for sensemaking in scholarly documents
 authors:
 - Simone Teufel
-- Min-Yen Kan
+- min
 date: '2009-01-01'
 publishDate: '2024-10-19T16:53:49.044684Z'
 publication_types:

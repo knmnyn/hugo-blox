@@ -2,7 +2,7 @@
 title: Hierarchical Cost-Sensitive Web Resource Acquisition for Record Matching
 authors:
 - Yee Fan Tan
-- Min-Yen Kan
+- min
 date: '2010-01-01'
 publishDate: '2024-10-19T16:53:49.007582Z'
 publication_types:

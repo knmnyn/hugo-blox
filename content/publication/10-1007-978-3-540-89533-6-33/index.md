@@ -3,7 +3,7 @@ title: Towards a Webpage-Based Bibliographic Manager
 authors:
 - Dinh-Trung Dang
 - Yee Fan Tan
-- Min-Yen Kan
+- min
 date: '2008-01-01'
 publishDate: '2024-10-19T16:53:49.051109Z'
 publication_types:

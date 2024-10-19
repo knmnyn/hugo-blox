@@ -2,7 +2,7 @@
 title: 'Scholarly digital libraries at scale: introduction to the special issue on
   very large digital libraries'
 authors:
-- Min-Yen Kan
+- min
 - Dongwon Lee
 - Ee-Peng Lim
 date: '2008-11-01'

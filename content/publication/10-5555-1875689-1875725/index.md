@@ -3,7 +3,7 @@ title: 'Kairos: proactive harvesting of research paper metadata from scientific 
   web sites'
 authors:
 - Markus Hänse
-- Min-Yen Kan
+- min
 - Achim P. Karduck
 date: '2010-01-01'
 publishDate: '2024-10-19T16:53:49.017661Z'
