@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator / Staff
+  - Principal Investigator / Research Fellows / Staff
 #  - Researchers
 ---
 Barid is a Postdoc at WING, supervised by Prof. Min-Yen Kan and Prof. Zhiyong Huang. Prior to PhD training, He spent over 6 years at a start-up company, working on chartbot projects. His research focuses on multilingual and cross-lingual NLP, code-switching, machine translation, and machine learning for NLP. Currently, he is working on consistency and conflict in multilingual and code-switch scenarios.

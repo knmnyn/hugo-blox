@@ -10,7 +10,7 @@ last_name: Peng
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '22)
+role: Masters Alumnus (Aug '22)
 
 # Organizations/Affiliations
 organizations:

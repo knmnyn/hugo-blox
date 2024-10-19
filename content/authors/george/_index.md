@@ -10,7 +10,7 @@ last_name: Huang
 superuser: false
 
 # Role/position
-role: UROP Student (Aug '21)
+role: UROP Alumnus (Aug '21)
 
 # Organizations/Affiliations
 organizations:

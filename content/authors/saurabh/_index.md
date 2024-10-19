@@ -10,7 +10,7 @@ last_name: Jain
 superuser: false
 
 # Role/position
-role: Masters Student (Jan '21)
+role: Masters Alumnus (Jan '21)
 
 # Organizations/Affiliations
 organizations:

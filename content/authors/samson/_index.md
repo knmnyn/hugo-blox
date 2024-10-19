@@ -10,7 +10,7 @@ last_name: Tan
 superuser: false
 
 # Role/position
-role: Doctoral Alumni ('22)
+role: Doctoral Alumnus ('22)
 
 # Organizations/Affiliations
 organizations:

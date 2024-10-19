@@ -10,7 +10,7 @@ last_name: Kashyap
 superuser: false
 
 # Role/position
-role: Doctoral Alumni ('24)
+role: Doctoral Alumnus ('24)
 
 # Organizations/Affiliations
 organizations:

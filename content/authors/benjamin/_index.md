@@ -10,7 +10,7 @@ last_name: Aw
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '22)
+role: Masters Alumni (Aug '22)
 
 # Organizations/Affiliations
 organizations:

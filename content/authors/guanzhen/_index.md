@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '23)
+role: Masters Alumnus (Aug '23)
 
 # Organizations/Affiliations
 organizations:
