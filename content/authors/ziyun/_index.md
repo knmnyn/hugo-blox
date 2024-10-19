@@ -10,7 +10,7 @@ last_name: Yang
 superuser: false
 
 # Role/position
-role: Undergraduate Student (Aug '21)
+role: FYP Alumnus (Aug '21)
 
 # Organizations/Affiliations
 organizations:
