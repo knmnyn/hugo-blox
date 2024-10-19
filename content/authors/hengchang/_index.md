@@ -39,7 +39,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: house
-    icon_pack: fas
+    icon_pack: fas 
     link: https://holdenhu.github.io/
   - icon: envelope
     icon_pack: fas
