@@ -10,7 +10,7 @@ last_name: Tantio
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '19)
+role: FYP Alumnus (Aug '19)
 
 # Organizations/Affiliations
 organizations:

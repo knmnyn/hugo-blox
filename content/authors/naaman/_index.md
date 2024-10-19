@@ -10,7 +10,7 @@ last_name: Tan
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '23)
+role: FYP Alumnus (Aug '23)
 
 # Organizations/Affiliations
 organizations:

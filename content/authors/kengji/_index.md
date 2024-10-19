@@ -10,7 +10,7 @@ last_name: Chow
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '21)
+role: FYP Alumnus (Aug '21)
 
 # Organizations/Affiliations
 organizations:

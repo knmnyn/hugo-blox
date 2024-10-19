@@ -10,7 +10,7 @@ last_name: Do Xuan
 superuser: false
 
 # Role/position
-role: Doctoral Student (Aug '23) <br/> Co-Supervised by <a href="https://ml.comp.nus.edu.sg/kawaguchi">Kenji Kawaguchi</a>
+role: A*STAR Doctoral Student (Aug '23) <br/> Co-Supervised by <a href="https://ml.comp.nus.edu.sg/kawaguchi">Kenji Kawaguchi</a>
 
 # Organizations/Affiliations
 organizations:

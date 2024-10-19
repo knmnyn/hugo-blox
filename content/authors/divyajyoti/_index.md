@@ -10,7 +10,7 @@ last_name: Panda
 superuser: false
 
 # Role/position
-role: Intern (May '24)
+role: Remote Intern (May '24)
 
 # Organizations/Affiliations
 organizations:

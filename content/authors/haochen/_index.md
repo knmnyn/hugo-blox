@@ -10,7 +10,7 @@ last_name: Hon
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '24)
+role: FYP Alumnus (Aug '24)
 
 # Organizations/Affiliations
 organizations:
