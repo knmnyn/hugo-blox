@@ -3,7 +3,7 @@ title: How do people organize their photos in each event and how does it affect 
   searching and interpretation tasks?
 authors:
 - Jesse Prabawa Gozali
-- Min-Yen Kan
+- min
 - Hari Sundaram
 date: '2012-01-01'
 publishDate: '2024-10-19T15:18:06.282234Z'

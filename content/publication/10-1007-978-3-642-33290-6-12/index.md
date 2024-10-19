@@ -4,7 +4,7 @@ authors:
 - Anqi Cui
 - Liner Yang
 - Dejun Hou
-- Min-Yen Kan
+- min
 - Yiqun Liu
 - Min Zhang
 - Shaoping Ma

@@ -2,7 +2,7 @@
 title: Multimodal alignment of scholarly documents and their presentations
 authors:
 - Bamdad Bahrani
-- Min-Yen Kan
+- min
 date: '2013-01-01'
 publishDate: '2024-10-19T15:18:06.231675Z'
 publication_types:

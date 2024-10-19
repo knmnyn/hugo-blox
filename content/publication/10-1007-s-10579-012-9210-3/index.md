@@ -3,7 +3,7 @@ title: Automatic keyphrase extraction from scientific articles
 authors:
 - Su Nam Kim
 - Olena Medelyan
-- Min-Yen Kan
+- min
 - Timothy Baldwin
 date: '2013-09-01'
 publishDate: '2024-10-19T15:18:06.224633Z'

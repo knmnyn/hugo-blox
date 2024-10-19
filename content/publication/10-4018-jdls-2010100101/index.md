@@ -1,7 +1,7 @@
 ---
 title: Logical Structure Recovery in Scholarly Articles with Rich Document Features
 authors:
-- Min-Yen Kan
+- min
 - Minh-Thang Luong
 - Thuy Dung Nguyen
 date: '2010-10-01'

@@ -2,8 +2,8 @@
 title: Serendipitous recommendation for scholarly papers considering relations among
   researchers
 authors:
-- Kazunari Sugiyama
-- Min-Yen Kan
+- kaz
+- min
 date: '2011-01-01'
 publishDate: '2024-10-19T15:18:06.296925Z'
 publication_types:

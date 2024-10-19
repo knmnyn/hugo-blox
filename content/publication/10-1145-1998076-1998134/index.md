@@ -2,9 +2,9 @@
 title: Product review summarization from a deeper perspective
 authors:
 - Duy Khang Ly
-- Kazunari Sugiyama
+- kaz
 - Ziheng Lin
-- Min-Yen Kan
+- min
 date: '2011-01-01'
 publishDate: '2024-10-19T15:18:06.289958Z'
 publication_types:

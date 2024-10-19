@@ -4,7 +4,7 @@ authors:
 - Huy Hoang Nhat Do
 - Muthu Kumar Chandrasekaran
 - Philip S. Cho
-- Min Yen Kan
+- min
 date: '2013-01-01'
 publishDate: '2024-10-19T15:18:06.245842Z'
 publication_types:
