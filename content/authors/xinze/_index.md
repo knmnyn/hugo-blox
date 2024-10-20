@@ -10,7 +10,7 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: Undergraduate Student (Aug '20)
+role: FYP Alumnus (Aug '20)
 
 # Organizations/Affiliations
 organizations:

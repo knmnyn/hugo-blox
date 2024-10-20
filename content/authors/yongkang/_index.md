@@ -10,7 +10,7 @@ last_name: Kou
 superuser: false
 
 # Role/position
-role: Undergraduate Student (Aug '22)
+role: FYP Alumnus (Aug '22)
 
 # Organizations/Affiliations
 organizations:

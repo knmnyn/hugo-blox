@@ -10,7 +10,7 @@ last_name: Meng
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '21)
+role: Masters Alumnus (Aug '21)
 
 # Organizations/Affiliations
 organizations:

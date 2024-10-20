@@ -10,7 +10,7 @@ last_name: Shi
 superuser: false
 
 # Role/position
-role: Undergraduate Student (Aug '19)
+role: FYP Alumnus (Aug '19)
 
 # Organizations/Affiliations
 organizations:

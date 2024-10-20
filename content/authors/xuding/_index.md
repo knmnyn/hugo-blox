@@ -10,7 +10,7 @@ last_name: Xu
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '19)
+role: Masters Alumnus (Aug '19)
 
 # Organizations/Affiliations
 organizations:
