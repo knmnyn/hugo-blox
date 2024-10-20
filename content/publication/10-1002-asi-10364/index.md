@@ -2,7 +2,7 @@
 title: 'Review of \"Introduction to digital libraries by G. G. Chowdhury and Sudatta
   Chowdhury\" London: Facet 2003'
 authors:
-- Min-Yen Kan
+- min
 date: '2004-01-01'
 publishDate: '2024-10-20T00:58:41.643721Z'
 publication_types:

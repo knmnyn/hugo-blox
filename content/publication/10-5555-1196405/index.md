@@ -5,7 +5,7 @@ title: 'Information Retrieval Technology: Third Asia Information Retrieval Sympo
 authors:
 - Hwee Tou Ng
 - Mun-Kew Leong
-- Min-Yen Kan
+- min
 - Donghong Ji
 date: '2006-01-01'
 publishDate: '2024-10-20T00:58:41.590812Z'

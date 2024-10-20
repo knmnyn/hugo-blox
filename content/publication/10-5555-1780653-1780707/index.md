@@ -2,7 +2,7 @@
 title: Keyphrase extraction in scientific publications
 authors:
 - Thuy Dung Nguyen
-- Min-Yen Kan
+- min
 date: '2007-01-01'
 publishDate: '2024-10-20T00:58:41.535074Z'
 publication_types:

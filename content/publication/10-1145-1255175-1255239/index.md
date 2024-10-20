@@ -2,7 +2,7 @@
 title: A rich OPAC user interface with AJAX
 authors:
 - Jesse Prabawa Gozali
-- Min-Yen Kan
+- min
 date: '2007-01-01'
 publishDate: '2024-10-20T00:58:41.562349Z'
 publication_types:

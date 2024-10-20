@@ -2,7 +2,7 @@
 title: Using librarian techniques in automatic text summarization for information
   retrieval
 authors:
-- Min-Yen Kan
+- min
 - Judith L. Klavans
 date: '2002-01-01'
 publishDate: '2024-10-20T00:58:41.655511Z'

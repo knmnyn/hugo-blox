@@ -1,10 +1,10 @@
 ---
 title: Customization in a unified framework for summarizing medical literature
 authors:
-- N. Elhadad
-- M. -Y. Kan
-- J. L. Klavans
-- K. R. McKeown
+- Noemie Elhadad
+- min
+- Judith L. Klavans
+- Kathleen R. McKeown
 date: '2005-02-01'
 publishDate: '2024-10-20T00:58:41.629291Z'
 publication_types:

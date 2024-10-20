@@ -1,11 +1,11 @@
 ---
 title: 'LyricAlly: Automatic Synchronization of Textual Lyrics to Acoustic Music Signals'
 authors:
-- Min-Yen Kan
+- min
 - Ye Wang
-- D. Iskandar
+- Denny Iskandar
 - Tin Lay New
-- A. Shenoy
+- Arun Shenoy
 date: '2008-02-01'
 publishDate: '2024-10-20T00:58:41.527763Z'
 publication_types:

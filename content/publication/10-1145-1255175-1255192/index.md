@@ -1,7 +1,7 @@
 ---
 title: 'SlideSeer: a digital library of aligned document and presentation pairs'
 authors:
-- Min-Yen Kan
+- min
 date: '2007-01-01'
 publishDate: '2024-10-20T00:58:41.569429Z'
 publication_types:

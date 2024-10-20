@@ -1,7 +1,7 @@
 ---
 title: Record matching in digital library metadata
 authors:
-- Min-Yen Kan
+- min
 - Yee Fan Tan
 date: '2008-02-01'
 publishDate: '2024-10-20T00:58:41.520202Z'

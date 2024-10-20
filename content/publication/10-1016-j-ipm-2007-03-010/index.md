@@ -3,7 +3,7 @@ title: Document concept lattice for text understanding and summarization
 authors:
 - Shiren Ye
 - Tat-Seng Chua
-- Min-Yen Kan
+- min
 - Long Qiu
 date: '2007-11-01'
 publishDate: '2024-10-20T00:58:41.548792Z'

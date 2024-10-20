@@ -2,7 +2,7 @@
 title: 'PERSIVAL: personalized summarization over multimedia health-care information'
 authors:
 - Noemie Elhadad
-- Min-Yen Kan
+- min
 - Simon Lok
 - Smaranda Muresan
 date: '2001-01-01'

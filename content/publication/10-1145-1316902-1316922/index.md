@@ -2,7 +2,7 @@
 title: Web based linkage
 authors:
 - Ergin Elmacioglu
-- Min-Yen Kan
+- min
 - Dongwon Lee
 - Yi Zhang
 date: '2007-01-01'

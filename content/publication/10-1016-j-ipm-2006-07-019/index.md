@@ -2,7 +2,7 @@
 title: Supervised categorization of JavaScriptTM using program analysis features
 authors:
 - Wei Lu
-- Min-Yen Kan
+- min
 date: '2007-03-01'
 publishDate: '2024-10-20T00:58:41.583687Z'
 publication_types:
