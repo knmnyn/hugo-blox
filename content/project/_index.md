@@ -9,13 +9,13 @@ view: card
 #  caption: ''
 #  image: ''
 
-type: landing
+# type: landing
 
-# sections:
+#sections:
 #  - block: project
 #    content:
-#      # Choose which groups/teams of users to display.
-#      #   Edit `project_groups` in each user's profile to add them to one or more of these groups.
+      # Choose which groups/teams of users to display.
+      #   Edit `project_groups` in each user's profile to add them to one or more of these groups.
 #      project_groups:
 #          - Projects
 #      sort_by: Params.year
@@ -25,6 +25,5 @@ type: landing
 #      show_role: true
 #      show_social: true
 ---
-First block WING researchers work on many information retrieval and natural language processing topics, including scholarly digital libraries, large language models, and recommender systems.  
+WING researchers work on many information retrieval and natural language processing topics, including scholarly digital libraries, large language models, and recommender systems.  
 ---
-2nd block WING researchers work on many information retrieval and natural language processing topics, including scholarly digital libraries, large language models, and recommender systems.  
