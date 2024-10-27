@@ -2,7 +2,7 @@
 title: Research Projects
 
 # Listing view
-# view: card
+view: card
 
 # Optional header image (relative to `assets/media/` folder).
 # banner:
