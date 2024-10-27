@@ -1,19 +1,19 @@
 ---
-title: Example Project
+title: AI Scientist
 
-summary: An example project.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Summary
+abstract: Abstract
 
-tags: ["Tag1", "Tag2"]
-year: 2023
+tags: ["NLP", "IR"]
+year: 2024
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-08-01'
+date: '2024-11-01'
 #date_end: '2030-0-01T15:00:00Z'
 all_day: true
 
 # Is this a featured project? (true/false)
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
@@ -27,9 +27,9 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+# slides:
 
-authors: ["min", "jiaying"]
+authors: ["min", "beel"]
 
 ---
-Project Description
+Test non-header text.
