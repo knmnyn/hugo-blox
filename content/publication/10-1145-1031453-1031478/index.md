@@ -2,7 +2,7 @@
 title: Stylistic and lexical co-training for web block classification
 authors:
 - Chee How Lee
-- Min-Yen Kan
+- min
 - Sandra Lai
 date: '2004-01-01'
 publishDate: '2024-10-20T00:58:41.636668Z'

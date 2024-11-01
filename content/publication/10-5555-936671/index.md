@@ -2,7 +2,7 @@
 title: 'Automatic text summarization as applied to information retrieval: using indicative
   and informative summaries'
 authors:
-- Min-Yen Kan
+- min
 - Kathleen R. Mckeown
 - Judith L. Klavans
 date: '2003-01-01'

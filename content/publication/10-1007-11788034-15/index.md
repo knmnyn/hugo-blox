@@ -4,7 +4,7 @@ title: 'Video retrieval using high level features: exploiting query matching and
 authors:
 - Shi-Yong Neo
 - Jin Zhao
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2006-01-01'
 publishDate: '2024-10-20T00:58:41.603586Z'

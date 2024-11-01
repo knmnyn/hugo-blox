@@ -2,7 +2,7 @@
 title: Generic soft pattern models for definitional question answering
 authors:
 - Hang Cui
-- Min-Yen Kan
+- min
 - Tat-Seng Chua
 date: '2005-01-01'
 publishDate: '2024-10-20T00:58:41.610493Z'

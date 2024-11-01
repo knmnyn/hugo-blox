@@ -1,7 +1,7 @@
 ---
 title: Detecting and supporting known item queries in online public access catalogs
 authors:
-- Min-Yen Kan
+- min
 - Danny C. C. Poo
 date: '2005-01-01'
 publishDate: '2024-10-20T00:58:41.618026Z'

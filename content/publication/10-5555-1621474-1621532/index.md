@@ -4,7 +4,7 @@ authors:
 - Ergin Elmacioglu
 - Yee Fan Tan
 - Su Yan
-- Min-Yen Kan
+- min
 - Dongwon Lee
 date: '2007-01-01'
 publishDate: '2024-10-20T00:58:41.556053Z'
