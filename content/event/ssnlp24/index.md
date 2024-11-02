@@ -18,7 +18,7 @@ abstract: 'We are excited to announce that the Singapore Symposium on Natural La
 Since its inception in 2018, SSNLP has steadily grown in both popularity and influence, with successful editions held in 2018, 2019, 2020, 2022, and 2023. We look forward to continuing this tradition in 2024 and delivering another impactful experience for all participants.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-06'
+date: '2024-11-06'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
