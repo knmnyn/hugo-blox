@@ -10,7 +10,7 @@ last_name: Ling
 superuser: false
 
 # Role/position
-role: UROP Student (Dec '24)
+role: UROP Student (Jan '25)
 
 # Organizations/Affiliations
 organizations:

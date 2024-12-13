@@ -10,7 +10,7 @@ last_name: Lu
 superuser: false
 
 # Role/position
-role: UROP Student (Nov '24)
+role: UROP Student (Jan '25)
 
 # Organizations/Affiliations
 organizations:
