@@ -10,7 +10,7 @@ last_name: Ling
 superuser: false
 
 # Role/position
-role: UROP Student (Dec '24)
+role: UROP Student (Dec '24')
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,6 @@ bio: UROP student
 
 interests:
   - Natural Language Processing
-	- LLMs
     
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
