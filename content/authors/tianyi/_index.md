@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lu Haomeng
+title: Zhu Tianyi
 
 # Full Name (for SEO)
-first_name: Haomeng
-last_name: Lu
+first_name: Tianyi
+last_name: Zhu
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,13 +21,11 @@ organizations:
 bio: UROP student
 
 interests:
-  - Artificial Intelligence
+  - Machine Learning
   - Natural Language Processing
-  - Audio information retrieval
-
-
-
-
+  - Linguistics
+  - Code-switching
+    
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -35,11 +33,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: e1155567@u.nus.edu
+    link: 'mailto:zhu.tianyi@u.nus.edu'
   - icon: github
     icon_pack: fab
-    link: https://github.com/FZFZFZZ
-  
+    link: https://github.com/lithops-zty
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,7 +44,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'e1155567@u.nus.edu'
+email: 'zhu.tianyi@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,4 +56,4 @@ user_groups:
 #  - Researchers
 ---
 
-Lu Haomeng is a UROP student joing our group in 2024. 
+Zhu Tianyi is a UROP student joining our group in 2024.

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Zheng Yilin
+title: Amy Ling
 
 # Full Name (for SEO)
-first_name: Yilin
-last_name: Zheng
+first_name: Amy
+last_name: Ling
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '24)
+role: UROP Student (Jan '25)
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,12 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: FYP student
+bio: UROP student
 
 interests:
-  - Artificial Intelligence
-
-
-
-
+  - Natural Language Processing
+  - LLMs
+    
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -33,8 +31,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:e0774799@u.nus.edu'
-  
+    link: 'mailto:amy.ling@u.nus.edu'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ylyma
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -42,7 +42,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'e0774799@u.nus.edu'
+email: 'amy.ling@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -54,5 +54,4 @@ user_groups:
 #  - Researchers
 ---
 
-Zheng Yilin is a FYP student joing our group in 2024. 
-
+Amy Ling is a UROP student joining our group in 2024.
