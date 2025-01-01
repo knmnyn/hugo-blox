@@ -15,7 +15,7 @@ role: FYP Student (Aug '24)
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore, School of Computing
-    url: 'http://www.comp.nus.edu.sg'
+    url: "http://www.comp.nus.edu.sg"
 
 # Short bio (displayed in user profile at end of posts)
 bio: FYP student
@@ -23,9 +23,6 @@ bio: FYP student
 interests:
   - Artificial Intelligence
   - Information Retrieval
-
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -37,8 +34,8 @@ social:
     link: https://www.linkedin.com/in/jasonqiu212/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jason.qiu@u.nus.edu'
-  
+    link: "mailto:jason.qiu@u.nus.edu"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -46,7 +43,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'jason.qiu@u.nus.edu'
+email: "jason.qiu@u.nus.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -58,5 +55,4 @@ user_groups:
 #  - Researchers
 ---
 
-Jason Qiu is a FYP student joing our group in 2024. 
-
+Jason Qiu is a FYP student joining our group in 2024.
