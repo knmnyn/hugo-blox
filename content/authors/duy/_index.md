@@ -24,7 +24,7 @@ bio: My name is Duy. I am currently working as an AI Engineer at Creative Force 
 interests:
   - Generative AI 
   - Large Language Models (LLMs)
-  -Diffusion Models
+  - Diffusion Models
   - Deep Learning Architectures
   - Statistical Modeling
 
