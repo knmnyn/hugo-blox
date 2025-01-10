@@ -22,7 +22,9 @@ organizations:
 bio: My name is Duy. I am currently working as an AI Engineer at Creative Force and graduated from Hanoi University of Science and Technology (HUST). With a strong foundation in machine learning research and a growing passion for Generative AI, I seek opportunities to contribute to meaningful and impactful research.
 
 interests:
-  - Generative AI: Large Language Models (LLMs), Diffusion Models
+  - Generative AI 
+  - Large Language Models (LLMs)
+  -Diffusion Models
   - Deep Learning Architectures
   - Statistical Modeling
 
