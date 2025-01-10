@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jason Qiu
+title: Shirshajit Sen Gupta
 
 # Full Name (for SEO)
-first_name: Jason
-last_name: Qiu
+first_name: Shirshajit
+last_name: Sen Gupta
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,21 +21,25 @@ organizations:
 bio: FYP student
 
 interests:
-  - Artificial Intelligence
-  - Information Retrieval
+  - Natural Language Processing
+  - Graph Neural Networks
+  - Computer Vision
+  - Reinforcement Learning
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: house
-    icon_pack: fas
-    link: https://www.linkedin.com/in/jasonqiu212/
   - icon: envelope
     icon_pack: fas
-    link: "mailto:jason.qiu@u.nus.edu"
-
+    link: "mailto:shirshajit@u.nus.edu"
+  - icon: github
+    icon_pack: fas
+    link: https://github.com/shirsho-12
+  - icon: linkedin
+    icon_pack: fas
+    link: https://www.linkedin.com/in/shirshajit/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -43,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jason.qiu@u.nus.edu"
+email: "shirshajit@u.nus.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -55,4 +59,6 @@ user_groups:
 #  - Researchers
 ---
 
-Jason Qiu is a FYP student joining our group in 2024.
+Shirshajit is a final-year undergraduate student in Computer Science doing his FYP under the supervision of Prof. Min-Yen Kan.
+His research interests lie at the intersection of graph neural networks and natural language processing, exploring how these technologies can advance understanding and efficiency in language-related tasks.
+Additionally, he is passionate about computer vision and reinforcement learning, seeking innovative ways to integrate these fields to solve complex, real-world problems.
