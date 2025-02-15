@@ -7,10 +7,10 @@ first_name: Yisong
 last_name: Miao
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Graduate Students
+role: Doctoral Student (Jan '21)
 
 # Organizations/Affiliations
 organizations:

@@ -2,7 +2,7 @@
 title: UDAPTER - Efficient Domain Adaptation Using Adapters
 authors:
 - Bhavitvya Malik
-- Abhinav Ramesh Kashyap
+- abhinav
 - min
 - Soujanya Poria
 date: '2023-05-01'

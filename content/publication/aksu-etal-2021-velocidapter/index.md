@@ -2,7 +2,7 @@
 title: 'Velocidapter: Task-oriented Dialogue Comprehension Modeling Pairing Synthetic
   Text Generation with Domain Adaptation'
 authors:
-- Ibrahim Taha Aksu
+- taha 
 - Zhengyuan Liu
 - min  
 - Nancy Chen

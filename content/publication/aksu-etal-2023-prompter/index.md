@@ -1,7 +1,7 @@
 ---
 title: 'Prompter: Zero-shot Adaptive Prefixes for Dialogue State Tracking Domain Adaptation'
 authors:
-- Ibrahim Taha Aksu
+- taha
 - min
 - Nancy Chen
 date: '2023-07-01'

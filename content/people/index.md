@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+# date: 2022-10-24
 
 type: landing
 
@@ -11,11 +11,13 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator / Staff
+          - Principal Investigator / Research Fellows / Staff
           - Graduate Students
           - Undergraduate Students
           - Visitors / Interns
-          - Alumni
+          - Staff Alumni
+          - Graduate Alumni
+          - Undergraduate / Intern Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -23,3 +25,4 @@ sections:
       show_role: true
       show_social: true
 ---
+Test text for People.

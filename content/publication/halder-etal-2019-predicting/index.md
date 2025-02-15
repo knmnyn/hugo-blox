@@ -3,7 +3,7 @@ title: 'Predicting Helpful Posts in Open-Ended Discussion Forums: A Neural Archi
 authors:
 - Kishaloy Halder
 - min
-- Kazunari Sugiyama
+- kaz
 date: '2019-06-01'
 publishDate: '2024-07-11T07:40:56.327069Z'
 publication_types:

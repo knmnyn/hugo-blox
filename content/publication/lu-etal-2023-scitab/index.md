@@ -3,7 +3,7 @@ title: 'SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Ve
   on Scientific Tables'
 authors:
 - Xinyuan Lu
-- Liangming Pan
+- liangming 
 - Qian Liu
 - Preslav Nakov
 - min

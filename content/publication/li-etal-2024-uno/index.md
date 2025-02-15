@@ -1,7 +1,7 @@
 ---
 title: 'UNO-DST: Leveraging Unlabelled Data in Zero-Shot Dialogue State Tracking'
 authors:
-- Chuang Li
+- victor
 - Yan Zhang
 - min
 - Haizhou Li

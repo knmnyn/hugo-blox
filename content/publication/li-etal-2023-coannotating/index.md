@@ -2,7 +2,7 @@
 title: 'CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language
   Models for Data Annotation'
 authors:
-- Minzhi Li
+- minzhi
 - Taiwei Shi
 - Caleb Ziems
 - min

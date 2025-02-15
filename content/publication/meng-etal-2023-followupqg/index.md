@@ -1,8 +1,8 @@
 ---
 title: 'FollowupQG: Towards information-seeking follow-up question generation'
 authors:
-- Yan Meng
-- Liangming Pan
+- mengyan
+- liangming
 - Yixin Cao
 - min
 date: '2023-11-01'

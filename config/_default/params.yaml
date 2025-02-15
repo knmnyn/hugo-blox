@@ -3,6 +3,9 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# Sponsor to hide footer "Published With Hugo Blox"
+i_am_a_sponsor: true
+
 # Appearance
 
 appearance:
@@ -55,8 +58,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2 Jan, 2006'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features

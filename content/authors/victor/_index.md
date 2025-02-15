@@ -7,10 +7,10 @@ first_name: Chuang
 last_name: Li
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Graduate Students
+role: ISEP Doctoral Student (Aug '20)
 
 # Organizations/Affiliations
 organizations:
@@ -70,4 +70,4 @@ user_groups:
 #  - Researchers
 ---
 
-Victor is a 4-th year PhD Candidate jointly supervised by Professor Kan Min-Yen and Professor Li Haizhou. His reserach interestes are in Conversational Recommender System and Natural Language Processing. 
+Victor is a 4-th year PhD Candidate jointly supervised by Professor Kan Min-Yen and Professor Li Haizhou. His research interests are in Conversational Recommender System and Natural Language Processing. 

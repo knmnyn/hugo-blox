@@ -1,10 +1,10 @@
 ---
 title: Lightweight Contextual Logical Structure Recovery
 authors:
-- Po-Wei Huang
-- Abhinav Ramesh Kashyap
-- Yanxia Qin
-- Yajing Yang
+- george
+- abhinav
+- yanxia
+- yajing
 - min
 date: '2022-10-01'
 publishDate: '2024-07-05T10:15:26.841390Z'

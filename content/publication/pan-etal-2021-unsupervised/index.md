@@ -1,7 +1,7 @@
 ---
 title: Unsupervised Multi-hop Question Answering by Question Generation
 authors:
-- Liangming Pan
+- liangming
 - Wenhu Chen
 - Wenhan Xiong
 - min
