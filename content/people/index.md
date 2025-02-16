@@ -18,6 +18,7 @@ sections:
           - Staff Alumni
           - Graduate Alumni
           - Undergraduate / Intern Alumni
+          - Secondary School Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
