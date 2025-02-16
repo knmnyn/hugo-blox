@@ -10,7 +10,7 @@ last_name: Cui
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Jul. '06)
+role: Doctoral Alumnus (Jul '06)
 
 # Organizations/Affiliations
 organizations:

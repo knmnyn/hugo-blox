@@ -10,7 +10,7 @@ last_name: Tan
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Nov '11)
+role: Internship Alumnus (Fall '04)
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Nov '11). 
+bio: Internship Alumnus (Fall '04). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Graduate Alumni
+  - Undergraduate / Intern Alumni
 ---
