@@ -10,7 +10,7 @@ last_name: Gozali
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Fall '06)
+role: Doctoral Alumnus (Aug '13)
 
 # Organizations/Affiliations
 organizations:
