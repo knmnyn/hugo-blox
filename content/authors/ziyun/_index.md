@@ -10,7 +10,7 @@ last_name: Yang
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '21)
+role: FYP Alumnus (Aug '21) <BR/> <font color=red><strong>OUR Awardee</strong></font>
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: FYP student  <BR/> <font color=red><strong>OUR Awardee</strong></font>
+bio: FYP student
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
