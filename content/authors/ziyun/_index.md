@@ -10,7 +10,7 @@ last_name: Yang
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '21)
+role: FYP Alumnus (Aug '21) <BR/> <font color=red><strong>OUR Awardee</strong></font>
 
 # Organizations/Affiliations
 organizations:
