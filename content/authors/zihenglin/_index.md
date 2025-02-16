@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Dec '12)
-
-interests:
-- Discourse in Automatic Text Summarization
+bio: Doctoral Alumnus (Dec '12). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

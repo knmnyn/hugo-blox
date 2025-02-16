@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Masters Alumnus (Jan '21)
-
-interests:
-- Sec-LS: Section-Based Long Summarization for Scientific Documents
+bio: Masters Alumnus (Jan '21). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

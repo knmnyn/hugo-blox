@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Sep '14)
-
-interests:
-- Recommender Algorithms for Mobile Applications
+bio: Doctoral Alumnus (Sep '14). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

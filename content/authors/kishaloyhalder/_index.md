@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Nov '19)
-
-interests:
-- Automatically Facilitating Discussion in Online Forums
+bio: Doctoral Alumnus (Nov '19). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

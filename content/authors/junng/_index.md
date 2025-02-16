@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Mar '14)
-
-interests:
-- Interpreting Time in Text
+bio: Doctoral Alumnus (Mar '14). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

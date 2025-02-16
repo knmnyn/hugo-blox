@@ -94,7 +94,7 @@ class Alumnus:
         return 0
     
     def loop_webpage_creation(self):
-        output_dir = 'profile_alumni/{}'.format(self.Alumnus_type)
+        output_dir = 'content/authors'
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
         print('looping through the dataframe')
@@ -148,10 +148,7 @@ organizations:
     url: {row.get('Institute_webpage', '') if 'Institute_webpage' in row else ''}
 
 # Short bio (displayed in user profile at end of posts)
-bio: {row['Role']}
-
-interests:
-- {row['Interest']}
+bio: {row['Role']}. 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
