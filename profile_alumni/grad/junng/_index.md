@@ -1,0 +1,32 @@
+---
+# Display name
+title: Jun Ping Ng
+
+# Full Name (for SEO) 
+first_name: Jun
+last_name: Ng
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Doctoral Alumnus (Mar '14)
+
+# Organizations/Affiliations
+organizations:
+  - name: National University of Singapore, School of Computing
+    url: https://www.comp.nus.edu.sg
+
+# Short bio (displayed in user profile at end of posts)
+bio: Doctoral Alumnus (Mar '14)
+
+interests:
+- Interpreting Time in Text
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+user_groups:
+  - Graduate Alumni
+---
