@@ -10,7 +10,7 @@ last_name: Gozali
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '06)
+role: Doctoral Alumnus (Fall '06)
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '06). 
+bio: Doctoral Alumnus (Aug '13). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate / Intern Alumni
+  - Doctoral Alumni
 ---
