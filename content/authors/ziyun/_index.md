@@ -18,7 +18,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: FYP student
+bio: FYP student  <BR/> <font color=red><strong>OUR Awardee</strong></font>
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

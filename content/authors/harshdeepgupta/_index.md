@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Hang Cui
+title: Harshdeep Gupta
 
 # Full Name (for SEO) 
-first_name: Hang
-last_name: Cui
+first_name: Harshdeep
+last_name: Gupta
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Jul '06)
+role: Postgraduate Intern ('18)
 
 # Organizations/Affiliations
 organizations:
-  - name: National University of Singapore, School of Computing
-    url: https://www.comp.nus.edu.sg
+  - name: IIT-Delhi
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Jul. '06). 
+bio: Postgraduate Intern ('18). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Graduate Alumni
+  - Undergraduate / Intern Alumni
 ---

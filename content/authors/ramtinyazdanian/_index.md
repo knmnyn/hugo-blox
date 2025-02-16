@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Hang Cui
+title: Ramtin Yazdanian
 
 # Full Name (for SEO) 
-first_name: Hang
-last_name: Cui
+first_name: Ramtin
+last_name: Yazdanian
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Jul '06)
+role: Postgraduate Intern ('21)
 
 # Organizations/Affiliations
 organizations:
-  - name: National University of Singapore, School of Computing
-    url: https://www.comp.nus.edu.sg
+  - name: EPFL
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Jul. '06). 
+bio: Postgraduate Intern ('21). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Graduate Alumni
+  - Undergraduate / Intern Alumni
 ---
