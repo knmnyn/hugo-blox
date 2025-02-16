@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Oct '19)
-
-interests:
-- Topic Continuity for Discourse and Dialogue
+bio: Doctoral Alumnus (Oct '19). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Jul. '06)
-
-interests:
-- Generic Soft Patterns for Question Answering
+bio: Doctoral Alumnus (Jul. '06). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

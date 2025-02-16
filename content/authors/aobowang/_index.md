@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Aug '15)
-
-interests:
-- Addressing Informality in Chinese Microtext
+bio: Doctoral Alumnus (Aug '15). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

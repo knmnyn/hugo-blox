@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Jan '20)
-
-interests:
-- Structured Information Extraction for Scientific Documents
+bio: Doctoral Alumnus (Jan '20). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

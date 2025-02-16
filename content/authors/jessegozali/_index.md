@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Masters Alumnus (Aug '13)
-
-interests:
-- Event Photo Stream Segmentation
+bio: Masters Alumnus (Aug '13). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

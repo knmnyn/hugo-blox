@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Mar '15)
-
-interests:
-- Refining Relevance Signals in Web 2.0
+bio: Doctoral Alumnus (Mar '15). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

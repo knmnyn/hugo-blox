@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (Nov '11)
-
-interests:
-- Cost-Sensitive Web-Based Information Acquisition for Record Matching
+bio: Doctoral Alumnus (Nov '11). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

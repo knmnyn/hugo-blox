@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumnus (May '13)
-
-interests:
-- Towards Generic Domain-specific Information Retrieval
+bio: Doctoral Alumnus (May '13). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Masters Alumnus (Aug '22)
-
-interests:
-- Towards Information-Seeking Follow-up Question Generation
+bio: Masters Alumnus (Aug '22). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

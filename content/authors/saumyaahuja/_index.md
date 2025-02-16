@@ -18,10 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Masters Alumnus (Spring '20)
-
-interests:
-- Concept Evolution in Scientific Literature
+bio: Masters Alumnus (Spring '20). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
