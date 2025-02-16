@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yee Fan Tan
+title: Jonathan Yan Horn Poon
 
 # Full Name (for SEO) 
-first_name: Yee
-last_name: Tan
+first_name: Jonathan
+last_name: Poon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '04)
+role: Internship Alumnus (Fall '09)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '04). 
+bio: Internship Alumnus (Fall '09). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

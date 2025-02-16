@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yee Fan Tan
+title: Edwin Jose Palathinkal
 
 # Full Name (for SEO) 
-first_name: Yee
-last_name: Tan
+first_name: Edwin
+last_name: Palathinkal
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '04)
+role: Research Assistant ('07)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '04). 
+bio: Research Assistant ('07). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yee Fan Tan
+title: Jethro Kuan
 
 # Full Name (for SEO) 
-first_name: Yee
-last_name: Tan
+first_name: Jethro
+last_name: Kuan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '04)
+role: UROP Alumnus (Spring '18)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '04). 
+bio: UROP Alumnus (Spring '18). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

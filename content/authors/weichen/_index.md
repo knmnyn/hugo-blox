@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Yee Fan Tan
+title: Wei Chen
 
 # Full Name (for SEO) 
-first_name: Yee
-last_name: Tan
+first_name: Wei
+last_name: Chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '04)
+role: Secondary School Student ('11)
 
 # Organizations/Affiliations
 organizations:
-  - name: National University of Singapore, School of Computing
-    url: https://www.comp.nus.edu.sg
+  - name: NUS High
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '04). 
+bio: Secondary School Student ('11). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate / Intern Alumni
+  - Secondary School Alumni
 ---

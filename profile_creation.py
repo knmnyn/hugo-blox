@@ -163,7 +163,7 @@ user_groups:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--Alumnus_type", type=str, default="grad")
+    parser.add_argument("--Alumnus_type", type=str, default="undergrad")
     args = parser.parse_args()
 
     Alumnus_types2csv_name = {
