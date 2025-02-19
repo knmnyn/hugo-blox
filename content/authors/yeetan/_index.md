@@ -10,7 +10,7 @@ last_name: Tan
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '04)
+role: "Doctoral Alumnus (Nov '11), Thesis: Cost-Sensitive Web-Based Information Acquisition for Record Matching"
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '04). 
+bio: Doctoral Alumnus (Nov '11). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate / Intern Alumni
+  - Graduate Alumni
 ---

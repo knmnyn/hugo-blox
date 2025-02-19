@@ -10,7 +10,7 @@ last_name: Xu
 superuser: false
 
 # Role/position
-role: Masters Alumnus (Apr '17)
+role: "Masters Alumnus (Apr '17), Thesis: Automatic Moderation of IBIS Forums"
 
 # Organizations/Affiliations
 organizations:

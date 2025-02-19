@@ -10,7 +10,7 @@ last_name: Bahrani
 superuser: false
 
 # Role/position
-role: Masters Alumnus (May '13)
+role: "Masters Alumnus (May '13), Thesis: Slide Information Retrieval"
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: C
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (May '19)
+role: "Doctoral Alumnus (May '19), Thesis: Predicting Instructor Intervention in MOOC forums"
 
 # Organizations/Affiliations
 organizations:
