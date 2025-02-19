@@ -2,7 +2,7 @@
 title: 'QACheck: A Demonstration System for Question-Guided Multi-Hop Fact-Checking'
 authors:
 - liangming
-- Xinyuan Lu
+- xinyuan
 - min
 - Preslav Nakov
 date: '2023-12-01'

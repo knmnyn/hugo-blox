@@ -5,7 +5,7 @@ authors:
 - Phuoc Pham Van Long
 - Duc Anh Vu
 - nhat
-- Xuan Long Do
+- long
 - Anh Tuan Luu
 
 author_notes: [Equal Contribution, Equal Contribution, Equal Contribution, Equal Contribution]

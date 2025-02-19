@@ -1,7 +1,7 @@
 ---
 title: Linking Organizational Social Network Profiles
 authors:
-- Jerome Cheng
+- jeromecheng
 - kaz
 - min
 date: '2016-01-01'

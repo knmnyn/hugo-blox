@@ -1,11 +1,11 @@
 ---
 title: Re-examining the Role of Schema Linking in Text-to-SQL
 authors:
-- Wenqiang Lei
-- Weixin Wang
+- wenqianglei
+- weixinwang
 - Zhixin Ma
 - Tian Gan
-- Wei Lu
+- weilu
 - min
 - Tat-Seng Chua
 date: '2020-11-01'

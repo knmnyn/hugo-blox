@@ -3,7 +3,7 @@ title: Logical Structure Recovery in Scholarly Articles with Rich Document Featu
 authors:
 - min
 - Minh-Thang Luong
-- Thuy Dung Nguyen
+- emmanguyen
 date: '2010-10-01'
 publishDate: '2024-10-19T15:18:06.303954Z'
 publication_types:

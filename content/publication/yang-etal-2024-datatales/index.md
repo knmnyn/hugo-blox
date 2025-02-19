@@ -1,7 +1,7 @@
 ---
 title: 'DataTales: A Benchmark for Real-World Intelligent Data Narration'
 authors:
-- Yajing Yang
+- yajing
 - Qian Liu
 - min
 date: '2024-11-12'

@@ -1,9 +1,9 @@
 ---
 title: "VELDA: relating an image tweet's text and images"
 authors:
-- Tao Chen
+- taochen
 - Hany M. SalahEldeen
-- Xiangnan He
+- xiangnanhe
 - min
 - dongyuan
 date: '2015-01-01'

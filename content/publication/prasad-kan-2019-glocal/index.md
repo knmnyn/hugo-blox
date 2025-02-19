@@ -2,7 +2,7 @@
 title: 'Glocal: Incorporating Global Information in Local Convolution for Keyphrase
   Extraction'
 authors:
-- Animesh Prasad
+- animeshprasad
 - min
 date: '2019-06-01'
 publishDate: '2024-07-11T07:40:56.320220Z'

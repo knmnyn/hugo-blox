@@ -1,7 +1,7 @@
 ---
 title: Extracting Domain-Specific Words - A Statistical Approach
 authors:
-- Su Nam Kim
+- sunamkim
 - Timothy Baldwin
 - min
 date: '2009-12-01'

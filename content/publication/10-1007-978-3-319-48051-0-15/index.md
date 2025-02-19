@@ -2,7 +2,7 @@
 title: 'Scrutinizing Mobile App Recommendation: Identifying Important App-Related
   Indicators'
 authors:
-- Jovian Lin
+- jovianlin
 - kaz
 - min
 - Tat-Seng Chua

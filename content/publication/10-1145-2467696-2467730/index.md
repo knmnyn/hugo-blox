@@ -2,7 +2,7 @@
 title: Constructing an anonymous dataset from the personal digital photo libraries
   of mac app store users
 authors:
-- Jesse Prabawa Gozali
+- jessegozali
 - min
 - Hari Sundaram
 date: '2013-01-01'

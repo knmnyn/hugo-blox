@@ -1,7 +1,7 @@
 ---
 title: Generic soft pattern models for definitional question answering
 authors:
-- Hang Cui
+- hangcui
 - min
 - Tat-Seng Chua
 date: '2005-01-01'

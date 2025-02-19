@@ -2,7 +2,7 @@
 title: 'Addressing cold-start in app recommendation: latent user models constructed
   from twitter followers'
 authors:
-- Jovian Lin
+- jovianlin
 - kaz
 - min
 - Tat-Seng Chua

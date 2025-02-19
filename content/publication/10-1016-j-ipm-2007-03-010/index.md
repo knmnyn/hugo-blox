@@ -4,7 +4,7 @@ authors:
 - Shiren Ye
 - Tat-Seng Chua
 - min
-- Long Qiu
+- longqiu
 date: '2007-11-01'
 publishDate: '2024-10-20T00:58:41.548792Z'
 publication_types:

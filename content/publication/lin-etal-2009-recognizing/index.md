@@ -1,7 +1,7 @@
 ---
 title: Recognizing Implicit Discourse Relations in the Penn Discourse Treebank
 authors:
-- Ziheng Lin
+- zihenglin
 - min
 - Hwee Tou Ng
 date: '2009-08-01'

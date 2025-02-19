@@ -2,7 +2,7 @@
 title: 'WING-NUS at SemEval-2017 Task 10: Keyphrase Extraction and Classification
   as Joint Sequence Labeling'
 authors:
-- Animesh Prasad
+- animeshprasad
 - min
 date: '2017-08-01'
 publishDate: '2024-07-11T07:40:56.382115Z'

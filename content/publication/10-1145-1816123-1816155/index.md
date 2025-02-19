@@ -1,7 +1,7 @@
 ---
 title: Domain-specific iterative readability computation
 authors:
-- Jin Zhao
+- jinzhao
 - min
 date: '2010-01-01'
 publishDate: '2024-10-19T16:53:49.031225Z'

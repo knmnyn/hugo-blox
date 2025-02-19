@@ -1,7 +1,7 @@
 ---
 title: 'BiRank: Towards Ranking on Bipartite Graphs'
 authors:
-- Xiangnan He
+- xiangnanhe
 - Ming Gao
 - min
 - Dingxian Wang

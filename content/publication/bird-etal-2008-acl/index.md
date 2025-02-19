@@ -11,7 +11,7 @@ authors:
 - Dongwon Lee
 - Brett Powley
 - Dragomir Radev
-- Yee Fan Tan
+- yeetan
 date: '2008-05-01'
 publishDate: '2024-07-11T07:40:56.554775Z'
 publication_types:

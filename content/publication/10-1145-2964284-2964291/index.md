@@ -1,8 +1,8 @@
 ---
 title: Context-aware Image Tweet Modelling and Recommendation
 authors:
-- Tao Chen
-- Xiangnan He
+- taochen
+- xiangnanhe
 - min
 date: '2016-01-01'
 publishDate: '2024-07-23T15:26:59.174305Z'

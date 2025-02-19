@@ -1,7 +1,7 @@
 ---
 title: 'Doolittle: Benchmarks and Corpora for Academic Writing Formalization'
 authors:
-- Shizhe Diao
+- shizhediao
 - Yongyu Lei
 - liangming
 - Tianqing Fang

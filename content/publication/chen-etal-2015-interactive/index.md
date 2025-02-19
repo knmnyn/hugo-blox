@@ -1,9 +1,9 @@
 ---
 title: Interactive Second Language Learning from News Websites
 authors:
-- Tao Chen
-- Naijia Zheng
-- Yue Zhao
+- taochen
+- naijiazheng
+- yuezhao
 - Muthu Kumar Chandrasekaran
 - min
 date: '2015-07-01'
