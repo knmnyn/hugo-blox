@@ -63,11 +63,13 @@ class IndexLinking:
                     in_authors = True
                     continue
                 if in_authors:
-                    if line.startswith('-'):
+                    if line.startswith('-') or line.startswith('  -'):
                         # author_name = line.replace('-', '').strip()
                         # check if the first letter is '-', if so, remove it
                         if line[0] == '-':
                             line = line[1:].strip()
+                        if line.startswith('  -'):
+                            line = line[3:].strip()
                         author_status = self.author_linking(line)
                         # author_lines.append(author_name + ' (' + author_status[0] + ' ' + author_status[1] + ')'))
                         author_lines[line] = author_status[1]
