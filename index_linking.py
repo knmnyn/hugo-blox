@@ -73,8 +73,8 @@ class IndexLinking:
                             in_authors = False
 
             # Loop through each author
-            for author in author_lines:
-                print(f"  Author: {author}, {author_lines[author]}")
+            # for author in author_lines:
+                # print(f"  Author: {author}, {author_lines[author]}")
 
             # Let's read the page_content again
             with open(page_path, "r") as f:
@@ -86,7 +86,7 @@ class IndexLinking:
                     if len(author_key) > 0:
                         # replace the line with "- {author_key}\n"
                         page_content = page_content.replace(f"- {author_name}\n", f"- {author_key}\n")
-                        print(f"Replaced {author_name} with {author_key}")
+                        # print(f"Replaced {author_name} with {author_key}")
 
             # Write the page_content back to the page_path
             with open(page_path, "w") as f:
