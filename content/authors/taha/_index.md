@@ -18,7 +18,7 @@ organizations:
     url: 'https://cuthalionn.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumni ('24)
+bio: "Doctoral Alumni ('24). Thesis: Task-Oriented Dialogue Understanding and Evaluation using Minimal Data."
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
