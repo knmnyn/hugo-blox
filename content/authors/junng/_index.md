@@ -10,7 +10,7 @@ last_name: Ng
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Mar '14), Thesis: Interpreting Time in Text"
+role: "Doctoral Alumnus (Mar '14), Thesis: Interpreting Time in Text."
 
 # Organizations/Affiliations
 organizations:

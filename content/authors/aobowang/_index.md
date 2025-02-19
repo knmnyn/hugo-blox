@@ -10,7 +10,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Aug '15), Thesis: Addressing Informality in Chinese Microtext"
+role: "Doctoral Alumnus (Aug '15), Thesis: Addressing Informality in Chinese Microtext."
 
 # Organizations/Affiliations
 organizations:

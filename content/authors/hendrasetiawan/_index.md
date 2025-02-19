@@ -10,7 +10,7 @@ last_name: Setiawan
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Apr '09), Thesis: Head-driven Statistical Machine Translation"
+role: "Doctoral Alumnus (Apr '09), Thesis: Head-driven Statistical Machine Translation."
 
 # Organizations/Affiliations
 organizations:

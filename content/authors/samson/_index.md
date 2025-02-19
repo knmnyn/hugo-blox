@@ -10,7 +10,7 @@ last_name: Tan
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (May '22), Thesis: Linguistically-Inclusive Natural Language Processing"
+role: "Doctoral Alumnus (May '22), Thesis: Linguistically-Inclusive Natural Language Processing."
 
 # Organizations/Affiliations
 organizations:

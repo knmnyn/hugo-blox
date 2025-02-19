@@ -10,7 +10,7 @@ last_name: He
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Mar '15), Thesis: Refining Relevance Signals in Web 2.0"
+role: "Doctoral Alumnus (Mar '15), Thesis: Refining Relevance Signals in Web 2.0."
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: Ding
 superuser: false
 
 # Role/position
-role: "Masters Alumnus (Jan '21), Thesis: Sec-LS: Section-Based Long Summarization for Scientific Documents"
+role: "Masters Alumnus (Jan '21), Thesis: Sec-LS: Section-Based Long Summarization for Scientific Documents."
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: Tan
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Nov '11), Thesis: Cost-Sensitive Web-Based Information Acquisition for Record Matching"
+role: "Doctoral Alumnus (Nov '11), Thesis: Cost-Sensitive Web-Based Information Acquisition for Record Matching."
 
 # Organizations/Affiliations
 organizations:

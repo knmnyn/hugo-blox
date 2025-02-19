@@ -10,7 +10,7 @@ last_name: Yuanxin
 superuser: false
 
 # Role/position
-role: "Masters Alumnus (Spring '17), Thesis: Verb Duration Determination"
+role: "Masters Alumnus (Spring '17), Thesis: Verb Duration Determination."
 
 # Organizations/Affiliations
 organizations:

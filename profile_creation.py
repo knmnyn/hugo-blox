@@ -132,7 +132,7 @@ class Alumnus:
     def webpage_creation(self, row):
         role_field = row['Role']
         if self.Alumnus_type == 'grad':
-            role_field = f"{role_field}, Thesis: {row['Interest']}"
+            role_field = f"{role_field}, Thesis: {row['Interest']}."
 
         # Create webpage content based on template
         if self.Alumnus_type == 'grad':

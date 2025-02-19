@@ -10,7 +10,7 @@ last_name: Lin
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Dec '12), Thesis: Discourse in Automatic Text Summarization"
+role: "Doctoral Alumnus (Dec '12), Thesis: Discourse in Automatic Text Summarization."
 
 # Organizations/Affiliations
 organizations:
