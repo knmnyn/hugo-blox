@@ -1,7 +1,7 @@
 ---
 title: 'FollowupQG: Towards information-seeking follow-up question generation'
 authors:
-- mengyan
+- yanmeng
 - liangming
 - Yixin Cao
 - min
