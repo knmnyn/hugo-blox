@@ -50,6 +50,7 @@ class Alumnus:
 
         self.existing_people_name = ['George Huang', 'Po-Wei Huang']
         self.new_people_manual = ['Haochen Zhang', 'Shenhao Jiang']
+        self.protection_list = ['Abhinav Ramesh Kashyap', 'Hengchang Hu', 'Ibrahim Taha Aksu']
     
     def process_Alumnus_data(self):
         # Name,Role,Interest,Years,Institute
@@ -101,6 +102,8 @@ class Alumnus:
         for index, row in self.df.iterrows():
             # get the name of the person
             name = row['Name']
+            if name in self.protection_list:
+                continue
             if self.Alumnus_type == 'undergrad':
                 if name in [
                     'Ziheng Lin',
