@@ -10,7 +10,7 @@ last_name: Lin
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Sep '14)
+role: "Doctoral Alumnus (Sep '14), Thesis: Recommender Algorithms for Mobile Applications"
 
 # Organizations/Affiliations
 organizations:

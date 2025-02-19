@@ -10,7 +10,7 @@ last_name: Lei
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Oct '19)
+role: "Doctoral Alumnus (Oct '19), Thesis: Topic Continuity for Discourse and Dialogue"
 
 # Organizations/Affiliations
 organizations:

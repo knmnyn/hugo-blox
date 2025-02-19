@@ -10,7 +10,7 @@ last_name: Meng
 superuser: false
 
 # Role/position
-role: Masters Alumnus (Aug '22)
+role: "Masters Alumnus (Aug '22), Thesis: Towards Information-Seeking Follow-up Question Generation"
 
 # Organizations/Affiliations
 organizations:

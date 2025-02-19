@@ -10,7 +10,7 @@ last_name: Ahuja
 superuser: false
 
 # Role/position
-role: Masters Alumnus (Spring '20)
+role: "Masters Alumnus (Spring '20), Thesis: Concept Evolution in Scientific Literature"
 
 # Organizations/Affiliations
 organizations:

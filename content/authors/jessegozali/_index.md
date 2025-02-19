@@ -10,7 +10,7 @@ last_name: Gozali
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Aug '13)
+role: "Doctoral Alumnus (Aug '13), Thesis: Event Photo Stream Segmentation"
 
 # Organizations/Affiliations
 organizations:

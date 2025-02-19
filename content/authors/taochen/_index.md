@@ -10,7 +10,7 @@ last_name: Chen
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Apr '16)
+role: "Doctoral Alumnus (Apr '16), Thesis: Image Tweet Analysis"
 
 # Organizations/Affiliations
 organizations:

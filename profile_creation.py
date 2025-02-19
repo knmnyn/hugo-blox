@@ -90,7 +90,7 @@ class Alumnus:
                 continue
             if existing_name in name_concat.lower():
                 print(f"{name} exists, the existing name is {existing_name}")
-                return 1
+                return existing_name
         return 0
     
     def loop_webpage_creation(self):
@@ -109,10 +109,13 @@ class Alumnus:
                     continue
             print(index, name)
             is_existing = self.check_if_name_exists(name)
-            if is_existing:
-                continue
+            # if is_existing != 0:
+            #     continue
             sub_names = name.split(' ')
             new_alias = sub_names[0].lower() + sub_names[-1].lower()
+            if self.Alumnus_type == 'grad':
+                if is_existing != 0:
+                    new_alias = is_existing
             print(new_alias)
             webpage_content = self.webpage_creation(row)
             # create a new dir for the new alumnus
@@ -127,8 +130,13 @@ class Alumnus:
 
 
     def webpage_creation(self, row):
+        role_field = row['Role']
+        if self.Alumnus_type == 'grad':
+            role_field = f"{role_field}, Thesis: {row['Interest']}"
+
         # Create webpage content based on template
-        webpage_content = f'''---
+        if self.Alumnus_type == 'grad':
+            webpage_content = f'''---
 # Display name
 title: {row['Name']}
 
@@ -140,7 +148,7 @@ last_name: {row['Name'].split()[-1]}
 superuser: false
 
 # Role/position
-role: {row['Role']}
+role: "{role_field}"
 
 # Organizations/Affiliations
 organizations:
@@ -158,12 +166,13 @@ user_groups:
   - {row['user_groups']}
 ---
 '''
+
         return webpage_content
     
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--Alumnus_type", type=str, default="undergrad")
+    parser.add_argument("--Alumnus_type", type=str, default="grad")
     args = parser.parse_args()
 
     Alumnus_types2csv_name = {

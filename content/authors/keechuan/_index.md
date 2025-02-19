@@ -10,7 +10,7 @@ last_name: Chuan
 superuser: false
 
 # Role/position
-role: Masters Alumnus (May '21)
+role: "Masters Alumnus (May '21), Thesis: Synthesis of a Large Dataset of Annotated Reference Strings for Developing Citation Parsers"
 
 # Organizations/Affiliations
 organizations:

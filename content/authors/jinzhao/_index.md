@@ -10,7 +10,7 @@ last_name: Zhao
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (May '13)
+role: "Doctoral Alumnus (May '13), Thesis: Towards Generic Domain-specific Information Retrieval"
 
 # Organizations/Affiliations
 organizations:

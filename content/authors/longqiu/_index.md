@@ -10,7 +10,7 @@ last_name: Qiu
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus (Feb '09)
+role: "Doctoral Alumnus (Feb '09), Thesis: Scenario Template Creation"
 
 # Organizations/Affiliations
 organizations:
