@@ -3,7 +3,7 @@ title: 'Mining Scientific Terms and their Definitions: A Study of the ACL Anthol
 authors:
 - yipingjin
 - min
-- Jun-Ping Ng
+- junng
 - xiangnanhe
 date: '2013-10-01'
 publishDate: '2024-07-11T07:40:56.438607Z'

@@ -63,19 +63,25 @@ class IndexLinking:
                     in_authors = True
                     continue
                 if in_authors:
-                    if line.startswith('-'):
-                        author_name = line.replace('-', '').strip()
-                        author_status = self.author_linking(author_name)
+                    if line.startswith('-') or line.startswith('  -'):
+                        # author_name = line.replace('-', '').strip()
+                        # check if the first letter is '-', if so, remove it
+                        if line[0] == '-':
+                            line = line[1:].strip()
+                        if line.startswith('  -'):
+                            line = line[3:].strip()
+                        author_status = self.author_linking(line)
                         # author_lines.append(author_name + ' (' + author_status[0] + ' ' + author_status[1] + ')'))
-                        author_lines[author_name] = author_status[1]
+                        author_lines[line] = author_status[1]
                     else:
                         if not line.startswith(' '):
                             in_authors = False
 
             # Loop through each author
-            for author in author_lines:
-                print(f"  Author: {author}, {author_lines[author]}")
+            # for author in author_lines:
+                # print(f"  Author: {author}, {author_lines[author]}")
 
+            print(author_lines)
             # Let's read the page_content again
             with open(page_path, "r") as f:
                 page_content = f.read()

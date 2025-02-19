@@ -5,7 +5,7 @@ title: 'Discursive Socratic Questioning: Evaluating the Faithfulness of Language
 authors:
   - yisong
   - Hongfu Liu
-  - Wenqiang Lei
+  - wenqianglei
   - Nancy F. Chen
   - min
 

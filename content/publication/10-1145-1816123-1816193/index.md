@@ -3,7 +3,7 @@ title: 'ForeCite: towards a reader-centric scholarly digital library'
 authors:
 - emmanguyen
 - min
-- Dinh-Trung Dang
+- tonydang
 - markushänse
 - Ching Hoi Andy Hong
 - Minh-Thang Luong

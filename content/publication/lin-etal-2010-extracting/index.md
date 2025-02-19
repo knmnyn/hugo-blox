@@ -3,7 +3,7 @@ title: Extracting Formulaic and Free Text Clinical Research Articles Metadata us
   Conditional Random Fields
 authors:
 - justinlin
-- Jun-Ping Ng
+- junng
 - Shreyasee Pradhan
 - Jatin Shah
 - Ricardo Pietrobon
