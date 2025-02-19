@@ -10,7 +10,7 @@ last_name: Halder
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Nov '19), Thesis: Automatically Facilitating Discussion in Online Forums."
+role: "Doctoral Alumnus (Nov '19). Thesis: Automatically Facilitating Discussion in Online Forums."
 
 # Organizations/Affiliations
 organizations:
