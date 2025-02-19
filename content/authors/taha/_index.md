@@ -10,7 +10,7 @@ last_name: Aksu
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus ('24)
+role: "Doctoral Alumnus ('24). Thesis: Task-Oriented Dialogue Understanding and Evaluation using Minimal Data."
 
 # Organizations/Affiliations
 organizations:
