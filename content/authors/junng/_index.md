@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jun Ping Ng
+title: Jun-Ping Ng
 
 # Full Name (for SEO) 
-first_name: Jun
+first_name: Jun-Ping
 last_name: Ng
 
 # Is this the primary user of the site?

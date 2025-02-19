@@ -64,10 +64,13 @@ class IndexLinking:
                     continue
                 if in_authors:
                     if line.startswith('-'):
-                        author_name = line.replace('-', '').strip()
-                        author_status = self.author_linking(author_name)
+                        # author_name = line.replace('-', '').strip()
+                        # check if the first letter is '-', if so, remove it
+                        if line[0] == '-':
+                            line = line[1:].strip()
+                        author_status = self.author_linking(line)
                         # author_lines.append(author_name + ' (' + author_status[0] + ' ' + author_status[1] + ')'))
-                        author_lines[author_name] = author_status[1]
+                        author_lines[line] = author_status[1]
                     else:
                         if not line.startswith(' '):
                             in_authors = False
@@ -76,6 +79,7 @@ class IndexLinking:
             # for author in author_lines:
                 # print(f"  Author: {author}, {author_lines[author]}")
 
+            print(author_lines)
             # Let's read the page_content again
             with open(page_path, "r") as f:
                 page_content = f.read()
@@ -86,7 +90,7 @@ class IndexLinking:
                     if len(author_key) > 0:
                         # replace the line with "- {author_key}\n"
                         page_content = page_content.replace(f"- {author_name}\n", f"- {author_key}\n")
-                        # print(f"Replaced {author_name} with {author_key}")
+                        print(f"Replaced {author_name} with {author_key}")
 
             # Write the page_content back to the page_path
             with open(page_path, "w") as f:

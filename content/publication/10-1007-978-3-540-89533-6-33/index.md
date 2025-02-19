@@ -1,7 +1,7 @@
 ---
 title: Towards a Webpage-Based Bibliographic Manager
 authors:
-- Dinh-Trung Dang
+- tonydang
 - yeetan
 - min
 date: '2008-01-01'
