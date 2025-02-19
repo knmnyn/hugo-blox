@@ -1,7 +1,7 @@
 ---
 title: Ordering Phrases with Function Words
 authors:
-- Hendra Setiawan
+- hendrasetiawan
 - min
 - Haizhou Li
 date: '2007-06-01'

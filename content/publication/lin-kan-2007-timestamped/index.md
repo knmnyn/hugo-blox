@@ -1,7 +1,7 @@
 ---
 title: 'Timestamped Graphs: Evolutionary Models of Text for Multi-Document Summarization'
 authors:
-- Ziheng Lin
+- zihenglin
 - min
 date: '2007-01-01'
 publishDate: '2024-07-11T07:40:56.573882Z'

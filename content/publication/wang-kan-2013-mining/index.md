@@ -2,7 +2,7 @@
 title: 'Mining Informal Language from Chinese Microtext: Joint Word Recognition and
   Segmentation'
 authors:
-- Aobo Wang
+- aobowang
 - min
 date: '2013-08-01'
 publishDate: '2024-07-11T07:40:56.420009Z'

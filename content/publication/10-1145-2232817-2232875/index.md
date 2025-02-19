@@ -2,7 +2,7 @@
 title: How do people organize their photos in each event and how does it affect storytelling,
   searching and interpretation tasks?
 authors:
-- Jesse Prabawa Gozali
+- jessegozali
 - min
 - Hari Sundaram
 date: '2012-01-01'

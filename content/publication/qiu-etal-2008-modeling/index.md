@@ -1,7 +1,7 @@
 ---
 title: Modeling Context in Scenario Template Creation
 authors:
-- Long Qiu
+- longqiu
 - min
 - Tat-Seng Chua
 date: '2008-01-01'

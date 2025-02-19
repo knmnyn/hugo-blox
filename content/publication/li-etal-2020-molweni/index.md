@@ -7,7 +7,7 @@ authors:
 - min
 - Zihao Zheng
 - Zekun Wang
-- Wenqiang Lei
+- wenqianglei
 - Ting Liu
 - Bing Qin
 date: '2020-12-01'

@@ -1,7 +1,7 @@
 ---
 title: Understanding and classifying image tweets
 authors:
-- Tao Chen
+- taochen
 - dongyuan
 - min
 - Peng Cui

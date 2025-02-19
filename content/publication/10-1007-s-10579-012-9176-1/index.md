@@ -1,8 +1,8 @@
 ---
 title: Perspectives on crowdsourcing annotations for natural language processing
 authors:
-- Aobo Wang
-- Cong Duy Hoang
+- aobowang
+- conghoang
 - min
 date: '2013-03-01'
 publishDate: '2024-10-19T15:18:06.253195Z'

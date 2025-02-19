@@ -3,7 +3,7 @@ title: 'Video retrieval using high level features: exploiting query matching and
   weighting'
 authors:
 - Shi-Yong Neo
-- Jin Zhao
+- jinzhao
 - min
 - Tat-Seng Chua
 date: '2006-01-01'

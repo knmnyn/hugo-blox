@@ -3,7 +3,7 @@ title: Instructor-centric source code plagiarism detection and plagiarism corpus
 authors:
 - Jonathan Y.H. Poon
 - kaz
-- Yee Fan Tan
+- yeetan
 - min
 date: '2012-01-01'
 publishDate: '2024-10-19T15:18:06.274650Z'

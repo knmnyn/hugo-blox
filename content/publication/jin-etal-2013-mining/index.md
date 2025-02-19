@@ -1,10 +1,10 @@
 ---
 title: 'Mining Scientific Terms and their Definitions: A Study of the ACL Anthology'
 authors:
-- Yiping Jin
+- yipingjin
 - min
 - Jun-Ping Ng
-- Xiangnan He
+- xiangnanhe
 date: '2013-10-01'
 publishDate: '2024-07-11T07:40:56.438607Z'
 publication_types:

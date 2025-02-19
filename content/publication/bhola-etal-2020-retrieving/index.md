@@ -3,8 +3,8 @@ title: 'Retrieving Skills from Job Descriptions: A Language Model Based Extreme 
   Classification Framework'
 authors:
 - Akshay Bhola
-- Kishaloy Halder
-- Animesh Prasad
+- kishaloyhalder
+- animeshprasad
 - min
 date: '2020-12-01'
 publishDate: '2024-07-11T07:40:56.291153Z'

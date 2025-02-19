@@ -1,7 +1,7 @@
 ---
 title: 'Slide image retrieval: a preliminary study'
 authors:
-- Guo Min Liew
+- guoliew
 - min
 date: '2008-01-01'
 publishDate: '2024-10-19T16:53:49.063874Z'

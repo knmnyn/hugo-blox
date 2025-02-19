@@ -2,7 +2,7 @@
 title: Record matching in digital library metadata
 authors:
 - min
-- Yee Fan Tan
+- yeetan
 date: '2008-02-01'
 publishDate: '2024-10-20T00:58:41.520202Z'
 publication_types:

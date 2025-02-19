@@ -2,7 +2,7 @@
 title: 'Scientific document processing: challenges for modern learning methods'
 authors:
 - abhinav
-- Yang Yajing
+- yajing
 - min
 date: '2023-03-24'
 publishDate: '2024-07-06T02:22:24.568376Z'

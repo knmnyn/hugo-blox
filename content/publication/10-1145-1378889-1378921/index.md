@@ -1,7 +1,7 @@
 ---
 title: 'Math information retrieval: user requirements and prototype implementation'
 authors:
-- Jin Zhao
+- jinzhao
 - min
 - Yin Leng Theng
 date: '2008-01-01'

@@ -2,7 +2,7 @@
 title: 'Modeling Temporal Progression of Emotional Status in Mental Health Forum:
   A Recurrent Neural Net Approach'
 authors:
-- Kishaloy Halder
+- kishaloyhalder
 - Lahari Poddar
 - min
 date: '2017-09-01'

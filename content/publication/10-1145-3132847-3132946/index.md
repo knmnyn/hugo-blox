@@ -1,7 +1,7 @@
 ---
 title: Health Forum Thread Recommendation Using an Interest Aware Topic Model
 authors:
-- Kishaloy Halder
+- kishaloyhalder
 - min
 - kaz
 date: '2017-01-01'

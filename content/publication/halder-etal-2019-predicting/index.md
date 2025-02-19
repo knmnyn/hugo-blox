@@ -1,7 +1,7 @@
 ---
 title: 'Predicting Helpful Posts in Open-Ended Discussion Forums: A Neural Architecture'
 authors:
-- Kishaloy Halder
+- kishaloyhalder
 - min
 - kaz
 date: '2019-06-01'

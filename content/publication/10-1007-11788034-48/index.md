@@ -2,7 +2,7 @@
 title: 'NPIC: hierarchical synthetic image classification using image search and generic
   features'
 authors:
-- Fei Wang
+- nicholaswang
 - min
 date: '2006-01-01'
 publishDate: '2024-10-20T00:58:41.596622Z'

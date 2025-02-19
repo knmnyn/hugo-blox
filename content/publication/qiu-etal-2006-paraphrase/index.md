@@ -1,7 +1,7 @@
 ---
 title: Paraphrase Recognition via Dissimilarity Significance Classification
 authors:
-- Long Qiu
+- longqiu
 - min
 - Tat-Seng Chua
 date: '2006-07-01'

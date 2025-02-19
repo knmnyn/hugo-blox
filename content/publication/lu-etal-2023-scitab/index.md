@@ -2,7 +2,7 @@
 title: 'SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification
   on Scientific Tables'
 authors:
-- Xinyuan Lu
+- xinyuan
 - liangming 
 - Qian Liu
 - Preslav Nakov

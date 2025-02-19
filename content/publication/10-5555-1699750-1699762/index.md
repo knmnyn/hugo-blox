@@ -2,7 +2,7 @@
 title: 'FireCite: lightweight real-time reference string extraction from webpages'
 authors:
 - Ching Hoi Andy Hong
-- Jesse Prabawa Gozali
+- jessegozali
 - min
 date: '2009-01-01'
 publishDate: '2024-10-19T16:53:49.038008Z'

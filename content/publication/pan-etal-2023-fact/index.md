@@ -3,7 +3,7 @@ title: Fact-Checking Complex Claims with Program-Guided Reasoning
 authors:
 - liangming
 - Xiaobao Wu
-- Xinyuan Lu
+- xinyuan
 - Anh Tuan Luu
 - William Yang Wang
 - min
