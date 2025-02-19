@@ -10,7 +10,7 @@ last_name: Hoang
 superuser: false
 
 # Role/position
-role: "Masters Alumnus (Feb '11), Thesis: Automated Related Work Summarization"
+role: "Masters Alumnus (Feb '11), Thesis: Automated Related Work Summarization."
 
 # Organizations/Affiliations
 organizations:

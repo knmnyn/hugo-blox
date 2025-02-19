@@ -10,7 +10,7 @@ last_name: Prasad
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Jan '20), Thesis: Structured Information Extraction for Scientific Documents"
+role: "Doctoral Alumnus (Jan '20), Thesis: Structured Information Extraction for Scientific Documents."
 
 # Organizations/Affiliations
 organizations:
