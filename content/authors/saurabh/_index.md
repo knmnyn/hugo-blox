@@ -10,7 +10,7 @@ last_name: Jain
 superuser: false
 
 # Role/position
-role: "Masters Alumnus (Dec '21), Thesis: Comparative Response Generation."
+role: "Masters Alumnus (Dec '21). Thesis: Comparative Response Generation."
 
 # Organizations/Affiliations
 organizations:

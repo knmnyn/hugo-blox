@@ -10,7 +10,7 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: "Masters Alumnus (Spring '20), Thesis: Text-To-SQL Parsing."
+role: "Masters Alumnus (Spring '20). Thesis: Text-To-SQL Parsing."
 
 # Organizations/Affiliations
 organizations:

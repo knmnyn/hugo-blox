@@ -10,7 +10,7 @@ last_name: Cui
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Jul. '06), Thesis: Generic Soft Patterns for Question Answering."
+role: "Doctoral Alumnus (Jul. '06). Thesis: Generic Soft Patterns for Question Answering."
 
 # Organizations/Affiliations
 organizations:

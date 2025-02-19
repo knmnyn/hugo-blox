@@ -10,7 +10,7 @@ last_name: Pan
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Apr '22), Thesis: Towards Generating Deep Questions from Text."
+role: "Doctoral Alumnus (Apr '22). Thesis: Towards Generating Deep Questions from Text."
 
 # Organizations/Affiliations
 organizations:
