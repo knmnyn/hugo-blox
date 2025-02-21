@@ -1,5 +1,5 @@
 ---
-title: celebrating the success of SSNLP 2024!
+title: Celebrating the Success of SSNLP 2024!
 date: 2024-11-06
 authors: [jiaying]
 ---
