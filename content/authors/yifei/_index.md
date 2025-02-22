@@ -6,6 +6,9 @@ title: Yifei Xu
 first_name: Yifei
 last_name: Xu
 
+# Date for sorting
+date: '2024-08'
+
 # Is this the primary user of the site?
 superuser: false
 

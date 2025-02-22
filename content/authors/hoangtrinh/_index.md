@@ -6,6 +6,9 @@ title: Hoang Minh Trinh
 first_name: Hoang
 last_name: Trinh
 
+# Date for sorting
+date: '2007'
+
 # Is this the primary user of the site?
 superuser: false
 

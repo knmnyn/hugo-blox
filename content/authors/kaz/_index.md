@@ -6,6 +6,9 @@ title: Kazunari Sugiyama
 first_name: Kazunari
 last_name: Sugiyama
 
+# Date for sorting
+date: ''
+
 # Is this the primary user of the site?
 superuser: false
 

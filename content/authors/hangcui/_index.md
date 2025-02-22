@@ -6,6 +6,9 @@ title: Hang Cui
 first_name: Hang
 last_name: Cui
 
+# Date for sorting
+date: '2006-07'
+
 # Is this the primary user of the site?
 superuser: false
 

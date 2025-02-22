@@ -6,6 +6,9 @@ title: Luo Xizi
 first_name: Xizi
 last_name: Luo
 
+# Date for sorting
+date: '2024-08'
+
 # Is this the primary user of the site?
 superuser: false
 

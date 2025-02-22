@@ -6,6 +6,9 @@ title: Xiangnan He
 first_name: Xiangnan
 last_name: He
 
+# Date for sorting
+date: '2015-03'
+
 # Is this the primary user of the site?
 superuser: false
 

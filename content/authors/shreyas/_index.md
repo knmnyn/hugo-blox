@@ -6,6 +6,9 @@ title: Shreyas Kuthanoor Prakash
 first_name: Shreyas Kuthanoor
 last_name: Prakash
 
+# Date for sorting
+date: '2020-08'
+
 # Is this the primary user of the site?
 superuser: false
 

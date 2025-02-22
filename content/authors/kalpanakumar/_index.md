@@ -6,6 +6,9 @@ title: Kalpana Kumar
 first_name: Kalpana
 last_name: Kumar
 
+# Date for sorting
+date: '2006'
+
 # Is this the primary user of the site?
 superuser: false
 

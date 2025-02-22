@@ -6,6 +6,9 @@ title: Rohit Kumar
 first_name: Rohit
 last_name: Kumar
 
+# Date for sorting
+date: '2010'
+
 # Is this the primary user of the site?
 superuser: false
 

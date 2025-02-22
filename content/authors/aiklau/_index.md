@@ -6,6 +6,9 @@ title: Aik Miang Lau
 first_name: Aik
 last_name: Lau
 
+# Date for sorting
+date: '2004'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,9 @@ title: Rahmad Mahendra
 first_name: Rahmad
 last_name: Mahendra
 
+# Date for sorting
+date: '2010'
+
 # Is this the primary user of the site?
 superuser: false
 

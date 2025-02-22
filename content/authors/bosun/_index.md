@@ -6,6 +6,9 @@ title: Bo Sun
 first_name: Bo
 last_name: Sun
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

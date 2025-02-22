@@ -6,6 +6,9 @@ title: Shomir Wilson
 first_name: Shomir
 last_name: Wilson
 
+# Date for sorting
+date: '2010'
+
 # Is this the primary user of the site?
 superuser: false
 

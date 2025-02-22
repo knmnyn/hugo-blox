@@ -6,6 +6,9 @@ title: Nhat Minh Le
 first_name: Nhat
 last_name: Le
 
+# Date for sorting
+date: '2013'
+
 # Is this the primary user of the site?
 superuser: false
 

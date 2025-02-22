@@ -6,6 +6,9 @@ title: Hendra Setiawan
 first_name: Hendra
 last_name: Setiawan
 
+# Date for sorting
+date: '2009-04'
+
 # Is this the primary user of the site?
 superuser: false
 

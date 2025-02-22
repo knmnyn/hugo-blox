@@ -6,6 +6,9 @@ title: Chuang Li
 first_name: Chuang
 last_name: Li
 
+# Date for sorting
+date: '2020-08'
+
 # Is this the primary user of the site?
 superuser: false
 

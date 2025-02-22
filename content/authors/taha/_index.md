@@ -6,6 +6,9 @@ title: Ibrahim Taha Aksu
 first_name: Ibrahim Taha
 last_name: Aksu
 
+# Date for sorting
+date: '2024'
+
 # Is this the primary user of the site?
 superuser: false
 

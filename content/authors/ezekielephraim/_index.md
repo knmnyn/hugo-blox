@@ -6,6 +6,9 @@ title: Ezekiel Eugene Ephraim
 first_name: Ezekiel
 last_name: Ephraim
 
+# Date for sorting
+date: '2005'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,9 @@ title: Chee How Lee
 first_name: Chee
 last_name: Lee
 
+# Date for sorting
+date: '2003'
+
 # Is this the primary user of the site?
 superuser: false
 

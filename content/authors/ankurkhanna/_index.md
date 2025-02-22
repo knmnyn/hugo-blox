@@ -6,6 +6,9 @@ title: Ankur Khanna
 first_name: Ankur
 last_name: Khanna
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

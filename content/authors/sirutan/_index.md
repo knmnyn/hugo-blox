@@ -6,6 +6,9 @@ title: Siru Tan
 first_name: Siru
 last_name: Tan
 
+# Date for sorting
+date: '2004'
+
 # Is this the primary user of the site?
 superuser: false
 

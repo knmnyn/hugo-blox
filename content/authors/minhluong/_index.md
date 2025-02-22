@@ -6,6 +6,9 @@ title: Minh Thang Luong
 first_name: Minh
 last_name: Luong
 
+# Date for sorting
+date: '2008'
+
 # Is this the primary user of the site?
 superuser: false
 

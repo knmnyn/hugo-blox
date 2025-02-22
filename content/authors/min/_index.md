@@ -6,6 +6,9 @@ title: Min-Yen Kan
 first_name: Min-Yen
 last_name: Kan
 
+# Date for sorting
+date: ''
+
 # Is this the primary user of the site?
 superuser: true
 

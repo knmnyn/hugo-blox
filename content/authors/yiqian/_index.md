@@ -6,6 +6,9 @@ title: Yi Lee Qian
 first_name: Yi
 last_name: Qian
 
+# Date for sorting
+date: '2011'
+
 # Is this the primary user of the site?
 superuser: false
 

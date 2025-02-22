@@ -6,6 +6,9 @@ title: Thushari Pahalage
 first_name: Thushari
 last_name: Pahalage
 
+# Date for sorting
+date: '2024-07'
+
 # Is this the primary user of the site?
 superuser: false
 

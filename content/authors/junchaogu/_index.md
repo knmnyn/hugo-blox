@@ -6,6 +6,9 @@ title: Junchao Gu
 first_name: Junchao
 last_name: Gu
 
+# Date for sorting
+date: '2015'
+
 # Is this the primary user of the site?
 superuser: false
 

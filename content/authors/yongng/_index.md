@@ -6,6 +6,9 @@ title: Yong Kiat Ng
 first_name: Yong
 last_name: Ng
 
+# Date for sorting
+date: '2004'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,9 @@ title: Low Wee Heng
 first_name: Low
 last_name: Heng
 
+# Date for sorting
+date: '2012'
+
 # Is this the primary user of the site?
 superuser: false
 

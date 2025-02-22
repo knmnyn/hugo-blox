@@ -6,6 +6,9 @@ title: Minh Khue Le
 first_name: Minh
 last_name: Le
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

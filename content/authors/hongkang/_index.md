@@ -6,6 +6,9 @@ title: Hong Jin Kang
 first_name: Hong
 last_name: Kang
 
+# Date for sorting
+date: '2015'
+
 # Is this the primary user of the site?
 superuser: false
 

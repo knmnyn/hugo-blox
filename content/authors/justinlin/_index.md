@@ -6,6 +6,9 @@ title: Justin Sein Lin
 first_name: Justin
 last_name: Lin
 
+# Date for sorting
+date: '2009'
+
 # Is this the primary user of the site?
 superuser: false
 

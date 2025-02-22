@@ -6,6 +6,9 @@ title: Takahiro Hisaki
 first_name: Takahiro
 last_name: Hisaki
 
+# Date for sorting
+date: '2011'
+
 # Is this the primary user of the site?
 superuser: false
 

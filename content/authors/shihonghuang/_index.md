@@ -6,6 +6,9 @@ title: Shihong Huang
 first_name: Shihong
 last_name: Huang
 
+# Date for sorting
+date: '2010'
+
 # Is this the primary user of the site?
 superuser: false
 

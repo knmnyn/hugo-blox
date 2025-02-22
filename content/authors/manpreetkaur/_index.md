@@ -6,6 +6,9 @@ title: Manpreet Kaur
 first_name: Manpreet
 last_name: Kaur
 
+# Date for sorting
+date: '2016'
+
 # Is this the primary user of the site?
 superuser: false
 

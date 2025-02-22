@@ -6,6 +6,9 @@ title: Nithi Chindaraksawong
 first_name: Nithi
 last_name: Chindaraksawong
 
+# Date for sorting
+date: '2017'
+
 # Is this the primary user of the site?
 superuser: false
 

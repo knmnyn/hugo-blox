@@ -6,6 +6,9 @@ title: Shizhe Diao
 first_name: Shizhe
 last_name: Diao
 
+# Date for sorting
+date: '2018'
+
 # Is this the primary user of the site?
 superuser: false
 

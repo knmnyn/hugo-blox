@@ -6,6 +6,9 @@ title: Jesse Prabawa Gozali
 first_name: Jesse
 last_name: Gozali
 
+# Date for sorting
+date: '2013-08'
+
 # Is this the primary user of the site?
 superuser: false
 

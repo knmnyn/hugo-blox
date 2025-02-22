@@ -6,6 +6,9 @@ title: Wei Lu
 first_name: Wei
 last_name: Lu
 
+# Date for sorting
+date: '2004'
+
 # Is this the primary user of the site?
 superuser: false
 

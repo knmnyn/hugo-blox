@@ -6,6 +6,9 @@ title: Viet Bang Nguyen
 first_name: Viet
 last_name: Nguyen
 
+# Date for sorting
+date: '2006'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,9 @@ title: Sudhanshu Khemka
 first_name: Sudhanshu
 last_name: Khemka
 
+# Date for sorting
+date: '2012'
+
 # Is this the primary user of the site?
 superuser: false
 

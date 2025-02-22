@@ -6,6 +6,9 @@ title: Weixin Wang
 first_name: Weixin
 last_name: Wang
 
+# Date for sorting
+date: '2020'
+
 # Is this the primary user of the site?
 superuser: false
 

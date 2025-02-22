@@ -6,6 +6,9 @@ title: Yong Kang Kou
 first_name: Yong Kang
 last_name: Kou
 
+# Date for sorting
+date: '2022-08'
+
 # Is this the primary user of the site?
 superuser: false
 

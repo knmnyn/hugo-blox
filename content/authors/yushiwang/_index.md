@@ -6,6 +6,9 @@ title: Yushi Wang
 first_name: Yushi
 last_name: Wang
 
+# Date for sorting
+date: '2013'
+
 # Is this the primary user of the site?
 superuser: false
 

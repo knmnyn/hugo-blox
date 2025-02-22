@@ -6,6 +6,9 @@ title: Bang Hui Lim
 first_name: Bang
 last_name: Lim
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

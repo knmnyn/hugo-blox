@@ -6,6 +6,9 @@ title: Grace Lam
 first_name: Grace
 last_name: Lam
 
+# Date for sorting
+date: '2018'
+
 # Is this the primary user of the site?
 superuser: false
 

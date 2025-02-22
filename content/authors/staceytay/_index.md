@@ -6,6 +6,9 @@ title: Stacey Tay
 first_name: Stacey
 last_name: Tay
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

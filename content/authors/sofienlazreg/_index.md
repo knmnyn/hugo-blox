@@ -6,6 +6,9 @@ title: Sofien Lazreg
 first_name: Sofien
 last_name: Lazreg
 
+# Date for sorting
+date: '2011'
+
 # Is this the primary user of the site?
 superuser: false
 

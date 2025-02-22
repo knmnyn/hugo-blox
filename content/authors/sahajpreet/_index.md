@@ -6,6 +6,9 @@ title: Sahajpreet Singh
 first_name: Sahajpreet
 last_name: Singh
 
+# Date for sorting
+date: '2025-01'
+
 # Is this the primary user of the site?
 superuser: false
 

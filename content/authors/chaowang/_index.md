@@ -6,6 +6,9 @@ title: Chao Wang
 first_name: Chao
 last_name: Wang
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 
