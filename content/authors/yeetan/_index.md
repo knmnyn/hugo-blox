@@ -6,6 +6,9 @@ title: Yee Fan Tan
 first_name: Yee
 last_name: Tan
 
+# Date for sorting
+date: '2011-11'
+
 # Is this the primary user of the site?
 superuser: false
 
