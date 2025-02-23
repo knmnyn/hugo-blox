@@ -6,6 +6,9 @@ title: Madhav Kannan
 first_name: Madhav
 last_name: Kannan
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

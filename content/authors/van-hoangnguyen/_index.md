@@ -6,6 +6,9 @@ title: Van-Hoang Nguyen
 first_name: Van-Hoang
 last_name: Nguyen
 
+# Date for sorting
+date: '2019'
+
 # Is this the primary user of the site?
 superuser: false
 

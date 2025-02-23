@@ -6,6 +6,9 @@ title: Sahej Agarwal
 first_name: Sahej
 last_name: Agarwal
 
+# Date for sorting
+date: '2025-12'
+
 # Is this the primary user of the site?
 superuser: false
 

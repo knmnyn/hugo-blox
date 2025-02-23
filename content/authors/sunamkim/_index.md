@@ -6,6 +6,9 @@ title: Su Nam Kim
 first_name: Su Nam
 last_name: Kim
 
+# Date for sorting
+date: ''
+
 # Is this the primary user of the site?
 superuser: false
 

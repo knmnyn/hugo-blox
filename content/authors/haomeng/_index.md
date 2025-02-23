@@ -6,6 +6,9 @@ title: Lu Haomeng
 first_name: Haomeng
 last_name: Lu
 
+# Date for sorting
+date: '2025-01'
+
 # Is this the primary user of the site?
 superuser: false
 

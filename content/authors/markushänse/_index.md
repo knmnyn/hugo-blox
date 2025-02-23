@@ -6,6 +6,9 @@ title: Markus Hänse
 first_name: Markus
 last_name: Hänse
 
+# Date for sorting
+date: '2009'
+
 # Is this the primary user of the site?
 superuser: false
 

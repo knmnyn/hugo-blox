@@ -6,6 +6,9 @@ title: Litan Wang
 first_name: Litan
 last_name: Wang
 
+# Date for sorting
+date: '2004'
+
 # Is this the primary user of the site?
 superuser: false
 

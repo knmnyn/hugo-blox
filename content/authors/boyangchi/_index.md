@@ -6,6 +6,9 @@ title: Boyang Chi
 first_name: Boyang
 last_name: Chi
 
+# Date for sorting
+date: '2009'
+
 # Is this the primary user of the site?
 superuser: false
 

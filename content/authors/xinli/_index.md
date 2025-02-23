@@ -6,6 +6,9 @@ title: Xin Li
 first_name: Xin
 last_name: Li
 
+# Date for sorting
+date: '2016'
+
 # Is this the primary user of the site?
 superuser: false
 

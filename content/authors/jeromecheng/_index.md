@@ -6,6 +6,9 @@ title: Jerome Cheng
 first_name: Jerome
 last_name: Cheng
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

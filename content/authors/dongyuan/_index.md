@@ -6,6 +6,9 @@ title: Dongyuan Lu
 first_name: Dongyuan
 last_name: Lu
 
+# Date for sorting
+date: ''
+
 # Is this the primary user of the site?
 superuser: false
 

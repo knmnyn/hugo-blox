@@ -6,6 +6,9 @@ title: Liner Yang
 first_name: Liner
 last_name: Yang
 
+# Date for sorting
+date: '2011'
+
 # Is this the primary user of the site?
 superuser: false
 

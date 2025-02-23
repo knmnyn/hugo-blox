@@ -6,6 +6,9 @@ title: Edwin Lee
 first_name: Edwin
 last_name: Lee
 
+# Date for sorting
+date: '2003'
+
 # Is this the primary user of the site?
 superuser: false
 

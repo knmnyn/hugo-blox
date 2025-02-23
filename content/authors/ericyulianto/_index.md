@@ -6,6 +6,9 @@ title: Eric Yulianto
 first_name: Eric
 last_name: Yulianto
 
+# Date for sorting
+date: '2012'
+
 # Is this the primary user of the site?
 superuser: false
 

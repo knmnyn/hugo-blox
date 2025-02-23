@@ -6,6 +6,9 @@ title: Barid Xi Ai
 first_name:  Barid Xi	
 last_name: Ai
 
+# Date for sorting
+date: '2023-11'
+
 # Is this the primary user of the site?
 superuser: false
 

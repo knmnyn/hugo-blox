@@ -6,6 +6,9 @@ title: Mingfeng Lee
 first_name: Mingfeng
 last_name: Lee
 
+# Date for sorting
+date: '2004'
+
 # Is this the primary user of the site?
 superuser: false
 

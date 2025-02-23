@@ -6,6 +6,9 @@ title: Yajing Yang
 first_name: Yajing
 last_name: Yang
 
+# Date for sorting
+date: '2020-08'
+
 # Is this the primary user of the site?
 superuser: false
 

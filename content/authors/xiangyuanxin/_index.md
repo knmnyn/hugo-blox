@@ -6,6 +6,9 @@ title: Xiang Yuanxin
 first_name: Xiang
 last_name: Yuanxin
 
+# Date for sorting
+date: '2017'
+
 # Is this the primary user of the site?
 superuser: false
 

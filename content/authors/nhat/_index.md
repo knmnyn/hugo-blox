@@ -7,6 +7,9 @@ first_name: Nhat
 middle_name: Minh
 last_name: Hoang
 
+# Date for sorting
+date: '2024-07'
+
 # Is this the primary user of the site?
 superuser: false
 

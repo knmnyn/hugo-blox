@@ -6,6 +6,9 @@ title: Xinxiong Chen
 first_name: Xinxiong
 last_name: Chen
 
+# Date for sorting
+date: '2013'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,9 @@ title: Jethro Kuan
 first_name: Jethro
 last_name: Kuan
 
+# Date for sorting
+date: '2018'
+
 # Is this the primary user of the site?
 superuser: false
 

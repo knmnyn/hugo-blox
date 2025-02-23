@@ -6,6 +6,9 @@ title: Yue Zhao
 first_name: Yue
 last_name: Zhao
 
+# Date for sorting
+date: '2014'
+
 # Is this the primary user of the site?
 superuser: false
 

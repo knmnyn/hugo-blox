@@ -6,6 +6,9 @@ title: Swee Khoon Tan
 first_name: Swee
 last_name: Tan
 
+# Date for sorting
+date: ''
+
 # Is this the primary user of the site?
 superuser: false
 

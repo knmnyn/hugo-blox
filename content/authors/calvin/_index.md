@@ -6,6 +6,9 @@ title: Calvin Tantio
 first_name: Calvin
 last_name: Tantio
 
+# Date for sorting
+date: '2019-08'
+
 # Is this the primary user of the site?
 superuser: false
 

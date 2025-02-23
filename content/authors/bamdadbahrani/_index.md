@@ -6,6 +6,9 @@ title: Bamdad Bahrani
 first_name: Bamdad
 last_name: Bahrani
 
+# Date for sorting
+date: '2013-05'
+
 # Is this the primary user of the site?
 superuser: false
 

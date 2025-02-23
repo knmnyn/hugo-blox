@@ -6,6 +6,9 @@ title: Shenhao Jiang
 first_name: Shenhao
 last_name: Jiang
 
+# Date for sorting
+date: '2016'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,9 @@ title: Tianran Xu
 first_name: Tianran
 last_name: Xu
 
+# Date for sorting
+date: '2011'
+
 # Is this the primary user of the site?
 superuser: false
 

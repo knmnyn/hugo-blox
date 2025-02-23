@@ -6,6 +6,9 @@ title: Jin Zhao
 first_name: Jin
 last_name: Zhao
 
+# Date for sorting
+date: '2013-05'
+
 # Is this the primary user of the site?
 superuser: false
 

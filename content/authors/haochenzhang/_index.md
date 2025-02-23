@@ -6,6 +6,9 @@ title: Haochen Zhang
 first_name: Haochen
 last_name: Zhang
 
+# Date for sorting
+date: '2013'
+
 # Is this the primary user of the site?
 superuser: false
 

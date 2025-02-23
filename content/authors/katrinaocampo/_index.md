@@ -6,6 +6,9 @@ title: Katrina Natalia Gabriela Mena Ocampo
 first_name: Katrina
 last_name: Ocampo
 
+# Date for sorting
+date: '2011'
+
 # Is this the primary user of the site?
 superuser: false
 

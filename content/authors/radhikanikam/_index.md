@@ -6,6 +6,9 @@ title: Radhika Nikam
 first_name: Radhika
 last_name: Nikam
 
+# Date for sorting
+date: '2018'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,9 @@ title: Yiping Jin
 first_name: Yiping
 last_name: Jin
 
+# Date for sorting
+date: '2012'
+
 # Is this the primary user of the site?
 superuser: false
 

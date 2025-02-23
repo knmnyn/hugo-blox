@@ -6,6 +6,9 @@ title: Duy Khang Ly
 first_name: Duy
 last_name: Ly
 
+# Date for sorting
+date: '2009'
+
 # Is this the primary user of the site?
 superuser: false
 

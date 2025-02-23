@@ -6,6 +6,9 @@ title: Xunyi Jiang
 first_name: Xunyi
 last_name: Jiang
 
+# Date for sorting
+date: '2024-06'
+
 # Is this the primary user of the site?
 superuser: false
 

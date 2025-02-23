@@ -6,6 +6,9 @@ title: Tarun Kumar
 first_name: Tarun
 last_name: Kumar
 
+# Date for sorting
+date: '2009'
+
 # Is this the primary user of the site?
 superuser: false
 

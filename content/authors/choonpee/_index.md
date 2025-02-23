@@ -6,6 +6,9 @@ title: Choon Hian Pee
 first_name: Choon
 last_name: Pee
 
+# Date for sorting
+date: '2016'
+
 # Is this the primary user of the site?
 superuser: false
 

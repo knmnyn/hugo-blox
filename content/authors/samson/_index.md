@@ -6,6 +6,9 @@ title: Samson Tan
 first_name: Samson
 last_name: Tan
 
+# Date for sorting
+date: '2022-05'
+
 # Is this the primary user of the site?
 superuser: false
 

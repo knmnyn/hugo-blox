@@ -6,6 +6,9 @@ title: Thiam Chye Lee
 first_name: Thiam
 last_name: Lee
 
+# Date for sorting
+date: '2004'
+
 # Is this the primary user of the site?
 superuser: false
 

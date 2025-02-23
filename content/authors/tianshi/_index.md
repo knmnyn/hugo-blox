@@ -6,6 +6,9 @@ title: Tian Shi
 first_name: Tian
 last_name: Shi
 
+# Date for sorting
+date: '2019'
+
 # Is this the primary user of the site?
 superuser: false
 

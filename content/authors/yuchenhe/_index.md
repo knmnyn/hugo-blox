@@ -6,6 +6,9 @@ title: Yuchen He
 first_name: Yuchen
 last_name: He
 
+# Date for sorting
+date: ''
+
 # Is this the primary user of the site?
 superuser: false
 
