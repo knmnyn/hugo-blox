@@ -72,7 +72,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Alumni
-- Graduate Students
+# - Graduate Students
 #  - Researchers
 ---
 Haoyue is a Master student joining WING group in 2024. His primary research focus is on Multi-lingual LLMs and Machine Translation for his one-year Dissertation, advised by Prof. Min-Yen Kan and Dr. Barid Xi Ai.
