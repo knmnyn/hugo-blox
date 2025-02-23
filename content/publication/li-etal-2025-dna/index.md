@@ -2,12 +2,11 @@
 title: 'DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition and Aggregation'
 authors:
 - minzhi
-- Taiwei Shi
-- Caleb Ziems
-- min
-- Nancy Chen
 - Zhengyuan Liu
-- Diyi Yang
+- Shuming Deng
+- Shafiq Joty
+- Nancy Chen
+- min
 date: '2025-01-19'
 publishDate: '2024-07-06T02:22:24.561215Z'
 publication_types:
