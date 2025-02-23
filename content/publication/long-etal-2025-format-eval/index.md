@@ -1,5 +1,5 @@
 ---
-title: "Prompt Optimization via Adversarial In-Context Learning"
+title: "LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mitigating Output Format Bias of LLMs"
 subtitle: ""
 authors:
 - long

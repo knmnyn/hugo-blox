@@ -1,5 +1,5 @@
 ---
-title: "Prompt Optimization via Adversarial In-Context Learning"
+title: "Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models"
 subtitle: ""
 authors:
 - long
