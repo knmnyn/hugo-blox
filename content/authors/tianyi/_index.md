@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhu Tianyi
+title: Tianyi Zhu
 
 # Full Name (for SEO)
 first_name: Tianyi

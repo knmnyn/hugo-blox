@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lu Haomeng
+title: Haomeng Lu
 
 # Full Name (for SEO)
 first_name: Haomeng

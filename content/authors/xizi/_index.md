@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luo Xizi
+title: Xizi Luo
 
 # Full Name (for SEO)
 first_name: Xizi
