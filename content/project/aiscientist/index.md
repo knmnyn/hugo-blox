@@ -14,6 +14,9 @@ all_day: true
 
 # Is this a featured project? (true/false)
 featured: true
+image:
+  caption: 'Image credit: Joeran Beel'
+  focal_point: Right
 url_pdf: 'https://arxiv.org/abs/2502.14297'
 url_slides: ''
 url_video: ''
