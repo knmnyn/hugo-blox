@@ -18,7 +18,7 @@ image:
   caption: 'Image credit: Jesse Gozali Prabawa'
   focal_point: Right
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://wing.comp.nus.edu.sg/publication/10-1145-1255175-1255239/'
 url_slides: ''
 url_video: ''
 
