@@ -2,14 +2,9 @@
 title: Evaluating AI Scientists
 
 summary: We find positive use cases, but also weaknesses that need much handholding from human scientists.
-abstract: Our collaboration with Joeran Beel and Moritz Baumgart of ISG Siegen originated from Joeran's sabbatical visit with WING in Oct 2024.  Moritz, a talented undergraduate student at University of Siegen, joined us as a research assistant, working remotely which coordinated with his advisor here in NUS.  
+abstract: Over the course of Joeran's visit, we were able to install and test the AI Scientist system advertised as an automated robo scientist by Sakana.AI.  We find positive use cases, but also weaknesses that need much handholding from us.
 
-Over the course of Joeran's visit, we were able to install and test the AI Scientist system advertised as an automated robo scientist by Sakana.AI.  We find positive use cases, but also weaknesses that need much handholding from us.
-
-Haomeng joins our team as a student working towards assessing the growing variety of LLM based research agents going into 2025.
-
-
-tags: ["NLP", "IR", "AI4Science"]
+tags: ["NLP", "IR", "AI4Science", "LLM"]
 year: 2024
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,3 +32,8 @@ url_video: ''
 authors: ["min", "Joeran Beel", "Moritz Baumgart", "haomeng"]
 
 ---
+Our collaboration with Joeran Beel and Moritz Baumgart of ISG Siegen originated from Joeran's sabbatical visit with WING in Oct 2024.  Moritz, a talented undergraduate student at University of Siegen, joined us as a research assistant, working remotely which coordinated with his advisor here in NUS.  
+
+Over the course of Joeran's visit, we were able to install and test the AI Scientist system advertised as an automated robo scientist by Sakana.AI.  We find positive use cases, but also weaknesses that need much handholding from us.
+
+Haomeng joins our team as a student working towards assessing the growing variety of LLM based research agents going into 2025.
