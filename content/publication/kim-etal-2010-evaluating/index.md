@@ -1,7 +1,7 @@
 ---
 title: Evaluating N-gram based Evaluation Metrics for Automatic Keyphrase Extraction
 authors:
-- Su Nam Kim
+- sunamkim
 - Timothy Baldwin
 - min
 date: '2010-08-01'

@@ -1,7 +1,7 @@
 ---
 title: 'Chinese Informal Word Normalization: an Experimental Study'
 authors:
-- Aobo Wang
+- aobowang
 - min
 - Daniel Andrade
 - Takashi Onishi

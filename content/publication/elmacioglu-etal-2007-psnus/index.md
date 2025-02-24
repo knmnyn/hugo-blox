@@ -2,7 +2,7 @@
 title: 'PSNUS: Web People Name Disambiguation by Simple Clustering with Rich Features'
 authors:
 - Ergin Elmacioglu
-- Yee Fan Tan
+- yeetan
 - Su Yan
 - min
 - Dongwon Lee

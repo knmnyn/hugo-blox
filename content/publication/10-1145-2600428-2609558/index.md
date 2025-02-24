@@ -1,7 +1,7 @@
 ---
 title: Predicting the popularity of web 2.0 items based on user comments
 authors:
-- Xiangnan He
+- xiangnanhe
 - Ming Gao
 - min
 - Yiqun Liu

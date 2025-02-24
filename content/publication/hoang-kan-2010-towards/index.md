@@ -1,7 +1,7 @@
 ---
 title: Towards Automated Related Work Summarization
 authors:
-- Cong Duy Vu Hoang
+- conghoang
 - min
 date: '2010-08-01'
 publishDate: '2024-07-11T07:40:56.499873Z'

@@ -1,7 +1,7 @@
 ---
 title: Soft pattern matching models for definitional question answering
 authors:
-- Hang Cui
+- hangcui
 - min
 - Tat-Seng Chua
 date: '2007-04-01'

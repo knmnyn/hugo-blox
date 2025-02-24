@@ -1,7 +1,7 @@
 ---
 title: Search engine driven author disambiguation
 authors:
-- Yee Fan Tan
+- yeetan
 - min
 - Dongwon Lee
 date: '2006-01-01'

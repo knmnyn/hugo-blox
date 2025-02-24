@@ -1,8 +1,8 @@
 ---
 title: 'PrEV: preservation explorer and vault for web 2.0 user-generated content'
 authors:
-- Anqi Cui
-- Liner Yang
+- davidcui
+- lineryang
 - Dejun Hou
 - min
 - Yiqun Liu

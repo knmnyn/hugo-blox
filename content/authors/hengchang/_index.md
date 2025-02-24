@@ -2,20 +2,29 @@
 # Display name
 title: Hengchang Hu
 
-# Full Name (for SEO)
+# Full Name (for SEO) 
 first_name: Hengchang
 last_name: Hu
+
+# Date for sorting
+date: '2024-10'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus ('24)
+role: " Doctoral Alumnus (Oct '24). Thesis:  Going beyond ID-based Recommender Systems by Exploiting External Knowledge."
 
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore, School of Computing
-    url: 'http://www.comp.nus.edu.sg'
+    url: https://www.comp.nus.edu.sg
+
+# Short bio (displayed in user profile at end of posts)
+bio:  Doctoral Alumnus (Oct '24). 
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Candidate August 2019 Intake
@@ -59,15 +68,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'hengchang.hu@u.nus.edu'
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Alumni
-#  - Researchers
 ---
-
-Hengchang is currently a fifth year Ph.D. candidate in School of Computing, National University of Singapore.
-He is currently the member of Web Information Retrieval / Natural Language Processing Group (WING) and uner supervision of associate professor Dr. Min-yen Kan. His current research interest lies in graph neural network, multi-modal and recommendation system.

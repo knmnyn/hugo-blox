@@ -2,7 +2,7 @@
 title: Unsupervised learning of soft patterns for generating definitions from online
   news
 authors:
-- Hang Cui
+- hangcui
 - min
 - Tat-Seng Chua
 date: '2004-01-01'

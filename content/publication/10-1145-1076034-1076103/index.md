@@ -1,7 +1,7 @@
 ---
 title: Question answering passage retrieval using dependency relations
 authors:
-- Hang Cui
+- hangcui
 - Renxu Sun
 - Keya Li
 - min

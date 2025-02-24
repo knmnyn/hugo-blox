@@ -1,7 +1,7 @@
 ---
 title: Hidden Markov Model for Event Photo Stream Segmentation
 authors:
-- Jesse Prabawa Gozali
+- jessegozali
 - min
 - Hari Sundaram
 date: '2012-01-01'

@@ -1,7 +1,7 @@
 ---
 title: Automatic keyphrase extraction from scientific articles
 authors:
-- Su Nam Kim
+- sunamkim
 - Olena Medelyan
 - min
 - Timothy Baldwin

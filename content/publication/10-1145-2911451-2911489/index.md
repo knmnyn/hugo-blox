@@ -1,7 +1,7 @@
 ---
 title: Fast Matrix Factorization for Online Recommendation with Implicit Feedback
 authors:
-- Xiangnan He
+- xiangnanhe
 - Hanwang Zhang
 - min
 - Tat-Seng Chua

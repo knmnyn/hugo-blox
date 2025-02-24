@@ -1,7 +1,7 @@
 ---
 title: 'CocoSciSum: A Scientific Summarization Toolkit with Compositional Controllability'
 authors:
-- Yixi Ding
+- yixi
 - yanxia
 - Qian Liu
 - min

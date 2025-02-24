@@ -6,6 +6,9 @@ title: Jiaying Wu
 first_name: Jiaying
 last_name: Wu
 
+# Date for sorting
+date: '2024-07'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -1,8 +1,8 @@
 ---
 title: Identifying Emergent Research Trends by Key Authors and Phrases
 authors:
-- Shenhao Jiang
-- Animesh Prasad
+- shenhaojiang
+- animeshprasad
 - min
 - kaz
 date: '2018-08-01'

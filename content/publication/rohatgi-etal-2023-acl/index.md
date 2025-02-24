@@ -3,7 +3,7 @@ title: 'The ACL OCL Corpus: Advancing Open Science in Computational Linguistics'
 authors:
 - Shaurya Rohatgi
 - yanxia
-- Benjamin Aw
+- benjamin
 - Niranjana Unnithan
 - min
 date: '2023-12-01'

@@ -1,15 +1,15 @@
 ---
 title: 'ForeCite: towards a reader-centric scholarly digital library'
 authors:
-- Thuy Dung Nguyen
+- emmanguyen
 - min
-- Dinh-Trung Dang
-- Markus Hänse
+- tonydang
+- markushänse
 - Ching Hoi Andy Hong
 - Minh-Thang Luong
-- Jesse Prabawa Gozali
+- jessegozali
 - kaz
-- Yee Fan Tan
+- yeetan
 date: '2010-01-01'
 publishDate: '2024-10-19T16:53:49.024377Z'
 publication_types:

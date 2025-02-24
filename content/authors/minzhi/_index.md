@@ -6,6 +6,9 @@ title: Minzhi Li (Ella)
 first_name: Minzhi (Ella)
 last_name: Li
 
+# Date for sorting
+date: '2022-08'
+
 # Is this the primary user of the site?
 superuser: false
 

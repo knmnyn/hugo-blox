@@ -6,6 +6,9 @@ title: Yixi Ding
 first_name: Yixi
 last_name: Ding
 
+# Date for sorting
+date: '2022-01'
+
 # Is this the primary user of the site?
 superuser: true
 

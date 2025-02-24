@@ -6,6 +6,9 @@ title: Hao Chen Hon
 first_name: Hao Chen
 last_name: Hon
 
+# Date for sorting
+date: '2024-08'
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -2,11 +2,11 @@
 title: 'Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence
   Architectures'
 authors:
-- Wenqiang Lei
+- wenqianglei
 - Xisen Jin
 - min
 - Zhaochun Ren
-- Xiangnan He
+- xiangnanhe
 - Dawei Yin
 date: '2018-07-01'
 publishDate: '2024-07-11T07:40:56.361300Z'

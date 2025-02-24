@@ -1,7 +1,7 @@
 ---
 title: 'SemEval-2010 Task 5 : Automatic Keyphrase Extraction from Scientific Articles'
 authors:
-- Su Nam Kim
+- sunamkim
 - Olena Medelyan
 - min
 - Timothy Baldwin

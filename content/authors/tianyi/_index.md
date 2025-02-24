@@ -1,10 +1,13 @@
 ---
 # Display name
-title: Zhu Tianyi
+title: Tianyi Zhu
 
 # Full Name (for SEO)
 first_name: Tianyi
 last_name: Zhu
+
+# Date for sorting
+date: '2025-01'
 
 # Is this the primary user of the site?
 superuser: false

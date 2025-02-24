@@ -1,7 +1,7 @@
 ---
 title: Topological Ordering of Function Words in Hierarchical Phrase-based Translation
 authors:
-- Hendra Setiawan
+- hendrasetiawan
 - min
 - Haizhou Li
 - Philip Resnik

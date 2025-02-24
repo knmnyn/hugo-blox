@@ -1,9 +1,9 @@
 ---
 title: Product review summarization from a deeper perspective
 authors:
-- Duy Khang Ly
+- duyly
 - kaz
-- Ziheng Lin
+- zihenglin
 - min
 date: '2011-01-01'
 publishDate: '2024-10-19T15:18:06.289958Z'

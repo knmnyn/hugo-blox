@@ -2,7 +2,7 @@
 title: Combining Coherence Models and Machine Translation Evaluation Metrics for Summarization
   Evaluation
 authors:
-- Ziheng Lin
+- zihenglin
 - Chang Liu
 - Hwee Tou Ng
 - min

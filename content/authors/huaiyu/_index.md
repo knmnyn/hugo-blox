@@ -6,6 +6,9 @@ title: Huaiyu Deng
 first_name: Huaiyu
 last_name: Deng
 
+# Date for sorting
+date: '2023-08'
+
 # Is this the primary user of the site?
 superuser: false
 

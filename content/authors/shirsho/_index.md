@@ -6,6 +6,9 @@ title: Shirshajit Sen Gupta
 first_name: Shirshajit
 last_name: Sen Gupta
 
+# Date for sorting
+date: '2024-08'
+
 # Is this the primary user of the site?
 superuser: false
 

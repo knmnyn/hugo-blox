@@ -2,8 +2,8 @@
 title: 'Estimation-Action-Reflection: Towards Deep Interaction Between Conversational
   and Recommender Systems'
 authors:
-- Wenqiang Lei
-- Xiangnan He
+- wenqianglei
+- xiangnanhe
 - yisong
 - Qingyun Wu
 - Richang Hong

@@ -6,11 +6,14 @@ title: Ibrahim Taha Aksu
 first_name: Ibrahim Taha
 last_name: Aksu
 
+# Date for sorting
+date: '2024-00'
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Doctoral Alumnus ('24)
+role: "Doctoral Alumnus ('24). Thesis: Task-Oriented Dialogue Understanding and Evaluation using Minimal Data."
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +21,7 @@ organizations:
     url: 'https://cuthalionn.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral Alumni ('24)
+bio: "Doctoral Alumni ('24). Thesis: Task-Oriented Dialogue Understanding and Evaluation using Minimal Data."
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

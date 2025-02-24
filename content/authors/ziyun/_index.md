@@ -6,11 +6,14 @@ title: Zi Yun Yang
 first_name: Zi Yun
 last_name: Yang
 
+# Date for sorting
+date: '2021-08'
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '21)
+role: FYP Alumnus (Aug '21) <BR/> <font color=red><strong>OUR Awardee</strong></font>
 
 # Organizations/Affiliations
 organizations:
