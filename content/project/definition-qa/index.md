@@ -2,7 +2,7 @@
 title: Definition Question Answering
 
 summary: Advanced techniques in definition question answering.
-abstract: We explore advanced techniques in definition question answering: soft pattern matching, and boosting of IR recall and precision of extended definition sentences using external web resources and historical query logs. 
+abstract: "We explore advanced techniques in definition question answering: soft pattern matching, and boosting of IR recall and precision of extended definition sentences using external web resources and historical query logs." 
 
 tags: ["IR", "NLP", "QA"]
 year: 2003  
@@ -26,11 +26,11 @@ Joint work with PRIS group led by Prof. Tat-Seng Chua
 
 We explore advanced techniques in definition question answering: soft pattern matching, and boosting of IR recall and precision of extended definition sentences using external web resources and historical query logs. We also explore the construction of fluent definitions using sentence understanding and re-synthesis.
 
-#<h2>Project Deliverables (excluding publications)</h2>
+<h2>Project Deliverables (excluding publications)</h2>
 
-#<ul>
-#    <li>DefSearch: definition searcher demonstration, based on work in TREC 2003 and a paper in WWW 2004.
-#    <li>JavaRAP: Lappin and Leass' pronominal anaphora resolution program, implemented as a Java program. Freely downloadable and installable. Published in LREC 2004.
-#    <li>Processed Gigaword and AQUAINT corpora. Fully POS tagged and parsed versions of two commonly-used corpora used in TREC research.
-#    <li>Processed DUC corpus. Canonicalized versions of the 2001-2004 corpus for internal research.
-#</ul>
+<ul>
+    <li>DefSearch: definition searcher demonstration, based on work in TREC 2003 and a paper in WWW 2004.
+    <li>JavaRAP: Lappin and Leass' pronominal anaphora resolution program, implemented as a Java program. Freely downloadable and installable. Published in LREC 2004.
+    <li>Processed Gigaword and AQUAINT corpora. Fully POS tagged and parsed versions of two commonly-used corpora used in TREC research.
+    <li>Processed DUC corpus. Canonicalized versions of the 2001-2004 corpus for internal research.
+</ul>
