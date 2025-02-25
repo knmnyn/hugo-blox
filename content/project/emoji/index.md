@@ -15,7 +15,7 @@ emoji composition in a zero-shot setting for current models, including ChatGPT. 
 of metaphorical compositions contributes to this challenge. Encouragingly, models show marked improvement
 when fine-tuned on the ELCo dataset, with larger models excelling in deciphering nuanced metaphorical compositions."
 
-tags: ["CL", "Emoji", "NLP", "LLM"]
+tags: ["CL", "Emoji", "NLP", "LLM", "Computational Linguistics"]
 year: 2024
 
 date: '2024-05-20' # LREC-COLING 24's conference date. 
