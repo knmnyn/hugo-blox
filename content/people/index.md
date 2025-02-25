@@ -5,7 +5,7 @@ title: People
 type: landing
 
 sections:
-  - block: people
+  - block: current
     content:
       # title: Meet the Team
       # Choose which groups/teams of users to display.
@@ -22,6 +22,8 @@ sections:
       show_role: true
       show_social: true
 
+  - block: alumni
+    content:
       user_groups:
           - Staff Alumni
           - Graduate Alumni
