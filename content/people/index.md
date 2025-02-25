@@ -15,15 +15,23 @@ sections:
           - Graduate Students
           - Undergraduate Students
           - Visitors / Interns
-          - Staff Alumni
-          - Graduate Alumni
-          - Undergraduate / Intern Alumni
-          - Secondary School Alumni
       sort_by: Params.date
       sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
+
+      user_groups:
+          - Staff Alumni
+          - Graduate Alumni
+          - Undergraduate / Intern Alumni
+          - Secondary School Alumni
+      sort_by: Params.date
+      sort_ascending: false
+      design:
+        show_interests: false
+        show_role: true
+        show_social: true
 ---
 Test text for People.
