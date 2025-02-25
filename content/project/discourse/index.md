@@ -1,7 +1,7 @@
 ---
-title: Discourse and LLMs
+title: Emoji Composition
 
-summary: We provide a novel system to measure large language models (LLMs) capacity to understand discourse in natural language text and introduce new methods to interpret and improve LLMs' faithfulness when reasoning about discourse.
+summary: We measure and enhance LLMs' discourse understanding and reasoning faithfulness.
 abstract: "While large language models have significantly enhanced the effectiveness of discourse relation classifications, it remains unclear whether their comprehension is faithful and reliable. We provide DiSQ, a new method for evaluating the faithfulness of understanding discourse based on question answering. We first employ in-context learning to annotate the reasoning for discourse comprehension, based on the connections among key events within the discourse. Following this, DiSQ interrogates the model with a sequence of questions to assess its grasp of core event relations, its resilience to counterfactual queries, as well as its consistency to its previous responses. We then evaluate language models with different architectural designs using DiSQ, finding: (1) DiSQ presents a significant challenge for all models, with the top-performing GPT model attaining only 41% of the ideal performance in PDTB; (2) DiSQ is robust to domain shifts and paraphrase variations; (3) Open-source models generally lag behind their closed-source GPT counterparts, with notable exceptions being those enhanced with chat and code/math features; (4) Our analysis validates the effectiveness of explicitly signalled discourse connectives, the role of contextual information, and the benefits of using historical QA data."
 
 tags: ["CL", "Discourse", "NLP", "LLM"]
