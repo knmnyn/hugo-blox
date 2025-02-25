@@ -14,7 +14,7 @@ all_day: true
 # Is this a featured project? (true/false)
 featured: true
 image:
-  caption: 'The workflow of Discursive Socratic Questioning (DiSQ)'
+  caption: 'The workflow of Discursive Socratic Questioning (left) and the evaluation results (right).'
   focal_point: Right
 url_pdf: 'https://aclanthology.org/2024.acl-long.341/'
 url_slides: 'https://yisong.me/publications/acl24-DiSQ-Slides.pdf'
