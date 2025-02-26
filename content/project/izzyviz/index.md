@@ -14,7 +14,7 @@ date_end: "2025-05-01"
 all_day: true
 
 # Is this a featured project? (true/false)
-featured: false
+featured: true
 #image:
 #  caption: 'Image credit: Jesse Gozali Prabawa'
 #  focal_point: Right
