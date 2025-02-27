@@ -7,7 +7,7 @@ abstract: "Large Language Models (LLMs) often struggle with table structures and
 tags: ["Table Reasoning", "Explainability", "LLMs", "Fact-Checking", "Tool Learning"]
 year: 2025
 
-date: '2025-04-29'  # NAACL 2025 conference date.
+date: '2025-01-01'  # Yisong: Realized that the date is ahead of today, so the website does not show the item (in the future date, it will be shown). # This is an enhancement feature for the website, later. 
 
 all_day: true
 
