@@ -7,7 +7,7 @@ abstract: "This paper aims to efficiently enable large language models (LLMs) to
 tags: [ "NLP", "LLM", "Conversational Recommendation"]
 year: 2025
 
-date: '2025-05-01' # LREC-COLING 24's conference date. 
+date: '2025-01-01'
 
 all_day: true
 
