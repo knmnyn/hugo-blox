@@ -59,4 +59,6 @@ user_groups:
 #  - Researchers
 ---
 
-Zhu Tianyi is a UROP student joining our group in 2024.
+Zhu Tianyi is a Computer Science undergraduate in NUS. He joined WING in 2024 as a UROP student, under the supervision of
+Prof. Min-Yen Kan and Dr. Barid Xi Ai. His research focus is in automatic generation of high-quality code-mixed sentences 
+leveraging linguistic theories. Ultimately, he hopes to empower language models to better serve multilingual communities.
