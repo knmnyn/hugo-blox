@@ -6,7 +6,7 @@ authors:
 - Do Xuan Long
 - Duc Anh Do
 - Duc Anh Vu
-- Luu Anh Tuan
+- Anh Tuan Luu
 author_notes: [Equal Contribution, Equal Contribution]
 doi: ""
 
