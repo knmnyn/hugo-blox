@@ -26,8 +26,8 @@ bio: My name is Nhat, research assistant at NTU Nail Lab, Singapore. I'm interes
 
 interests:
   - Generative AI
-  - Large Language Models
-  - Multimodal Learning
+  - Multimodal AI
+  - Interpretable AI
 
 education:
   courses:
@@ -74,4 +74,4 @@ user_groups:
 #  - Researchers
 ---
 
-Nhat M. Hoang is a Research Intern at WING Research Group starting from August 2024. He is currently a Research Assistant at of [NTU Nail Lab](https://ntu-nail.github.io/) and with main interest in Multimodal Learning and Generative AI.
+Nhat M. Hoang is a Research Intern at WING Research Group starting from August 2024. He is currently a Research Assistant at of [NTU Nail Lab](https://ntu-nail.github.io/) and with main interest in Multimodal and Interpretable AI.
