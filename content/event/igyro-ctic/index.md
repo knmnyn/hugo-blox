@@ -4,7 +4,7 @@ title: ¡Gyro Symposium on Mis-, Dis-, and Mal-information (iGYRO SMDM 2025)
 event: ¡Gyro Symposium on Mis-, Dis-, and Mal-information
 event_url: https://igyro-nus.github.io
 
-location: "Seminar Room #01-03",
+location: "Seminar Room #01-03"
 address:
   street: NUS Innovation 4.0
   city: Singapore
