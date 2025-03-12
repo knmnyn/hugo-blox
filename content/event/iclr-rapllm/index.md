@@ -5,12 +5,12 @@ event: ICLR 2025 Workshop on Reasoning and Planning for Large Language Models
 event_url: https://reasoning-planning-llms.github.io/
 
 location: Singapore Expo
-# address:
-#  street: 13 Computing Drive
-#  city: Singapore
-#  region: Singapore
-#  postcode: '117417'
-#  country: Singapore
+address:
+  street: 13 Computing Drive
+  city: Singapore
+  region: Singapore
+  postcode: '117417'
+  country: Singapore
 
 summary: 'ICLR 2025 Workshop on Reasoning and Planning for Large Language Models'
 abstract: 'This workshop explores the growing capabilities of large language models (LLMs), such as OpenAI\'s o1 model, in reasoning, planning, and decision-making, highlighting recent advances and challenges. We aim to examine how reinforcement learning methods, post-training optimization, and efficient inference techniques can further enhance LLMs\' reasoning capabilities. Topics include training approach for enhancing reasoning and planning abilities, scaling inference for complex tasks, developing robust benchmarks, and extending LLMs to multi-modal and embodied environments. We will also discuss broader themes such as causal reasoning, collaborative multi-agent systems, uncertainty, and explainability to offer insights and guidance for the further development of reasoning and planning in LLMs.'
