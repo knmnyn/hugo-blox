@@ -1,7 +1,7 @@
 ---
-title: ¡Gyro Symposium on Mis-, Dis-, and Mal-information (iGYRO SMDM 2025)
+title: iGyro Symposium on Mis-, Dis-, and Mal-information (iGYRO SMDM 2025)
 
-event: ¡Gyro Symposium on Mis-, Dis-, and Mal-information
+event: iGyro Symposium on Mis-, Dis-, and Mal-information
 event_url: https://igyro-nus.github.io
 
 location: "Seminar Room #01-03"
@@ -12,7 +12,7 @@ address:
   postcode: '117602'
   country: Singapore
 
-summary: '¡Gyro Symposium on Mis-, Dis-, and Mal-information'
+summary: 'iGyro Symposium on Mis-, Dis-, and Mal-information'
 abstract: "The Information Gyroscope Symposium on Mis-, Dis-, and Mal-Information (iGYRO SMDM 2025), organised by the Centre for Trusted Internet and Community (CTIC) at the National University of Singapore (NUS), is a pivotal event designed to tackle the pervasive issues of misinformation and disinformation in our digital ecosystems. This symposium brings together thought leaders, researchers, and practitioners to enhance understanding, develop solutions, and build partnerships to tackle complex digital information challenges.
 
 Join us on Monday, April 28, at the i4.0 Seminar Room for a dynamic, day-long programme featuring a mix of keynote speeches, oral presentations, and panel discussions, punctuated with Q&A sessions to encourage interaction and dialogue. Seats are limited – register now to secure your spot!"
