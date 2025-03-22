@@ -21,7 +21,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate August 2020 Intake
+bio: Doctoral Alumnus (Mar '25)
 
 interests:
   - Information Retrieval
@@ -69,7 +69,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Alumni
+#  - Graduate Students
 #  - Researchers
 ---
 
