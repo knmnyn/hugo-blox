@@ -1,8 +1,11 @@
 ---
 title: People
-# date: 2022-10-24
 
 type: landing
+
+banner:
+  caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
+  image: 'acl24-banner.jpg'
 
 sections:
   - block: people
@@ -36,4 +39,3 @@ sections:
         show_role: true
         show_social: true
 ---
-Test text for People.
