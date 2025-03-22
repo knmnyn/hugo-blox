@@ -1,6 +1,5 @@
 ---
-title: Navigating Ethical Challenges in NLP:
-Hands-on strategies for students and researchers (Tutorial at ACL '25)
+title: "Navigating Ethical Challenges in NLP: Hands-on strategies for students and researchers (Tutorial at ACL '25)"
 
 event: Navigating Ethical Challenges in NLP
 event_url: https://ethics.aclweb.org/
