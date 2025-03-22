@@ -13,9 +13,9 @@ address:
   country: Singapore
 
 summary: 'The 2025 Singapore Symposium on Natural Language Processing'
-abstract: 'We are excited to announce the Singapore Symposium on Natural Language Processing 2025 (SSNLP'25), which will take place on Wednesday, April 23, 2025, as a full-day event. SSNLP is a premier platform for academic and industrial researchers in Singapore to present ongoing and upcoming work, fostering community building, idea exchange, and collaboration. SSNLP'25 is an excellent opportunity for faculties and students to gain international exposure and engage with leading experts in the field.
+abstract: "We are excited to announce the Singapore Symposium on Natural Language Processing 2025 (SSNLP '25), which will take place on Wednesday, April 23, 2025, as a full-day event. SSNLP is a premier platform for academic and industrial researchers in Singapore to present ongoing and upcoming work, fostering community building, idea exchange, and collaboration. SSNLP '25 is an excellent opportunity for faculties and students to gain international exposure and engage with leading experts in the field.
 
-Our in-person registration is now open. This year's event will be held at the SUTD, 8 Somapah Rd, Singapore 487372. Our registration is free of charge, but we have limited seating. Please complete the registration form to secure your spot. '
+Our in-person registration is now open. This year's event will be held at the SUTD, 8 Somapah Rd, Singapore 487372. Our registration is free of charge, but we have limited seating. Please complete the registration form to secure your spot."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-04-23'
