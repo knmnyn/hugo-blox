@@ -8,7 +8,10 @@ sections:
   - block: contact
     content:
       title: "Contact WING"
-      text: 
+      text: "Interested in joining our research group?  NUS students should check out the corresponding reseaarch project or dissertation options (UROP, FYP or MComp).  
+
+      External parties are sometimes enlisted on help towards meaningful research projects, but are only attached to our group for a minimum length of one year.  All requests to join the group must mention 'WING' to be considered."
+      
       email: wing@comp.nus.edu.sg
       phone: +65 6516 1885
       address:

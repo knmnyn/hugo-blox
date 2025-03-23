@@ -48,12 +48,20 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Web Information Retrieval / Natural Language Processing Group (WING).
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  # Optional social links
+  social:
+    - icon: twitter
+      icon_pack: fab
+      link: 'https://x.com/wing_nus'
+    - icon: github
+      icon_pack: fab
+      link: 'https://github.com/WING-NUS'
 
 # Localization
 
