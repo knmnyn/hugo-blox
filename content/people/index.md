@@ -10,8 +10,8 @@ sections:
       caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
       image: 'acl24-banner.jpg'
     design:
-      background:
-        text_color_light: true
+
+  # Current WING Block
   - block: people
     content:
       # title: Meet the Team
@@ -29,6 +29,7 @@ sections:
       show_role: true
       show_social: true
 
+  # Alumni Block
   - block: people
     content:
       user_groups:
