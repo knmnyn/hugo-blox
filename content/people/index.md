@@ -3,11 +3,15 @@ title: People
 
 type: landing
 
-banner:
-  caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
-  image: 'acl24-banner.jpg'
-
 sections:
+  - block: hero
+    content:
+      title: My Title
+      caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
+      image: 'acl24-banner.jpg'
+    design:
+      background:
+        text_color_light: true
   - block: people
     content:
       # title: Meet the Team
