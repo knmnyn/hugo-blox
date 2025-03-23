@@ -16,7 +16,7 @@ sections:
           size: cover             # Covers entire background
         text_color_light: true
       filters:
-        brightness: 0.5
+        brightness: 0.2
       parallax: true         # Optional parallax effect
 
   # Current WING Block
