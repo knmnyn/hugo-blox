@@ -2,12 +2,12 @@
 title: 'DnA-Eval: Enhancing Large Language Model Evaluation through Decomposition
   and Aggregation'
 authors:
-- Minzhi Li
+- minzhi
 - Zhengyuan Liu
 - Shumin Deng
 - Shafiq Joty
 - Nancy Chen
-- Min-Yen Kan
+- min
 date: '2025-01-01'
 publishDate: '2025-03-23T08:36:39.887074Z'
 publication_types:

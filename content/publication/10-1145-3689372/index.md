@@ -6,7 +6,7 @@ authors:
 - Tsuhan Chen
 - Simon Chesterman
 - Wynne Hsu
-- Min-Yen Kan
+- min
 - Mohan Kankanhalli
 - Mong Li Lee
 - Gyula Seres

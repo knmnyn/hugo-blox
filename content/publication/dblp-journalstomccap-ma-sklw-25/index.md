@@ -4,7 +4,7 @@ title: 'KeYric: Unsupervised Keywords Extraction and Expansion from Music for Co
 authors:
 - Xichu Ma
 - Varun Sharma
-- Min-Yen Kan
+- min
 - Wee Sun Lee
 - Ye Wang
 date: '2025-01-01'

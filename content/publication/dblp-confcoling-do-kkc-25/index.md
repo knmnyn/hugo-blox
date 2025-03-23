@@ -2,9 +2,9 @@
 title: Aligning Large Language Models with Human Opinions through Persona Selection
   and Value-Belief-Norm Reasoning
 authors:
-- Xuan Long Do
+- long
 - Kenji Kawaguchi
-- Min-Yen Kan
+- min
 - Nancy F. Chen
 date: '2025-01-01'
 publishDate: '2025-03-23T08:36:39.893513Z'
