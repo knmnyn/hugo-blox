@@ -14,9 +14,9 @@ sections:
           filename: 'acl24-banner.jpg'
           position: center
           size: cover             # Covers entire background
+          filters:
+            brightness: 0.2
         text_color_light: true
-      filters:
-        brightness: 0.2
       parallax: true         # Optional parallax effect
 
   # Current WING Block
