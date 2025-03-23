@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: My Title
+#      title: My Title
       caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
       image: 
         filename: 'acl24-banner.jpg'
