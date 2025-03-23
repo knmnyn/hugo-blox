@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 role: "Masters Alumni (Aug '23). Thesis: Enhancing Large Language Models for
-Machine Translation: A Study on Fine-tuning Data Selection"
+Machine Translation: A Study on Fine-tuning Data Selection."
 
 # Organizations/Affiliations
 organizations:

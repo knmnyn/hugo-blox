@@ -13,7 +13,7 @@ date: '2022-08'
 superuser: false
 
 # Role/position
-role: "Masters Alumnus (Aug '22). Thesis: Dataset Extraction from Scientific Documents"
+role: "Masters Alumnus (Aug '22). Thesis: Dataset Extraction from Scientific Documents."
 
 # Organizations/Affiliations
 organizations:

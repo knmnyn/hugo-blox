@@ -14,7 +14,7 @@ superuser: false
 
 # Role/position
 role: "Masters Alumnus (Nov '23). Thesis: Interacting with LLMs via Chat: A Study on
-Dialogue State Tracking with Zero-shot Learning"
+Dialogue State Tracking with Zero-shot Learning."
 
 # Organizations/Affiliations
 organizations:
