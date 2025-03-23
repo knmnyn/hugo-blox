@@ -13,7 +13,8 @@ date: '2023-08'
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '23)
+role: "Masters Alumni (Aug '23). Thesis: Enhancing Large Language Models for
+Machine Translation: A Study on Fine-tuning Data Selection"
 
 # Organizations/Affiliations
 organizations:
