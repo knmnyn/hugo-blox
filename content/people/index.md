@@ -6,10 +6,18 @@ type: landing
 sections:
   - block: hero
     content:
-#      title: My Title
+      title: Current WING members
       caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
-      image: 
-        filename: 'acl24-banner.jpg'
+    design:
+      background:
+        image: 
+          filename: 'acl24-banner.jpg'
+          position: center
+          size: cover             # Covers entire background
+        text_color_light: true
+      filters:
+        brightness: 0.5
+      parallax: true         # Optional parallax effect
 
   # Current WING Block
   - block: people
