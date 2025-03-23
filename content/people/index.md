@@ -9,7 +9,6 @@ sections:
       title: My Title
       caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
       image: 'acl24-banner.jpg'
-    design:
 
   # Current WING Block
   - block: people

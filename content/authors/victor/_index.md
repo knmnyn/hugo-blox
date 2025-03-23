@@ -7,13 +7,13 @@ first_name: Chuang
 last_name: Li
 
 # Date for sorting
-date: '2020-08'
+date: '2025-03'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ISEP Doctoral Student (Aug '20)
+role: ISEP Doctoral Student (Aug '25)
 
 # Organizations/Affiliations
 organizations:
