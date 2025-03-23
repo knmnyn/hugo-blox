@@ -48,7 +48,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Web Information Retrieval / Natural Language Processing Group (WING).
+    notice: '© {year} Web Information Retrieval / Natural Language Processing Group (WING).'
     license:
       enable: true
       allow_derivatives: false
@@ -62,7 +62,6 @@ footer:
     - icon: github
       icon_pack: fab
       link: 'https://github.com/WING-NUS'
-
 # Localization
 
 locale:
