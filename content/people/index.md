@@ -39,9 +39,8 @@ sections:
           - Secondary School Alumni
       sort_by: Params.date
       sort_ascending: false
-      design:
-        show_avatars: false
-        show_interests: false
-        show_role: true
-        show_social: true
----
+    design:
+      show_interests: false
+      show_role: false
+      show_social: false
+      show_avatars: false
