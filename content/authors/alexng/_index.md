@@ -13,7 +13,7 @@ date: '2003-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '03). Thesis: Automatic metadata extraction for the web
+role: "FYP Alumnus (Fall '03). Thesis: Automatic metadata extraction for the web"
 
 # Organizations/Affiliations
 organizations:

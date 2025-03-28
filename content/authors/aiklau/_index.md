@@ -13,7 +13,7 @@ date: '2004-00'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Fall '04).  Thesis: Advancing PARCELS using similar documents
+role: "FYP Alumnus (Fall '04).  Thesis: Advancing PARCELS using similar documents"
 
 # Organizations/Affiliations
 organizations:
