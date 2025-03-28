@@ -3,7 +3,7 @@
 title: Guo Min Liew
 
 # Full Name (for SEO) 
-first_name: Guo
+first_name: Guo Min
 last_name: Liew
 
 # Date for sorting
@@ -13,7 +13,7 @@ date: '2007-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '07)
+role: "FYP Alumnus (Fall '07) Thesis: Visual Slide Analysis"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '07). 
+bio: FYP Alumnus (Fall '07). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

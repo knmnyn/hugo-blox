@@ -37,6 +37,21 @@ sections:
       show_role: true
       show_social: true
 
+  - block: hero
+    content:
+      title: WING Alumni and Past Collaborators
+      caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
+    design:
+      background:
+        image: 
+          filename: 'acl24-banner.jpg'
+          position: center
+          size: cover             # Covers entire background
+          filters:
+            brightness: 0.2
+        text_color_light: true
+      parallax: true         # Optional parallax effect
+
   # Alumni Block
   - block: people
     content:
