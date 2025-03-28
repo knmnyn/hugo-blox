@@ -13,7 +13,7 @@ date: '2009-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Summer '09)
+role: "CSIDM Beijing Alumnus (Summer '09) Project: Adult second language learning survey project"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Summer '09). 
+bio: CSIDM Beijing Alumnus (Summer '09). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
