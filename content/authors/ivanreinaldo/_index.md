@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus ('14)
+role: "CS3821/3 Alumnus ('14). Project: Crowd.Motoring"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus ('14). 
+bio: CS3821/3 Alumnus ('14). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -3,7 +3,7 @@
 title: Justin Sein Lin
 
 # Full Name (for SEO) 
-first_name: Justin
+first_name: Justin Sein
 last_name: Lin
 
 # Date for sorting
@@ -13,7 +13,7 @@ date: '2009-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Spring '09)
+role: "FYP Alumnus (Spring '09) Thesis: Sequence Labeling Methods for Extracting Medical Study Metadata"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Spring '09). 
+bio: FYP Alumnus (Spring '09). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

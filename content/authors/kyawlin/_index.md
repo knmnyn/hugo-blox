@@ -3,8 +3,8 @@
 title: Kyaw Zaw Lin
 
 # Full Name (for SEO) 
-first_name: Kyaw
-last_name: Lin
+first_name: Zaw Lin
+last_name: Kyaw
 
 # Date for sorting
 date: '2009-00'
@@ -13,7 +13,7 @@ date: '2009-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Spring '09)
+role: "FYP Alumnus (Spring '09).  Thesis:  View Model Support in OPACs"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Spring '09). 
+bio: FYP Alumnus (Spring '09). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
