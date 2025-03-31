@@ -3,7 +3,7 @@ title: Proceedings of the Joint Workshop on Bibliometric-enhanced Information Re
   and Natural Language Processing for Digital Libraries (BIRNDL)
 authors:
 - Guillaume Cabanac
-- Muthu Kumar Chandrasekaran
+- muthuc
 - Ingo Frommholz
 - Kokil Jaidka
 - min

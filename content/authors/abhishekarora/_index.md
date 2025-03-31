@@ -13,7 +13,7 @@ date: '2005-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Summer '05)
+role: "Internship Alumnus (Summer '05) Project: Map Spidering and Browsing User Interface"
 
 # Organizations/Affiliations
 organizations:

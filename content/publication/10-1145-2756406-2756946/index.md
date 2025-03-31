@@ -3,7 +3,7 @@ title: Scholarly Document Information Extraction using Extensible Features for E
   Higher Order Semi-CRFs
 authors:
 - Nguyen Viet Cuong
-- Muthu Kumar Chandrasekaran
+- muthuc
 - min
 - Wee Sun Lee
 date: '2015-01-01'

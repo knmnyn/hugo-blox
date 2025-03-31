@@ -1,7 +1,7 @@
 ---
 title: Using discourse signals for robust instructor intervention prediction
 authors:
-- Muthu Kumar Chandrasekaran
+- muthuc
 - Carrie Demmans Epp
 - min
 - Diane Litman

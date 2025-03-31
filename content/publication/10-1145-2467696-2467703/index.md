@@ -2,7 +2,7 @@
 title: Extracting and matching authors and affiliations in scholarly documents
 authors:
 - Huy Hoang Nhat Do
-- Muthu Kumar Chandrasekaran
+- muthuc
 - Philip S. Cho
 - min
 date: '2013-01-01'

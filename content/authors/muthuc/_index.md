@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Muthu Kumar C
+title: Muthu Kumar Chandrasekaran
 
 # Full Name (for SEO) 
 first_name: Muthu
-last_name: C
+last_name: Chandrasekaran
 
 # Date for sorting
 date: '2019-05'
