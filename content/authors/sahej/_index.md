@@ -36,10 +36,10 @@ social:
     icon_pack: fas
     link: "mailto:sahej.agarwal@u.nus.edu"
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/SahejAgarwal05
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/sahej-agarwal/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
