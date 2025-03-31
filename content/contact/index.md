@@ -7,9 +7,11 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
-      text: |-
-        Some text block
+      title: "Contact WING"
+      text: "Interested in joining our research group?  NUS students should check out the corresponding reseaarch project or dissertation options (UROP, FYP or MComp).  
+
+      External parties are sometimes enlisted on help towards meaningful research projects, but are only attached to our group for a minimum length of one year.  All requests to join the group must mention 'WING' to be considered."
+      
       email: wing@comp.nus.edu.sg
       phone: +65 6516 1885
       address:
@@ -36,14 +38,14 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+#      # Email form provider
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#          # Enable CAPTCHA challenge to reduce spam?
+#          captcha: false
     design:
       columns: '1'
 
@@ -56,7 +58,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: yajings.jpg
           filters:
             brightness: 1
           parallax: false

@@ -13,7 +13,7 @@ date: '2022-08'
 superuser: false
 
 # Role/position
-role: Masters Alumnus (Aug '22)
+role: "Masters Alumnus (Aug '22). Thesis: Building an ACL Anthology Rich Text Corpus."
 
 # Organizations/Affiliations
 organizations:

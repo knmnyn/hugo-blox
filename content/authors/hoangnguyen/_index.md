@@ -3,8 +3,8 @@
 title: Hoang Oanh Thi Nguyen
 
 # Full Name (for SEO) 
-first_name: Hoang
-last_name: Nguyen
+first_name: Hoang Oanh
+last_name: Nguyen Thi
 
 # Date for sorting
 date: '2004-00'
@@ -13,7 +13,7 @@ date: '2004-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Spring '04)
+role: "UROP Alumnus (Spring '04) Thesis: Publication Spiderer"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Spring '04). 
+bio: UROP Alumnus (Spring '04). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

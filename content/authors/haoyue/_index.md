@@ -13,7 +13,7 @@ date: '2024-01'
 superuser: false
 
 # Role/position
-role: Masters Student (Jan '24)
+role: "Masters Alumnus (Jan '24). Thesis: CoTrans: Chain of Translation in Large Language Models with Both Word-Level and Sentence-Level Goals" 
 
 # Organizations/Affiliations
 organizations:

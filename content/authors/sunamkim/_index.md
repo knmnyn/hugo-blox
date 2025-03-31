@@ -7,13 +7,13 @@ first_name: Su Nam
 last_name: Kim
 
 # Date for sorting
-date: ''
+date: '2012-01-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Alumnus
+role: "Postdoctoral Alumnus ('12). Scientific Document Processing Topics"
 
 # Organizations/Affiliations
 organizations:

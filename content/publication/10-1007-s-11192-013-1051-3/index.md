@@ -3,7 +3,7 @@ title: Identifying research facilitators in an emerging Asian Research Area
 authors:
 - Philip S. Cho
 - Huy Hoang Do
-- Muthu Kumar Chandrasekaran
+- muthuc
 - min
 date: '2013-10-01'
 publishDate: '2024-10-19T15:18:06.214764Z'

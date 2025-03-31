@@ -13,7 +13,7 @@ date: '2013-00'
 superuser: false
 
 # Role/position
-role: Postgraduate Intern ('13)
+role: "Postgraduate Intern ('13; under NExT Search Centre)"
 
 # Organizations/Affiliations
 organizations:

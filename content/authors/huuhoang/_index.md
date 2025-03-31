@@ -13,7 +13,7 @@ date: '2008-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '08)
+role: "FYP Alumnus (Fall '08) Thesis: Multiword Expression Analysis and Extraction"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '08). 
+bio: FYP Alumnus (Fall '08). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

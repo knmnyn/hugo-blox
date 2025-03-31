@@ -13,7 +13,7 @@ date: '2010-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Summer '10)
+role: "FYP Alumnus (Summer '10).  Thesis: Firefox DiCE translator (under CSIDM)"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Summer '10). 
+bio: FYP Alumnus (Summer '10). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

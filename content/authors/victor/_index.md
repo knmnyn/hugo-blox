@@ -7,13 +7,15 @@ first_name: Chuang
 last_name: Li
 
 # Date for sorting
-date: '2020-08'
+date: '2025-03'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ISEP Doctoral Student (Aug '20)
+role: "ISEP Doctoral Alumnus (Aug '25). Thesis: Towards Holistic and Practical Conversational Recommender Systems."
+
+Thesis:  Going beyond ID-based Recommender Systems by Exploiting External Knowledge."
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +23,7 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Candidate August 2020 Intake
+bio: Doctoral Alumnus (Mar '25)
 
 interests:
   - Information Retrieval
@@ -69,7 +71,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Alumni
+#  - Graduate Students
 #  - Researchers
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Countering Position Bias in Instructor Interventions in MOOC Discussion Forums
 authors:
-- Muthu Kumar Chandrasekaran
+- muthuc
 - min
 date: '2018-07-01'
 publishDate: '2024-07-11T07:40:56.347855Z'

@@ -3,7 +3,7 @@
 title: David Anqi Cui
 
 # Full Name (for SEO) 
-first_name: David
+first_name: David Anqi
 last_name: Cui
 
 # Date for sorting
@@ -13,7 +13,7 @@ date: '2012-00'
 superuser: false
 
 # Role/position
-role: Postgraduate Intern ('12)
+role: "Postgraduate Intern ('12; under NExT Search Centre)"
 
 # Organizations/Affiliations
 organizations:

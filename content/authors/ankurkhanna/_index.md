@@ -13,15 +13,15 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: Postgraduate Intern ('14)
 
+role: "ISS Intern ('14; under CSIDM)"
 # Organizations/Affiliations
 organizations:
   - name: NUS
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postgraduate Intern ('14). 
+bio: ISS Intern ('14). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -13,7 +13,7 @@ date: ''
 superuser: false
 
 # Role/position
-role: Postdoctoral Alumnus
+role: "Postdoctoral Alumnus and Associate Researcher ('10-'19) Information Retrieval and Recommender Systems Topics"
 
 # Organizations/Affiliations
 organizations:

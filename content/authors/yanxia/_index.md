@@ -13,7 +13,7 @@ date: ''
 superuser: false
 
 # Role/position
-role: Postdoctoral Alumnus
+role: "Postdoctoral Alumnus ('22-'24). Scientific Document Processing Topics."
 
 # Organizations/Affiliations
 organizations:

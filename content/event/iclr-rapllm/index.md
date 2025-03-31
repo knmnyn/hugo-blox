@@ -2,7 +2,7 @@
 title: Reasoning and Planning for Large Language Models
 
 event: ICLR 2025 Workshop on Reasoning and Planning for Large Language Models
-event_url: https://reasoning-planning-llms.github.io/
+event_url: https://workshop-llm-reasoning-planning.github.io
 
 location: Singapore Expo
 address:

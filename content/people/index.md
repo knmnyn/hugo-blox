@@ -1,10 +1,25 @@
 ---
 title: People
-# date: 2022-10-24
 
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: Current WING members
+      caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
+    design:
+      background:
+        image: 
+          filename: 'acl24-banner.jpg'
+          position: center
+          size: cover             # Covers entire background
+          filters:
+            brightness: 0.2
+        text_color_light: true
+      parallax: true         # Optional parallax effect
+
+  # Current WING Block
   - block: people
     content:
       # title: Meet the Team
@@ -18,10 +33,26 @@ sections:
       sort_by: Params.date
       sort_ascending: true
     design:
-      show_interests: false
+      show_interests: true
       show_role: true
       show_social: true
 
+  - block: hero
+    content:
+      title: WING Alumni and Past Collaborators
+      caption: "WING with alumni @ ACL '24 (Bangkok, Thailand)"
+    design:
+      background:
+        image: 
+          filename: 'acl24-banner.jpg'
+          position: center
+          size: cover             # Covers entire background
+          filters:
+            brightness: 0.2
+        text_color_light: true
+      parallax: true         # Optional parallax effect
+
+  # Alumni Block
   - block: people
     content:
       user_groups:
@@ -31,9 +62,10 @@ sections:
           - Secondary School Alumni
       sort_by: Params.date
       sort_ascending: false
-      design:
-        show_interests: false
-        show_role: true
-        show_social: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: false
+      show_avatar: false # this directive doesn't work  
+
 ---
-Test text for People.

@@ -28,7 +28,7 @@ authors: [jiaying,Ambuj Mehrish, Ming Shan Hee, Gerard Yeo, Yang Deng, Anh Tuan 
 tags: ["SSNLP", "Workshop", "Natural Language Processing"]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Joshua Ang @ Unsplash**](https://unsplash.com/photos/singapore-lion-fountain-Gf_KqXHU-PY)'

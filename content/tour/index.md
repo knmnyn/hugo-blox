@@ -24,11 +24,11 @@ sections:
           text: Join Us
           url: ../contact/
       - title: ACL'24 @ Thailand
-        content: "Our past alumni and our current students at Thailand!"
+        content: "Current WING and alumni at ACL '24 in Thailand!"
         align: center
         background:
           image:
-            filename: contact.jpg
+            filename: acl24.jpg
             filters:
               brightness: 0.7
           position: right
@@ -38,7 +38,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: yajings.jpg
             filters:
               brightness: 0.7
           position: center

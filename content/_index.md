@@ -1,19 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: WING @ NUS
 date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
-      title: |
-        Web IR / NLP Group (WING) @ NUS
+      title: "Web IR / NLP Group (WING) @ NUS"
       image:
         filename: welcome.jpg
-      text: |
-        The <strong>Web, Information Retrieval / Natural Language Processing Group (WING)</strong> explores the research area of applied language processing and information retrieval to the Web and related technologies. Areas of current interest are question answering, scholarly digital libraries, verb similarity, focused crawling, citation parsing and spidering, web page classification and division, text segmentation, and full text analysis. WING is headed by <A HREF="author/min-yen-kan">Min</a> (A/P Min-Yen KAN). We are based in the Computational Linguistics Laboratory of the <a href="https://www.comp.nus.edu.sg">School of Computing</a> at the National University of Singapore. We often work with the Natural Language Processing Group and the <a href="https://lms.comp.nus.edu.sg/">Lab for Media Search</a>. We are part of the Media Technologies research group umbrella.
-  
+#      text: 
+#        The <strong>Web, Information Retrieval / Natural Language Processing Group (WING)</strong> explores the research area of applied language processing and information retrieval to the Web and related technologies. Areas of current interest are question answering, scholarly digital libraries, verb similarity, focused crawling, citation parsing and spidering, web page classification and division, text segmentation, and full text analysis. WING is headed by <A HREF="author/min-yen-kan">Min</a> (A/P Min-Yen KAN). We are based in the Computational Linguistics Laboratory of the <a href="https://www.comp.nus.edu.sg">School of Computing</a> at the National University of Singapore. We often work with the Natural Language Processing Group and the <a href="https://lms.comp.nus.edu.sg/">Lab for Media Search</a>. We are part of the Media Technologies research group umbrella.
+  - block: markdown
+    content:
+      text: 'The **Web, Information Retrieval / Natural Language Processing Group (WING)** explores the research area of applied language processing and information retrieval to the Web and related technologies. Areas of current interest are question answering, scholarly digital libraries, verb similarity, focused crawling, citation parsing and spidering, web page classification and division, text segmentation, and full text analysis. WING is headed by <A HREF="author/min-yen-kan">Min</a> (A/P Min-Yen KAN). We are based in the Computational Linguistics Laboratory of the <a href="https://www.comp.nus.edu.sg">School of Computing</a> at the National University of Singapore. We often work with the Natural Language Processing Group and the <a href="https://lms.comp.nus.edu.sg/">Lab for Media Search</a>. We are part of the Media Technologies research group umbrella.'
+
   - block: collection
     content:
       title: Latest News
@@ -42,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: acl24.jpg
           filters:
             brightness: 1
           parallax: false
@@ -55,13 +57,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Conference Publications
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'paper-conference'
     design:
       view: citation
       columns: '1'

@@ -3,7 +3,7 @@
 title: Ezekiel Eugene Ephraim
 
 # Full Name (for SEO) 
-first_name: Ezekiel
+first_name: Ezekiel Eugene
 last_name: Ephraim
 
 # Date for sorting
@@ -13,7 +13,7 @@ date: '2005-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Spring '05)
+role: "FYP Alumnus (Spring '05) Thesis: Presentation summarization, alignment and generation"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Spring '05). 
+bio: FYP Alumnus (Spring '05). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

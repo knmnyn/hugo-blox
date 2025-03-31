@@ -3,7 +3,7 @@
 title: Emma Thuy Dung Nguyen
 
 # Full Name (for SEO) 
-first_name: Emma
+first_name: Emma Thuy Dung
 last_name: Nguyen
 
 # Date for sorting
@@ -13,7 +13,7 @@ date: '2006-00'
 superuser: false
 
 # Role/position
-role: Internship Alumnus (Fall '06)
+role: "FYP and RA Alumnus (Fall '06). Thesis: Automatic keyword generation for academic publications"
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: https://www.comp.nus.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
-bio: Internship Alumnus (Fall '06). 
+bio: FYP and RA Alumnus (Fall '06). 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -29,4 +29,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 user_groups:
   - Undergraduate / Intern Alumni
+  - Staff Alumni
 ---

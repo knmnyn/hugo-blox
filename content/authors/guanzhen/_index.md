@@ -13,7 +13,7 @@ date: '2023-08'
 superuser: false
 
 # Role/position
-role: Masters Alumnus (Aug '23)
+role: "Masters Alumnus (Aug '23). Thesis: Edited Media Understanding"
 
 # Organizations/Affiliations
 organizations:

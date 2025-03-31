@@ -13,7 +13,7 @@ date: '2022-01'
 superuser: false
 
 # Role/position
-role: Research Assistant (Jan '22 - Mar '25)
+role: RA Alumnus (Jan '22 - Mar '25)
 
 # Organizations/Affiliations
 organizations:

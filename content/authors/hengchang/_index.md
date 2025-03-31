@@ -13,7 +13,7 @@ date: '2024-10'
 superuser: false
 
 # Role/position
-role: " Doctoral Alumnus (Oct '24). Thesis:  Going beyond ID-based Recommender Systems by Exploiting External Knowledge."
+role: "Doctoral Alumnus (Oct '24). Thesis:  Going beyond ID-based Recommender Systems by Exploiting External Knowledge."
 
 # Organizations/Affiliations
 organizations:

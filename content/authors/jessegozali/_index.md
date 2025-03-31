@@ -13,7 +13,7 @@ date: '2013-08'
 superuser: false
 
 # Role/position
-role: "Doctoral Alumnus (Aug '13). Thesis: Event Photo Stream Segmentation."
+role: "Doctoral Alumnus (Aug '13). Thesis: Event Photo Stream Segmentation.  FYP Alumnus (Fall '06) Thesis: A Rich User Interface for the LINC system with AJAX."
 
 # Organizations/Affiliations
 organizations:
@@ -29,4 +29,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 user_groups:
   - Graduate Alumni
+  - Undergraduate / Intern Alumni
 ---
