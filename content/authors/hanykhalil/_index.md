@@ -13,7 +13,7 @@ date: '2014-00'
 superuser: false
 
 # Role/position
-role: Postgraduate Intern ('14)
+role: "Postgraduate Intern ('14; under CSIDM)"
 
 # Organizations/Affiliations
 organizations:
