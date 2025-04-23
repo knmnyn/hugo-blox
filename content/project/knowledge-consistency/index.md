@@ -23,7 +23,7 @@ authors:
 - liangming
 - tianyi
 - sahej
-- Mahardika Krisna Ihsani
+- mkrisnai
 - min
 
 ---

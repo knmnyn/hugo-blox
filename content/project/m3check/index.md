@@ -19,7 +19,7 @@ all_day: true
 
 authors:
 - barid
-- Mahardika Krisna Ihsani
+- mkrisnai
 - min
 
 ---
