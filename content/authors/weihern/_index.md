@@ -59,4 +59,4 @@ user_groups:
 #  - Researchers
 ---
 
-Wei Hern is a final year undergraduate student doing his FYP under the supervision of Prof. Min-Yen Kan and PhD student Tongyao
+Wei Hern is a final year undergraduate student doing his FYP under the supervision of Prof. Min-Yen Kan and PhD student Tongyao.
