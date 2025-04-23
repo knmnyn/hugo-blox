@@ -1,5 +1,5 @@
 ---
-title: M^3Check: A Demonstration System for Multilingual Multi-clue Multi-Hop Fact-Checking
+title: "M^3Check: A Demonstration System for Multilingual Multi-clue Multi-Hop Fact-Checking"
 
 summary: Fact-checking real-world claims often requires complex, multi-step reasoning due to the absence of direct evidence to support or refute them. M^3Check guides the model's reasoning process by constructing a structured, supervised, and verified chain of clues for verifying a claim, fostering a transparent, explainable, and user-friendly fact-checking process for multiple languages.
 
@@ -19,10 +19,10 @@ all_day: true
 
 authors:
 - barid
-- Xinyuan Lu
-- Liangming Pan
-- Tianyi Zhu
-- Sahej Agarwal
+- xinyuan
+- liangming
+- tianyi
+- sahej
 - Mahardika Krisna Ihsani
 - min
 
