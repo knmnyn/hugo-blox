@@ -13,7 +13,7 @@ date: '2024-08'
 superuser: false
 
 # Role/position
-role: FYP Alumnus (Aug '24)
+role: "FYP Alumnus (Aug '24). Thesis: Linguistics Informed Natural Language Processing with LLMs"
 
 # Organizations/Affiliations
 organizations:
