@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Zizhen
+title: Zizhen Li
 
 # Full Name (for SEO)
 first_name: Zizhen

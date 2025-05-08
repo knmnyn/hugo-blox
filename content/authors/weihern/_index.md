@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lim Wei Hern
+title: Wei Hern Lim
 
 # Full Name (for SEO)
 first_name: Wei Hern
