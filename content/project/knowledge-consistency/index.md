@@ -21,7 +21,6 @@ authors:
 - barid
 - xinyuan
 - liangming
-- tianyi
 - sahej
 - mkrisnai
 - min
