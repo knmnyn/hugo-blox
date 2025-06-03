@@ -13,7 +13,7 @@ date: '2024-08'
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '24)
+role: "FYP Alumnus (Aug '24). Thesis: Linguistics Informed Natural Language Processing with LLMs"
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Undergraduate / Intern Alumni
 #  - Researchers
 ---
 

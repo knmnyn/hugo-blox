@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Tianyi Zhu
+title: Wei Hern Lim
 
 # Full Name (for SEO)
-first_name: Tianyi
-last_name: Zhu
+first_name: Wei Hern
+last_name: Lim
 
 # Date for sorting
-date: '2025-01'
+date: '2025-08'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UROP Student (Jan '25)
+role: FYP Student (Aug '25)
 
 # Organizations/Affiliations
 organizations:
@@ -21,14 +21,14 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: UROP student
+bio: FYP Student
 
 interests:
-  - Machine Learning
+  - Artificial Intelligence 
   - Natural Language Processing
-  - Linguistics
-  - Code-switching
-    
+  - Reasoning
+
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -36,10 +36,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhu.tianyi@u.nus.edu'
+    link: 'mailto:limweihern@u.nus.edu'
   - icon: github
     icon_pack: fab
-    link: https://github.com/lithops-zty
+    link: https://github.com/nrehiew
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zhu.tianyi@u.nus.edu'
+email: 'limweihern@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,6 +59,4 @@ user_groups:
 #  - Researchers
 ---
 
-Zhu Tianyi is a Computer Science undergraduate in NUS. He joined WING in 2024 as a UROP student, under the supervision of
-Prof. Min-Yen Kan and Dr. Barid Xi Ai. His research focus is in automatic generation of high-quality code-mixed sentences 
-leveraging linguistic theories. Ultimately, he hopes to empower language models to better serve multilingual communities.
+Wei Hern is a final year undergraduate student doing his FYP under the supervision of Prof. Min-Yen Kan and PhD student Tongyao.

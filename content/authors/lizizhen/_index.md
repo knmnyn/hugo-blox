@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Yifei Xu
+title: Zizhen Li
 
 # Full Name (for SEO)
-first_name: Yifei
-last_name: Xu
+first_name: Zizhen
+last_name: Li
 
 # Date for sorting
-date: '2024-08'
+date: '2025-08'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Masters Alumnus (Aug '24). Thesis: Exploring the Role of LLMs in Social Media Popularity Prediction."
+role: FYP Student (Aug '25)
 
 # Organizations/Affiliations
 organizations:
@@ -21,38 +21,25 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Student January 2024 Intake
+bio: FYP Student
 
 interests:
-  - Large Language Models
+  - Artificial Intelligence 
   - Natural Language Processing
 
-education:
-  courses:
-    - course: Master Student in Artificial Intelligence
-      institution: National University of Singapore
-      year: 2024-Now
-    - course: B.B.A in Information Management & Information System
-      institution: Jiling University
-      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: house
-#    icon_pack: fas
-#    link: https://.github.io/
+  - icon: house
+    icon_pack: fas
+    link: https://li-zizhen.github.io/
   - icon: envelope
     icon_pack: fas
-    link: 'e1331093@u.nus.edu'
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?user=
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/xx
+    link: 'mailto:lizizhen@u.nus.edu'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'e1331093@u.nus.edu'
+email: 'lizizhen@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,7 +55,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Alumni
+  - Undergraduate Students
 #  - Researchers
 ---
-Yifei is a Master student joining WING group in 2024. His primary research focus is on Benchmarking and Enhancing LLM-based Social Media Popularity Prediction for his one-year Dissertation, advised by Prof. Min-Yen Kan and Dr. Jiaying Wu.
+
+Li Zizhen is a final year undergraduate student doing his FYP under the supervision of Prof. Min-Yen Kan and Prof. Hai-Tao Yu.
