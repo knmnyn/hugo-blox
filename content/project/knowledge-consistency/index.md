@@ -18,9 +18,9 @@ all_day: true
 # slides:
 
 authors:
-- barid
-- Mahardika Krisna Ihsani
-- min
+  - barid
+  - Mahardika Krisna Ihsani
+  - min
 
 ---
 Few works study the variation and cross-lingual consistency of factual knowledge embedded in multilingual models. However, cross-lingual consistency should be considered to assess cross-lingual transferability, maintain the factuality of the model knowledge across languages, and preserve the parity of language model performance. We are thus interested in analyzing, evaluating, and interpreting cross-lingual consistency for factual knowledge. We apply interpretability approaches to analyze the behavior of a model in cross-lingual contexts, discovering that multilingual models show different levels of consistency, subject to language families or linguistic factors. In addition, we identify a bottleneck in cross-lingual consistency on a particular layer. To mitigate this problem, we try vocabulary expansion, adding biases from monolingual inputs, and different types of supervision consisting of additional cross-lingual word alignment objective, instruction tuning, and code-switching training. We find that among these methods, code-switching training and cross-lingual word alignment objective show the most promising results, emphasizing the noteworthiness of cross-lingual alignment supervision for cross-lingual consistency enhancement.
