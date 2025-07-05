@@ -1,7 +1,7 @@
 ---
-title: Is Knowledge in Multilingual Language Models Cross-Lingually Consistent?
+title: "Is Knowledge in Multilingual Language Models Cross-Lingually Consistent?"
 
-summary: Cross-lingual consistency should be considered to assess cross-lingual transferability, maintain the factuality of the model knowledge across languages, and preserve the parity of language model performance. Inspired by the classic linguistic theory that the reference of a sentence is its truth value,  we evaluate cross-lingual consistency for factual knowledge by substituting an entity with an equivalent one in other languages that shares the same reference.
+summary: "Cross-lingual consistency should be considered to assess cross-lingual transferability, maintain the factuality of the model knowledge across languages, and preserve the parity of language model performance. Inspired by the classic linguistic theory that the reference of a sentence is its truth value,  we evaluate cross-lingual consistency for factual knowledge by substituting an entity with an equivalent one in other languages that shares the same reference."
 
 tags: ["Multilingual and Cross-lingual NLP", "Knowledge Consistency", "Code-switching", "Model Parity and Consistency"]
 year: 2025
