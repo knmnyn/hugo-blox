@@ -1,7 +1,7 @@
 ---
 title: "M^3Check: A Demonstration System for Multilingual Multi-clue Multi-Hop Fact-Checking"
 
-summary: Fact-checking real-world claims often requires complex, multi-step reasoning due to the absence of direct evidence to support or refute them. M^3Check guides the model's reasoning process by constructing a structured, supervised, and verified chain of clues for verifying a claim, fostering a transparent, explainable, and user-friendly fact-checking process for multiple languages.
+summary: "Fact-checking real-world claims often requires complex, multi-step reasoning due to the absence of direct evidence to support or refute them. M^3Check guides the model's reasoning process by constructing a structured, supervised, and verified chain of clues for verifying a claim, fostering a transparent, explainable, and user-friendly fact-checking process for multiple languages."
 
 tags: ["Multilingual NLP", "Fact-checking", "RAG", "Supervised COT"]
 year: 2025
