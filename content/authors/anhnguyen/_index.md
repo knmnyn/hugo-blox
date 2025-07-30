@@ -60,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'nguyenducanh909.bkhn [at] gmail.com'
+email: nguyenducanh909.bkhn@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
