@@ -3,7 +3,7 @@ title: "LLMs Are Biased Towards Output Formats! Systematically Evaluating and Mi
 subtitle: ""
 authors:
 - long
-- Hai Nguyen Ngoc
+- hai
 - Tiviatis Sim
 - Hieu Dao
 - Shafiq Joty
@@ -26,7 +26,7 @@ abstract: "We present the first systematic evaluation examining format bias in p
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'https://arxiv.org/pdf/2408.08656'
+url_pdf: 'https://aclanthology.org/2025.naacl-long.15.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
