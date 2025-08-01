@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Trong Do Xuan
+title: Trong Xuan Do
 
 # Full name (for SEO)
 first_name: Trong 
@@ -18,8 +18,8 @@ role: Research Intern (Jan '25)
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: 
+  - name: HUST
+    url: https://en.wikipedia.org/wiki/Hanoi_University_of_Science_and_Technology
 
 # Short bio (displayed in user profile at end of posts)
 bio: Trong recently graduated from Hanoi University of Science and Technology (HUST). His research focuses on deep learning and improving mathematical reasoning capalibities of large language models (LLMs).
@@ -69,3 +69,6 @@ highlight_name: false
 user_groups:
   - Visitors / Interns
 #  - Researchers
+---
+
+Trong recently graduated from Hanoi University of Science and Technology (HUST). His research focuses on deep learning and improving mathematical reasoning capalibities of large language models (LLMs).
