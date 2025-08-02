@@ -12,7 +12,7 @@ authors:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-date: '2024-01-01'
+date: '2024-12-12'
 publishDate: '2024-12'
 publication_types: 
 - paper-conference
