@@ -16,9 +16,9 @@ featured: true
 # image:
 #   caption: 'The workflow of Discursive Socratic Questioning (left) and the evaluation results (right).'
 #   focal_point: Right
-url_pdf: 'https://aclanthology.org/2024.acl-long.341/'
-url_slides: 'https://yisong.me/publications/acl24-DiSQ-Slides.pdf'
-url_code: 'https://github.com/YisongMiao/DiSQ-Score'
+# url_pdf: 'https://aclanthology.org/2024.acl-long.341/'
+# url_slides: 'https://yisong.me/publications/acl24-DiSQ-Slides.pdf'
+# url_code: 'https://github.com/YisongMiao/DiSQ-Score'
 # url_video: ''
 
 # Markdown Slides (optional).
