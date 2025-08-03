@@ -1,5 +1,6 @@
 ---
 title: "Min's invited talk on prompting at the the IT:U Austria Summer School"
+type: landing
 
 event: IT:U Austria NLP Summer School
 event_url: https://it-u.at/en/itu-summer-school-2025-on-nlp
