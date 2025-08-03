@@ -14,14 +14,14 @@
 
 <div class="hero-block" style="
   {{ if $design.background.image }}
-    background-image: url(`{{ $design.background.image.filename | default $design.background.image }}`);
-    background-position: {{ $design.background.position | default `center` }};
-    background-size: {{ $design.background.size | default `cover` }};
+    background-image: url('{{ $design.background.image.filename | default $design.background.image }}');
+    background-position: {{ $design.background.position | default 'center' }};
+    background-size: {{ $design.background.size | default 'cover' }};
   {{ end }}
   {{ if $design.background.color }}
     background-color: {{ $design.background.color }};
   {{ end }}
-  height: {{ $design.height | default `400px` }};
+  height: {{ $design.height | default '400px' }};
   position: relative;
   display: flex;
   align-items: center;
