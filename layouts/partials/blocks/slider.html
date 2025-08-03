@@ -9,10 +9,9 @@
 {{ $block := .block }}
 {{ $page := .page }}
 
-{{ $slides := $block.content.slides | default slice }}
+{{ $slides := $block.content.slides }}
 {{ $design := $block.design }}
 
-{{ if $slides }}
 <div class="slider-block">
   <div id="slider-{{ $page.File.UniqueID }}" class="carousel slide" data-bs-ride="carousel" data-bs-interval="{{ $design.interval | default 5000 }}">
     
@@ -140,5 +139,4 @@
     background-attachment: scroll;
   }
 }
-</style>
-{{ end }} 
+</style> 
