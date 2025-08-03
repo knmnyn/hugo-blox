@@ -40,17 +40,45 @@ url_video: 'http://soc-n.us/250726-prompt-yt'
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ["selfadaptation"]
+
+# Add multiple images using sections
+sections:
+  - block: slider
+    content:
+      slides:
+      - title: IT:U Austria Summer School
+        content: "Min's invited talk on prompting at the IT:U Austria NLP Summer School"
+        align: center
+        background:
+          image:
+            filename: acl24.jpg  # Replace with your actual image filename
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+      - title: Panel Discussion
+        content: "Participating in the interdisciplinary panel on AI in Education"
+        align: center
+        background:
+          image:
+            filename: com3.jpg  # Replace with your actual image filename
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+      - title: Keynote Presentation
+        content: "Giving the keynote presentation on prompting techniques"
+        align: center
+        background:
+          image:
+            filename: acl24-banner.jpg  # Replace with your actual image filename
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#666'
+    design:
+      slide_height: '400px'
+      is_fullscreen: false
+      loop: true
+      interval: 3000
 ---
-
-## Event Photos
-
-Here are some photos from the IT:U Austria Summer School:
-
-![IT:U Austria Summer School](acl24.jpg)
-*IT:U Austria Summer School venue*
-
-![Panel Discussion](com3.jpg)
-*Panel discussion on AI in Education*
-
-![Keynote Presentation](acl24-banner.jpg)
-*Keynote presentation on prompting techniques*
