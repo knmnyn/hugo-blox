@@ -1,0 +1,79 @@
+<!--
+  Created by Cursor
+
+  This is a custom hero block layout for the hero block.
+  It is used to display the hero content.
+  It is based on the default hero block layout, but with some customizations.
+  It is used to display the hero content.
+-->
+{{ $block := .block }}
+{{ $page := .page }}
+
+{{ $content := $block.content }}
+{{ $design := $block.design }}
+
+<div class="hero-block" style="
+  {{ if $design.background.image }}
+    background-image: url('{{ $design.background.image.filename | default $design.background.image }}');
+    background-position: {{ $design.background.position | default 'center' }};
+    background-size: {{ $design.background.size | default 'cover' }};
+  {{ end }}
+  {{ if $design.background.color }}
+    background-color: {{ $design.background.color }};
+  {{ end }}
+  height: {{ $design.height | default '400px' }};
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: {{ if $design.background.text_color_light }}white{{ else }}inherit{{ end }};
+">
+  
+  {{ if $design.background.image }}
+    <div class="hero-overlay" style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0,0,0,0.5);
+    "></div>
+  {{ end }}
+  
+  <div class="hero-content" style="
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+    padding: 2rem;
+  ">
+    {{ if $content.title }}
+      <h1 class="display-4 mb-4">{{ $content.title }}</h1>
+    {{ end }}
+    
+    {{ if $content.subtitle }}
+      <p class="lead mb-4">{{ $content.subtitle }}</p>
+    {{ end }}
+    
+    {{ if $content.text }}
+      <p class="mb-4">{{ $content.text }}</p>
+    {{ end }}
+    
+    {{ if $content.link }}
+      <a href="{{ $content.link.url }}" class="btn btn-light btn-lg">
+        {{ if $content.link.icon }}
+          <i class="fas fa-{{ $content.link.icon }} me-2"></i>
+        {{ end }}
+        {{ $content.link.text }}
+      </a>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+.hero-block {
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+</style> 
