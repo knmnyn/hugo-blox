@@ -32,11 +32,11 @@
         <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
           {{ if $slide.background.image }}
             <div class="carousel-background" style="
-              background-image: url('{{ $slide.background.image.filename | default $slide.background.image }}');
-              background-position: {{ $slide.background.position | default 'center' }};
+              background-image: url(`/assets/media/{{ $slide.background.image.filename | default $slide.background.image }}`);
+              background-position: {{ $slide.background.position | default `center` }};
               background-size: cover;
-              background-color: {{ $slide.background.color | default '#666' }};
-              height: {{ $design.slide_height | default '400px' }};
+              background-color: {{ $slide.background.color | default `#666` }};
+              height: {{ $design.slide_height | default `400px` }};
               position: relative;
             ">
               {{ if $slide.background.image.filters }}
@@ -54,7 +54,7 @@
                 position: relative;
                 z-index: 2;
                 height: 100%;
-                text-align: {{ $slide.align | default 'center' }};
+                text-align: {{ $slide.align | default `center` }};
                 color: white;
                 padding: 2rem;
               ">
@@ -81,9 +81,9 @@
           {{ else }}
             <!-- Fallback for slides without background images -->
             <div class="carousel-content d-flex align-items-center justify-content-center" style="
-              height: {{ $design.slide_height | default '400px' }};
-              background-color: {{ $slide.background.color | default '#666' }};
-              text-align: {{ $slide.align | default 'center' }};
+              height: {{ $design.slide_height | default `400px` }};
+              background-color: {{ $slide.background.color | default `#666` }};
+              text-align: {{ $slide.align | default `center` }};
               color: white;
               padding: 2rem;
             ">
