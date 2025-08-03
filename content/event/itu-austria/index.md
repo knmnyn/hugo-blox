@@ -82,3 +82,16 @@ sections:
       loop: true
       interval: 3000
 ---
+
+## Event Photos
+
+Here are some photos from the IT:U Austria Summer School:
+
+![IT:U Austria Summer School](acl24.jpg)
+*IT:U Austria Summer School venue*
+
+![Panel Discussion](com3.jpg)
+*Panel discussion on AI in Education*
+
+![Keynote Presentation](acl24-banner.jpg)
+*Keynote presentation on prompting techniques*
