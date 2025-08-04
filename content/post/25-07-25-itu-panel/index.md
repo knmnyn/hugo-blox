@@ -8,8 +8,6 @@ Min gave an opening statement about the importance of socioethical issues in the
 
 <!--more-->
 
-{{< figure src="/media/itu-panel-min.jpg" caption="Min participating in the AI in Educational panel at the IT:U Austria NLP Summer School, discussing socioethical issues in AI education." >}}
-
 Here was Min's opening statement.
 
 <blockquote>
