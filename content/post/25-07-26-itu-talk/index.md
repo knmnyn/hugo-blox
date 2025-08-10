@@ -5,7 +5,7 @@ authors: [min, long]
 ---
 
 
-Min gave an invited talk at the IT:U Summer School on Natural Language Processing based on Do Xuan Long's papers over the last three years, based on Long's papers on prompting.
+Min gave an invited talk at the IT:U Summer School on Natural Language Processing based on Do Xuan Long's papers over the last three years, based on his papers on prompting.
 
 <!--more-->
 
@@ -15,5 +15,4 @@ What does a famine in Malawi have to do with effective prompting?  Like William 
 
 Slides: http://soc-n.us/250726-prompt
 Video: http://soc-n.us/250726-prompt-yt
-<!--more-->
 
