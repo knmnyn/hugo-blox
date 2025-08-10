@@ -1,6 +1,5 @@
 ---
 title: "Min's invited talk on prompting at the the IT:U Austria Summer School"
-type: landing
 
 event: IT:U Austria NLP Summer School
 event_url: https://it-u.at/en/itu-summer-school-2025-on-nlp
@@ -32,8 +31,8 @@ image:
   caption: "ACL '25 Ethics Tutorial Website"
   focal_point: Right
 
-url_slides: 'http://soc-n.us/250726-prompt'
-url_video: 'http://soc-n.us/250726-prompt-yt'
+# url_slides: 'http://soc-n.us/250726-prompt'
+# url_video: 'http://soc-n.us/250726-prompt-yt'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -41,7 +40,6 @@ url_video: 'http://soc-n.us/250726-prompt-yt'
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ["selfadaptation"]
-
 ---
 
 
@@ -58,3 +56,5 @@ Here are some photos from the IT:U Austria Summer School:
 
 ![Keynote Presentation](acl24-banner.jpg)
 *Keynote presentation on prompting techniques*
+
+<iframe width="987" height="641" src="https://www.youtube.com/embed/8WOJq8gsMLs" title="The Boy Who Harnessed the Wind: Getting more out of LLM Prompting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
