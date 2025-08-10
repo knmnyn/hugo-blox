@@ -17,7 +17,7 @@ abstract: 'WING.NUS’s CS6101 lab section is conducted as a public course, with
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-01-06'
+date: '2025-08-07'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
