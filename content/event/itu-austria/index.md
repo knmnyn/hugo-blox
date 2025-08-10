@@ -42,57 +42,9 @@ url_video: 'http://soc-n.us/250726-prompt-yt'
 #   Otherwise, set `projects = []`.
 projects: ["selfadaptation"]
 
-# Add multiple images using sections
-sections:
-  - block: slider
-    content:
-      slides:
-      - title: IT:U Austria Summer School 2025
-        content: "Min's invited talk on prompting at the IT:U Austria NLP Summer School in Linz"
-        align: center
-        background:
-          image:
-            filename: acl24-banner.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-      - title: Interdisciplinary Panel Discussion
-        content: "Participating in the interdisciplinary panel on AI in Education at Austria Center Vienna"
-        align: center
-        background:
-          image:
-            filename: acl24.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-      - title: Keynote Presentation on Prompting
-        content: "Giving the keynote presentation on prompting techniques and their applications in NLP"
-        align: center
-        background:
-          image:
-            filename: com3.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-      - title: WING Research Showcase
-        content: "Showcasing WING's latest research in natural language processing and information retrieval"
-        align: center
-        background:
-          image:
-            filename: yajings.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-    design:
-      slide_height: '500px'
-      is_fullscreen: false
-      loop: true
-      interval: 4000
 ---
+
+
 
 ## Event Photos
 
