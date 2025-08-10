@@ -42,19 +42,16 @@ image:
 projects: ["selfadaptation"]
 ---
 
-
-
-## Event Photos
-
-Here are some photos from the IT:U Austria Summer School:
-
-![IT:U Austria Summer School](acl24.jpg)
-*IT:U Austria Summer School venue*
-
-![Panel Discussion](com3.jpg)
-*Panel discussion on AI in Education*
-
-![Keynote Presentation](acl24-banner.jpg)
-*Keynote presentation on prompting techniques*
+Check out Min's talk that makes an analogy to the boy who harnessed the wind with LLM prompting:
 
 <iframe width="987" height="641" src="https://www.youtube.com/embed/8WOJq8gsMLs" title="The Boy Who Harnessed the Wind: Getting more out of LLM Prompting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Pictures of the NLP Summer School 
+
+(Courtesy the IT:U Austria staff.  Pictures cleared by the participants with informed consent.)
+
+{{< figure src="MD05497.jpg" alt="Let's stretch before the talk!" >}}
+
+{{< figure src="MD05508.jpg" alt="Answering questions" >}}
+
+{{< figure src="itu-talk-announcement.jpg" alt="The talk announcement" >}}
