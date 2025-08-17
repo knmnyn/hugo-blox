@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Haomeng Lu
+title: Cheong Rui Feng
 
 # Full Name (for SEO)
-first_name: Haomeng
-last_name: Lu
+first_name: Rui Feng
+last_name: Cheong
 
 # Date for sorting
 date: '2025-08'
@@ -21,14 +21,11 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: ISC student
+bio: ISC Student
 
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligence 
   - Natural Language Processing
-  - Machine Learning
-  - Algorithms
-
 
 
 # Social/Academic Networking
@@ -38,20 +35,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: e1122543@u.nus.edu
-  - icon: github
-    icon_pack: fab# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: e1122543@u.nus.edu
+    link: 'e1122543@u.nus.edu'
   - icon: github
     icon_pack: fab
     link: https://github.com/cerulyean
-  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +58,4 @@ user_groups:
 #  - Researchers
 ---
 
-Cheong Rui Feng is an ISC student joing our group in 2025. 
+Rui Feng is an undergraduate student doing ISC.
