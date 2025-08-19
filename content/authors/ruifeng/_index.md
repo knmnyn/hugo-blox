@@ -13,7 +13,7 @@ date: '2025-08'
 superuser: false
 
 # Role/position
-role: ISC Student
+role: ISC Student (Aug '25)
 
 # Organizations/Affiliations
 organizations:
