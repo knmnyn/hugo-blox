@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jiahao Chen
+title: Cheong Rui Feng
 
 # Full Name (for SEO)
-first_name: Jiahao
-last_name: Chen
+first_name: Rui Feng
+last_name: Cheong
 
 # Date for sorting
 date: '2025-08'
@@ -13,7 +13,7 @@ date: '2025-08'
 superuser: false
 
 # Role/position
-role: UROP Student (Aug '25)
+role: ISC Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,12 +21,11 @@ organizations:
     url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: UROP student
+bio: ISC Student
 
 interests:
   - Artificial Intelligence 
   - Natural Language Processing
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -35,11 +34,11 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: e1297768@u.nus.edu
+    link: 'e1122543@u.nus.edu'
   - icon: github
     icon_pack: fab
-    link: https://github.com/Neilchen863
-  
+    link: https://github.com/cerulyean
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,7 +46,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'e1297768@u.nus.edu'
+email: 'e1122543@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,4 +58,4 @@ user_groups:
 #  - Researchers
 ---
 
-Chen Jiahao is a UROP student joing our group in 2025.
+Rui Feng is an undergraduate student doing ISC.
