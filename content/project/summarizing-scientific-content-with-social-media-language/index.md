@@ -9,7 +9,7 @@ tags: ["Summarization", "NLP"]
 year: 2025  
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with #.
-date: '2025-01-01'
+date: '2025-08-01'
 #date_end: '2004-12-31'
 all_day: true
 
@@ -20,7 +20,7 @@ all_day: true
 #   Otherwise, set slides = "".
 # slides:
 
-authors: ["amy", "jiaying", "min"]
+authors: ["jiahao", "jiaying", "min"]
 
 ---
 As social media dominates public information consumption, effectively communicating scientific knowledge through these platforms is crucial. Despite advances in document summarization, complex scientific jargon remains a barrier for general audiences, limiting access to important scientific information. This project develops methodologies to simplify scientific content while preserving accuracy, translating it into language that engages social media users. Our goal is to increase accessibility of scientific knowledge and enhance its influence on informed societal decision-making.
