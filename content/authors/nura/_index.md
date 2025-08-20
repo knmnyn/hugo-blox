@@ -13,7 +13,7 @@ date: '2025-08'
 superuser: false
 
 # Role/position
-role: Master Student (Jan '25)
+role: Master Student (Aug '25)
 
 # Organizations/Affiliations
 organizations:
