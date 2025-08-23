@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cheong Rui Feng
+title: Rui Feng Cheong
 
 # Full Name (for SEO)
 first_name: Rui Feng

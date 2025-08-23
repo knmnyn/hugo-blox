@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huang Chao Ming
+title: Chao Ming Huang 
 
 # Full Name (for SEO)
 first_name: Chao Ming
