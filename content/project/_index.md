@@ -10,5 +10,6 @@ banner:
 
 <p>
 WING members participate in a wide variety of Web, Information Retrieval, Natural Language Processing and Digital Library projects.  
-Check out some of the projects that members of our lab are currently contributing to, as well as some of the projects from our alumni. 
+Check out some of the projects that members of our lab are currently contributing to, as well as projects by our alumni. 
 </p>
+<p>&nbsp;</p>
