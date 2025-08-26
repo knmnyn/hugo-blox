@@ -24,7 +24,7 @@ organizations:
 bio: PhD Candidate August 2023 Intake
 
 interests:
-  - Efficient LLM and LVLM Adaptation
+  - Efficient (Self-)Adaptation
   - Alignment
   - Multi-agent System
 
@@ -73,4 +73,4 @@ user_groups:
 #  - Researchers
 ---
 
-Long is a second-year PhD student under the supervision of Prof. Min-Yen Kan, Prof. Kenji Kawaguchi, Dr. Nancy Chen, and Prof. Shafiq Joty. He is working on efficient reasoning and adaptation of LLMs. His works have contributed to: (1) Efficient LLM alignment ([Probe sampling, NeurIPS’24](https://arxiv.org/pdf/2403.01251)); (2) Prompt understanding ([FormatBiasEval, NAACL'25](https://arxiv.org/pdf/2408.08656)), design ([Multi-expert Prompting, EMNLP'24](https://arxiv.org/pdf/2411.00492); [Chain-of-Opinion, COLING’25](https://arxiv.org/pdf/2311.08385)) and optimization ([adv-ICL, ACL'24](https://arxiv.org/pdf/2312.02614)); (3) Multi-agent system ([Multi-expert Prompting, EMNLP'24](https://arxiv.org/pdf/2411.00492)). 
+Long is a second-year PhD student under the supervision of Prof. Min-Yen Kan, Prof. Kenji Kawaguchi, Dr. Nancy Chen, and Prof. Shafiq Joty. He is working on efficient reasoning and adaptation of foundation models. His works have contributed to: (1) Efficient (Self-)Adaptation ([LongGuide, ACL'25](https://aclanthology.org/2025.findings-acl.176/), [Probe sampling, NeurIPS’24](https://arxiv.org/pdf/2403.01251)); (2) Prompt Understanding ([NLPromptEval, ACL'25](https://aclanthology.org/2025.acl-long.292/), [FormatBiasEval, NAACL'25](https://arxiv.org/pdf/2408.08656)), Design ([Multi-expert Prompting, EMNLP'24](https://arxiv.org/pdf/2411.00492); [Chain-of-Opinion, COLING’25](https://arxiv.org/pdf/2311.08385)) and Optimization ([adv-ICL, ACL'24](https://arxiv.org/pdf/2312.02614)); (3) Multi-agent System ([Multi-expert Prompting, EMNLP'24](https://arxiv.org/pdf/2411.00492)). 

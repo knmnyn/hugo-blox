@@ -13,7 +13,7 @@ date: '2024-08'
 superuser: false
 
 # Role/position
-role: FYP Student (Aug '24)
+role: "FYP Alumnus (Aug '24). Thesis: Visualising Large Language Model Activations"
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,6 @@ interests:
   - Artificial Intelligence
   - Computational Biology
   - Computer Vision
-
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -55,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Undergraduate / Intern Alumni
 #  - Researchers
 ---
 

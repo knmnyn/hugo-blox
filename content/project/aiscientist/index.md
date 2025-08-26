@@ -28,11 +28,12 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["Joeran Beel", "Moritz Baumgart", "min", "haomeng"]
+authors: ["Joeran Beel", "Moritz Baumgart", "min", "haomeng", "ruifeng", "nura-tamton"]
 
 ---
 Our collaboration with Joeran Beel and Moritz Baumgart of ISG Siegen originated from Joeran's sabbatical visit with WING in Oct 2024.  Moritz, a talented undergraduate student at University of Siegen, joined us as a research assistant, working remotely which coordinated with his advisor here in NUS.  
 
 Over the course of Joeran's visit, we were able to install and test the AI Scientist system advertised as an automated robo scientist by Sakana.AI.  We find positive use cases, but also weaknesses that need much handholding from us.
 
-Haomeng joins our team as a student working towards assessing the growing variety of LLM based research agents going into 2025.
+Haomeng, Rui Feng and Nura join our team as students working towards assessing the growing variety of LLM based research agents going into 2025.
+

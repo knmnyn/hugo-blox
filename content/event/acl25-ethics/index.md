@@ -2,7 +2,7 @@
 title: "Navigating Ethical Challenges in NLP: Hands-on strategies for students and researchers (Tutorial at ACL '25)"
 
 event: Navigating Ethical Challenges in NLP
-event_url: https://ethics.aclweb.org/
+event_url: https://ethics.aclweb.org/tutorials/ACL_2025/
 
 location: Austria Center Vienna
 address:
@@ -32,13 +32,12 @@ tags: ["ACL", "NLP", "Natural Language Processing", "Ethics"]
 featured: true
 
 image:
-  caption: "ACL '25 Website"
+  caption: "ACL '25 Ethics Tutorial Website"
   focal_point: Right
 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+url_pdf: 'https://aclanthology.org/2025.acl-tutorials.5/'
+url_slides: 'https://tinyurl.com/presentation-deck-ACL-2025'
+# url_video: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

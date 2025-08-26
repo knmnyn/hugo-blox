@@ -18,7 +18,7 @@ all_day: true
 #   Otherwise, set `slides = ""`.
 # slides:
 
-authors: ["tianyi", "barid", "min"]
+authors: ["barid", "min"]
 
 ---
 

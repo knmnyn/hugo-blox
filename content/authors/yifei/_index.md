@@ -13,7 +13,7 @@ date: '2024-08'
 superuser: false
 
 # Role/position
-role: Masters Student (Aug '24)
+role: "Masters Alumnus (Aug '24). Thesis: Exploring the Role of LLMs in Social Media Popularity Prediction."
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Alumni
 #  - Researchers
 ---
 Yifei is a Master student joining WING group in 2024. His primary research focus is on Benchmarking and Enhancing LLM-based Social Media Popularity Prediction for his one-year Dissertation, advised by Prof. Min-Yen Kan and Dr. Jiaying Wu.
