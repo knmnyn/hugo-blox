@@ -81,44 +81,18 @@ sections:
       title: Sponsors
       subtitle:
       text: |
-        <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:center">
-          <a href="https://csidm.sg/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/csidmlogo.png" | relURL }}" alt="CSIDM" style="height:56px" loading="lazy"/>
-          </a>
-          <a href="https://next.comp.nus.edu.sg/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/logo.png" | relURL }}" alt="NUS Computing NEXT" style="height:48px" loading="lazy"/>
-          </a>
-          <a href="https://www.crayondata.com/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/Screen-Shot-2017-11-10-at-12.11.24-AM.png" | relURL }}" alt="Crayon Data" style="height:40px" loading="lazy"/>
-          </a>
-          <a href="https://www.intelllex.com/hello" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/52750-INTELLLEX-Logo-1.jpg" | relURL }}" alt="INTELLLEX" style="height:56px" loading="lazy"/>
-          </a>
-          <a href="https://www.microsoft.com/en-us/research/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/MSRLogoDigitalBlack.png" | relURL }}" alt="Microsoft Research" style="height:28px" loading="lazy"/>
-          </a>
-          <a href="https://www.nvidia.com/content/global/global.php" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/1200px-Nvidia_image_logo.svg_.png" | relURL }}" alt="NVIDIA" style="height:44px" loading="lazy"/>
-          </a>
-          <a href="https://www.patsnap.com/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/PatSnap_Logo_CMYK-1.png" | relURL }}" alt="PatSnap" style="height:44px" loading="lazy"/>
-          </a>
-          <a href="https://www.wsg.gov.sg/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/WSG.jpg" | relURL }}" alt="Workforce Singapore (WSG)" style="height:40px" loading="lazy"/>
-          </a>
-          <a href="https://elsevier.com/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/download.jpeg" | relURL }}" alt="Elsevier" style="height:48px" loading="lazy"/>
-          </a>
-          <a href="https://www.joinef.com/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/EF_Solo_BlackJPG.jpg" | relURL }}" alt="Entrepreneur First" style="height:40px" loading="lazy"/>
-          </a>
-          <a href="https://ssi.nus.edu.sg/" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/ssi.png" | relURL }}" alt="NUS Smart Systems Institute" style="height:40px" loading="lazy"/>
-          </a>
-          <a href="https://www.nus.edu.sg/alset" target="_blank" rel="noopener">
-            <img src="{{ "/media/sponsors/Screen-Shot-2017-11-09-at-11.24.10-PM.png" | relURL }}" alt="NUS ALSET" style="height:28px" loading="lazy"/>
-          </a>
-        </div>
+        {{< figure src="sponsors/csidmlogo.png" link="https://csidm.sg/" target="_blank" alt="CSIDM" width="89px" >}}
+        {{< figure src="sponsors/logo.png" link="https://next.comp.nus.edu.sg/" target="_blank" alt="NUS Computing NEXT" width="132px" >}}
+        {{< figure src="sponsors/Screen-Shot-2017-11-10-at-12.11.24-AM.png" link="https://www.crayondata.com/" target="_blank" alt="Crayon Data" width="120px" >}}
+        {{< figure src="sponsors/52750-INTELLLEX-Logo-1.jpg" link="https://www.intelllex.com/hello" target="_blank" alt="INTELLLEX" width="120px" >}}
+        {{< figure src="sponsors/MSRLogoDigitalBlack.png" link="https://www.microsoft.com/en-us/research/" target="_blank" alt="Microsoft Research" width="178px" >}}
+        {{< figure src="sponsors/1200px-Nvidia_image_logo.svg_.png" link="https://www.nvidia.com/content/global/global.php" target="_blank" alt="NVIDIA" width="150px" >}}
+        {{< figure src="sponsors/PatSnap_Logo_CMYK-1.png" link="https://www.patsnap.com/" target="_blank" alt="PatSnap" width="207px" >}}
+        {{< figure src="sponsors/WSG.jpg" link="https://www.wsg.gov.sg/" target="_blank" alt="Workforce Singapore (WSG)" width="195px" >}}
+        {{< figure src="sponsors/download.jpeg" link="https://elsevier.com/" target="_blank" alt="Elsevier" width="109px" >}}
+        {{< figure src="sponsors/EF_Solo_BlackJPG.jpg" link="https://www.joinef.com/" target="_blank" alt="Entrepreneur First" width="78px" >}}
+        {{< figure src="sponsors/ssi.png" link="https://ssi.nus.edu.sg/" target="_blank" alt="NUS Smart Systems Institute" width="190px" >}}
+        {{< figure src="sponsors/Screen-Shot-2017-11-09-at-11.24.10-PM.png" link="https://www.nus.edu.sg/alset" target="_blank" alt="NUS ALSET" width="194px" >}}
     design:
       columns: '1'
     spacing:
