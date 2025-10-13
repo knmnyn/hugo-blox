@@ -13,7 +13,7 @@ date: '2020-01'
 superuser: false
 
 # Role/position
-role: "ISEP Doctoral Student Alumnus (Jan '20).  Thesis: Fact-Checking Complex Claims with Large Language Models."
+role: "ISEP Doctoral Alumnus (Jan '20).  Thesis: Fact-Checking Complex Claims with Large Language Models."
 
 # Organizations/Affiliations
 organizations:
