@@ -8,7 +8,7 @@ projects:
   - discourse
 ---
 
-Congratulations to Yisong Miao and his collaborators for winning the Area Chair Award at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) for their paper, *"Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models' Understanding of Discourse Relations."*
+Congratulations to WING members, Yisong Miao, Min-Yen Kan, and their collaborators for winning the Area Chair Award at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) for their paper, *"Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models' Understanding of Discourse Relations."*
 
 <!--more-->
 
