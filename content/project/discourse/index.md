@@ -1,7 +1,7 @@
 ---
 title: Discourse and LLMs
 
-summary: We measure and enhance LLMs' faithfulness of discourse understanding, as well as the mechanistic interpretability of discourse understanding.
+summary: We measure and enhance LLMs’ discourse understanding, focusing on faithfulness and mechanistic interpretability.
 abstract: "Large language models (LLMs) can now generate coherent text, but can they truly understand language? In this project, we explore discourse understanding, a foundational objective in natural language processing (NLP). In the first part, we refine the notion of understanding as faithful behavior under a series of Socratic-style questions (appeared at ACL 2024). In the second part, we take a causal approach to mechanistically interpret the key components of transformer models in discourse processing (appeared at EMNLP 2025)."
 
 tags: ["CL", "Discourse", "NLP", "LLM", "Computational Linguistics", "Mechanistic Interpretability", "Circuit Discovery", "Transformer Models"]
