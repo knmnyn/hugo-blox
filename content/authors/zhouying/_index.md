@@ -1,31 +1,41 @@
 ---
 # Display name
-title: Sahej Agarwal
+title: Zhouying Cui
 
 # Full Name (for SEO)
-first_name: Sahej
-last_name: Agarwal
+first_name: Zhouying
+last_name: Cui
 
 # Date for sorting
-date: '2025-01'
+date: '2025-09'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UROP Student (Jan '25)
+role: Research Assistant (Sept '25)
 
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore, School of Computing
-    url: "http://www.comp.nus.edu.sg"
+    url: 'http://www.comp.nus.edu.sg'
 
 # Short bio (displayed in user profile at end of posts)
-bio: UROP Student
+bio: Research Assistant
 
 interests:
-  - Natural Language Processing
-  - Multilingual and Cross-lingual NLP
+  - Artificial Intelligence  
+  - Large Language Models (LLMs)
+  - Sound and Music Computing 
+
+education:
+  courses:
+    - course: Master of Computing
+      institution: National University of Singapore
+      year: 2023-2025
+    - course: B.Eng. in Computer Science
+      institution: Hangzhou Dianzi University
+      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -34,13 +44,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:sahej.agarwal@u.nus.edu"
+    link: 'mailto:zhouying.cui@u.nus.edu'
   - icon: github
     icon_pack: fab
-    link: https://github.com/SahejAgarwal05
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/sahej-agarwal/
+    link: https://github.com/zoeyada
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sahej.agarwal@u.nus.edu"
+email: 'zhouying.cui@u.nus.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -56,7 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Principal Investigator / Research Fellows / Staff
 #  - Researchers
 ---
-Sahej is a second-year Computer Engineering undergraduate, currently pursuing a UROP project under Prof. Min-Yen Kan and Dr. Barid Xi Ai. His research focuses on making large language models more accessible to non-English speakers. Sahej is passionate about leveraging AI to solve real-world problems and drive meaningful impact.
+
+Zhouying is a Research Assistant at the School of Computing, National University of Singapore (NUS). Her research focuses on utilizing Large Language Models (LLMs) and multimodal models to solve problems in the field of sound and music computing.

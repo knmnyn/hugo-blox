@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: National University of Singapore
-      year: 2020-2024 (expected)
+      year: 2020-2024
     - course: BEng in Computer Science
       institution: Beijing Foreign Studies University
       year: 2016-2020

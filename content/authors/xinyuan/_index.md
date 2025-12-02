@@ -13,7 +13,7 @@ date: '2020-01'
 superuser: false
 
 # Role/position
-role: ISEP Doctoral Student (Jan '20)
+role: "ISEP Doctoral Alumnus (Jan '20).  Thesis: Fact-Checking Complex Claims with Large Language Models."
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +72,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduate Alumni
+#  - Graduate Students
 #  - Researchers
 ---
 

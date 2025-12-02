@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Sahej Agarwal
+title: Kai Zhe Choong
 
 # Full Name (for SEO)
-first_name: Sahej
-last_name: Agarwal
+first_name: Kai Zhe
+last_name: Choong
 
 # Date for sorting
-date: '2025-01'
+date: '2026-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UROP Student (Jan '25)
+role: UROP Student (Jan'26)
 
 # Organizations/Affiliations
 organizations:
@@ -24,8 +24,9 @@ organizations:
 bio: UROP Student
 
 interests:
+  - LLM Interpretability
   - Natural Language Processing
-  - Multilingual and Cross-lingual NLP
+  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -34,13 +35,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:sahej.agarwal@u.nus.edu"
+    link: "mailto:choongkaizhe@u.nus.edu"
   - icon: github
     icon_pack: fab
-    link: https://github.com/SahejAgarwal05
+    link: https://github.com/cedarglass
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sahej-agarwal/
+    link: https://www.linkedin.com/in/choong-kai-zhe
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sahej.agarwal@u.nus.edu"
+email: "choongkaizhe@u.nus.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,4 +60,5 @@ user_groups:
   - Undergraduate Students
 #  - Researchers
 ---
-Sahej is a second-year Computer Engineering undergraduate, currently pursuing a UROP project under Prof. Min-Yen Kan and Dr. Barid Xi Ai. His research focuses on making large language models more accessible to non-English speakers. Sahej is passionate about leveraging AI to solve real-world problems and drive meaningful impact.
+
+Kai Zhe is an undergraduate student in Computer Science doing a UROP research project under the supervision of Prof. Min-Yen Kan and PhD student Yisong Miao. His research focuses on tracing the internal mechanisms of how LMs understand natural language.
