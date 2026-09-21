@@ -16,7 +16,7 @@ date: '2025-11-19'
 publishDate: '2025-11-19'
 all_day: true
 
-projects: ["discourse", "datatales", "selfadaptation"]
+projects: ["discourse", "analytical-reporting", "selfadaptation"]
 
 # Is this a featured talk? (true/false)
 featured: true

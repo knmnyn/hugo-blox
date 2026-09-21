@@ -16,6 +16,11 @@ summary: 'An EMNLP 2024 benchmark of 4.9k financial reports and market data for 
 links:
 - name: URL
   url: https://aclanthology.org/2024.emnlp-main.601/
+url_pdf: 'https://aclanthology.org/2024.emnlp-main.601.pdf'
+url_code: 'https://github.com/yajingyang/DataTales'
+# url_slides: ''
+projects:
+- analytical-reporting
 image:
   caption: 'Example analytical operations in a DataTales market report from Yang et al. (2024).'
   preview_only: false

@@ -31,7 +31,7 @@ date: '2025-11-18'
 publishDate: '2025-11-18'
 all_day: true
 
-projects: ["discourse","datatales"]
+projects: ["discourse","analytical-reporting"]
 ---
 
 A gallery of additional photos from the event is included below, with thanks to the official event photographer.
