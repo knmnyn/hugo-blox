@@ -5,7 +5,7 @@ authors:
 - Wei Han
 - Hui Chen
 - min
-- Soujanya Poria
+- soujanya
 date: '2022-12-01'
 publishDate: '2024-07-05T17:09:42.610472Z'
 publication_types:
@@ -26,6 +26,10 @@ abstract: Existing multimodal tasks mostly target at the complete input modality
   multimodal tasks empirically demonstrate that our method can perform more accurate
   and faster inference and alleviate the overfitting issue under different missing
   conditions.
+summary: 'An optimal-transport alignment model for fast inference on missing-modality sequences.'
+image:
+  caption: 'MM-Align alignment dynamics.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.emnlp-main.717

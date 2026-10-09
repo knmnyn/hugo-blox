@@ -13,7 +13,7 @@ date: '2023-01'
 superuser: false
 
 # Role/position
-role: IPP Doctoral Student (Jan '23; SEA)
+role: IPP Doctoral Student (Jan '23; SEA)<BR/>Co-Supervised by <A HREF="https://wing.comp.nus.edu.sg/author/qian-liu/">Qian Liu</A>.<BR/> <font color=red><strong>Research Achievement Award (RAA, '25)</strong></font>
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Doctoral Students
 #  - Researchers
 ---
 

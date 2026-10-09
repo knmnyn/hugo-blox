@@ -27,7 +27,8 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigator / Research Fellows / Staff
-          - Graduate Students
+          - Doctoral Students
+          - Masters Students
           - Undergraduate Students
           - Visitors / Interns
           - Faculty Collaborators
@@ -58,7 +59,8 @@ sections:
     content:
       user_groups:
           - Staff Alumni
-          - Graduate Alumni
+          - Doctoral Alumni
+          - Masters Alumni
           - Undergraduate / Intern Alumni
           - Secondary School Alumni
           - Past Collaborators
@@ -68,6 +70,6 @@ sections:
       show_interests: false
       show_role: true
       show_social: false
-      show_avatar: false # this directive doesn't work  
+      show_avatar: false # hides photos in this listing only; profile pages still show them (see layouts/partials/blocks/people.html)
 
 ---

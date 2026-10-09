@@ -13,7 +13,7 @@ date: '2020-08'
 superuser: false
 
 # Role/position
-role: IPP Doctoral Student (Aug '20)
+role: IPP Doctoral Student (Aug '20)<BR/>Co-Supervised by <a href="https://wing.comp.nus.edu.sg/author/kelvin-koa/">Kelvin Koa</a> and <a href="https://wing.comp.nus.edu.sg/author/yunshan-ma/">Yunshan Ma</a><BR/> <font color=red><strong>Research Achievement Award (RAA, '25)</strong></font>
 
 # Organizations/Affiliations
 organizations:
@@ -57,8 +57,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Doctoral Students
 #  - Researchers
 ---
 
-Yajing is currently a fifth year Ph.D candidate in the Industrial PhD Programme in School of Computing at National University of Singapore and Rio Tinto. She is currently the member of Web Information Retrieval / Natural Language Processing Group (WING) and uner supervision of associate professor Dr. Min-yen Kan. Her primary research interest lies in Natural Language Processing, with a specific focus on data-to-text generation and data narration.
+Yajing is currently a fifth-year Ph.D. candidate in the Industrial PhD Programme at the School of Computing, National University of Singapore, and Rio Tinto. She is a member of the Web Information Retrieval / Natural Language Processing Group (WING) and is supervised by Associate Professor Min-Yen Kan, with Kelvin Koa and Yunshan Ma as co-supervisors. Her primary research interest lies in Natural Language Processing, with a specific focus on data-to-text generation and data narration.

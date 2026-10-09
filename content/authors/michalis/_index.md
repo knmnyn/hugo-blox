@@ -7,13 +7,13 @@ first_name: Michalis
 last_name: Vlachos
 
 # Date for sorting
-date: '2025-09'
+date: '2025-09-01'
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Sabbatical Visiting Professor
+role: Sabbatical Visiting Professor (2025-2026)
 
 # Organizations/Affiliations
 organizations:

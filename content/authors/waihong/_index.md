@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Teh Wai Hong
+title: Wai Hong Teh
 
 # Full Name (for SEO)
 first_name: Wai Hong
@@ -13,7 +13,7 @@ date: '2026-08'
 superuser: false
 
 # Role/position
-role: FYP Student (Aug'26)
+role: FYP Student (Aug '26)
 
 # Organizations/Affiliations
 organizations:

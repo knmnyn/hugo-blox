@@ -5,7 +5,7 @@ authors:
 - Devamanyu Hazarika
 - min
 - Roger Zimmermann
-- Soujanya Poria
+- soujanya
 date: '2022-05-01'
 publishDate: '2024-07-05T17:09:42.630957Z'
 publication_types:
@@ -28,6 +28,10 @@ abstract: 'Automatic transfer of text between domains has become popular in rece
   constraints between domains for multiple benchmark datasets, including ones where
   more than one attribute change. We show that the complementary cooperative losses
   improve text quality, according to both automated and human evaluation measures.'
+summary: 'A constrained unsupervised text style transfer method with cooperative losses for preserving content and attributes.'
+image:
+  caption: 'Constrained text style transfer losses.'
+  preview_only: false
 links:
 - name: URL
   url: https://aclanthology.org/2022.acl-long.32

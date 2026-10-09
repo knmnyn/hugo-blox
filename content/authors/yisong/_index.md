@@ -13,7 +13,7 @@ date: '2021-01'
 superuser: false
 
 # Role/position
-role: Doctoral Student (Jan '21)
+role: Doctoral Student (Jan '21)<BR/> <font color=red><strong>Research Achievement Award (RAA, '24)</strong></font>
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Doctoral Students
 #  - Researchers
 ---
 

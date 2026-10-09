@@ -4,7 +4,7 @@ title: 'SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Ve
 authors:
 - xinyuan
 - liangming 
-- Qian Liu
+- qian
 - Preslav Nakov
 - min
 date: '2023-12-01'
@@ -27,7 +27,11 @@ abstract: Current scientific fact-checking benchmarks exhibit several shortcomin
   uncovers several unique challenges posed by SCITAB, including table grounding, claim
   ambiguity, and compositional reasoning. Our codes and data are publicly available
   at https://github.com/XinyuanLu00/SciTab.
+summary: 'A scientific table benchmark for compositional reasoning and claim verification.'
 links:
 - name: URL
   url: https://aclanthology.org/2023.emnlp-main.483
+image:
+  caption: 'SCITAB table reasoning example.'
+  preview_only: false
 ---
