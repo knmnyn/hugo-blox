@@ -12,7 +12,7 @@ date: '2026-08'
 superuser: false
 
 # Role/position
-role: Research Assistant (Aug '26)
+role: Research Intern (Aug '26)
 
 organizations:
   - name: National University of Singapore, School of Computing
