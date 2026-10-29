@@ -43,7 +43,7 @@ email: "vuvinh@u.nus.edu"
 highlight_name: false
 
 user_groups:
-  - Undergraduate Students
+  - Visitors / Interns
 ---
 
 Vinh is a first year undergraduate student major in CS at NUS and a Research Assistant at WING under the supervision of Prof. Min-Yen Kan along side PhD student Do Xuan Long. His current work studies visual shortcut learning in social intelligence tasks. 
